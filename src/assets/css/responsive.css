@@ -1,0 +1,255 @@
+/* //default */
+@media screen and (max-width: 767px) {
+
+    .contain_max {
+        max-width: 1200px;
+    }
+
+    .hidden_nav {
+        display: none;
+    }
+
+    .icoNav {
+        display: none;
+    }
+
+    .daily {
+        margin-top: 50px;
+    }
+
+    .max_desk {
+        margin-top: 30px;
+        padding: 10px;
+        font-size: 10px;
+    }
+
+    .ico_pad {
+        margin-top: 10px;
+        padding: 20px;
+    }
+
+    .sugaris_items {
+        margin-top: 20px;
+    }
+
+    .support_brand {
+        margin-top: 30px;
+    }
+
+    .header_image {
+        margin-top: 70px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .shine_text_light {
+        margin-top: 120px;
+    }
+
+    .shine {
+        font-size: 25px;
+        padding: 10px;
+    }
+
+    .simple-bar-chart {
+        height: 20rem;
+    }
+
+    .text_love {
+        font-size: 25px;
+    }
+
+    .text_desk_love {
+        font-size: 15px;
+    }
+
+    .introduction_card {
+        text-align: center;
+    }
+
+    .skill {
+        font-size: 25px;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .dm_sans {
+        flex-direction: column;
+    }
+
+    .btn-about {
+        margin-top: 50px;
+    }
+
+    .bg_marquee {
+        margin-top: 20px;
+    }
+
+    .desk_gear_emoji {
+        text-align: center;
+    }
+
+    .geaer_emoji {
+        font-size: 10px;
+    }
+
+    .flex_responsive_parallax {
+
+        flex-direction: column;
+    }
+
+    .parallax2 {
+        margin-top: 20px;
+    }
+
+    .max-desk-parallax1 {
+        text-align: center;
+    }
+
+    .max-desk-parallax2 {
+        text-align: center;
+    }
+
+    .information_site {
+        margin: 10px;
+    }
+
+    .dream-text {
+        text-align: center;
+    }
+
+    .desk_footer {
+        padding: 15px;
+    }
+
+    .group_cr {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .gallery-grid {
+        margin: 10px;
+    }
+
+    .slideImport {
+        flex-direction: column;
+    }
+
+    .settings_text {
+        line-height: 40px;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .desk_text_settings {
+        text-align: center;
+        line-height: 33px;
+    }
+
+    .padding_hero {
+        padding: 1px;
+    }
+
+    .content_Desk {
+        margin: 20px;
+        margin-left: 0;
+    }
+
+    /* //hidden frontend logo ico framework// */
+    .html_hidden_mobile,
+    .vue_hidden_mobile,
+    .svelte_hidden_mobile,
+    .react_hidden_mobile,
+    .angular_hidden_mobile,
+    .tailwind_hidden_mobile,
+    .bootstrap_hidden_mobile,
+    .vite_hidden_mobile,
+    .nuxt_hidden_mobile,
+    .vuetify_hidden_mobile,
+    .pug_hidden_mobile,
+    .css_hidden_mobile,
+    .js_hidden_ico {
+        display: none;
+    }
+
+    /* //hidden backend logo ico framework //*/
+    .nest_hidden_mobile,
+    .express_hidden_mobile,
+    .ruby_hidden_mobile,
+    .next_hidden_mobile,
+    .hapi_hidden_mobile,
+    .symfony_hidden_mobile,
+    .laravel_hidden_mobile,
+    .fast_hidden_mobile,
+    .django_hidden_mobile {
+        display: none;
+    }
+
+    .gallery-grid {
+        margin-top: 30px;
+    }
+
+
+    .globe_mod {
+        display: none;
+    }
+
+    .zetdzak_name {
+        font-size: 20px;
+    }
+
+    .gradient_nusantara {
+        line-height: 50px;
+        font-size: 40px;
+    }
+
+    .ClassName_desk_nusantara {
+        font-size: 13px;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+
+    .for_text_center_mobile {
+        text-align: center;
+    }
+
+    .class_grid_image {
+        margin-top: 20px;
+    }
+
+
+    .gallery_items_img {
+        margin-top: 20px;
+    }
+
+    .gallery_items_img2, .gallery_items_img3, .gallery_items_img4 {
+        margin-top: 30px;
+    }
+
+    .max_paragraph {
+        margin-top: 2px;
+    }
+  
+}
+
+@media screen and (min-width: 1023px) {
+    .wrapper {
+        justify-content: space-around;
+    }
+}
+
+@media screen and (max-width: 1180px) {
+    .col_content {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:423px) {
+    html {
+        margin: 0;
+        padding: 0;
+        margin-right: 0;
+        padding-right: 0;
+    }
+}
