@@ -146,6 +146,20 @@
     <section class="ClassName dm_sans">
       <div class="container px-6 py-10 mx-auto mt-80">
         <h1 class="text-2xl font-medium text-center text-gray-800 capitalize lg:text-5xl dark:text-gray-200">gallery For Us Peformance</h1>
+        <div class="line_vertical mx-auto flex justify-center mt-10">
+          <svg xmlns="http://www.w3.org/2000/svg" width="50" height="117" viewBox="0 0 50 147" fill="none">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M25 3.675C24.6685 3.675 24.3505 4.06219 24.1161 4.75138C23.8817 5.44058 23.75 6.37533 23.75 7.35V139.65C23.75 140.625 23.8817 141.559 24.1161 142.249C24.3505 142.938 24.6685 143.325 25 143.325C25.3315 143.325 25.6495 142.938 25.8839 142.249C26.1183 141.559 26.25 140.625 26.25 139.65V7.35C26.25 6.37533 26.1183 5.44058 25.8839 4.75138C25.6495 4.06219 25.3315 3.675 25 3.675Z" fill="#A8A8A8" />
+          </svg>
+        </div>
+        <div class="image_square">
+          <div class="desk_image_square text-center dark:text-gray-200 mt-10">
+            <h3 class="text-4xl font-medium">Other Our Actifity</h3>
+            <p class="mt-5 leading-8">
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. <br />
+              Pariatur modi veritatis cupiditate assumenda possimus quaerat.
+            </p>
+          </div>
+        </div>
 
         <div class="class_grid_image grid grid-cols-1 sm:gap xl:mt-20 xl:gap-12 lg:grid-cols-2">
           <div class="gallery_items_img flex items-end overflow-hidden bg-cover rounded-2xl h-96 hover:scale-105 duration-100" style="background-image: url('https://images.unsplash.com/photo-1621111848501-8d3634f82336?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80')">
@@ -180,26 +194,14 @@
     </section>
 
     <section>
-      <div class="other_gallery_card mt-20">
-        <div class="line_vertical mx-auto flex justify-center">
-          <svg xmlns="http://www.w3.org/2000/svg" width="50" height="117" viewBox="0 0 50 147" fill="none">
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M25 3.675C24.6685 3.675 24.3505 4.06219 24.1161 4.75138C23.8817 5.44058 23.75 6.37533 23.75 7.35V139.65C23.75 140.625 23.8817 141.559 24.1161 142.249C24.3505 142.938 24.6685 143.325 25 143.325C25.3315 143.325 25.6495 142.938 25.8839 142.249C26.1183 141.559 26.25 140.625 26.25 139.65V7.35C26.25 6.37533 26.1183 5.44058 25.8839 4.75138C25.6495 4.06219 25.3315 3.675 25 3.675Z" fill="#A8A8A8" />
-          </svg>
-        </div>
-        <div class="image_square">
-          <div class="desk_image_square text-center dark:text-gray-200 mt-10">
-            <h3 class="text-4xl font-medium">Other Our Actifity</h3>
-            <p class="mt-5 leading-8">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. <br />
-              Pariatur modi veritatis cupiditate assumenda possimus quaerat.
-            </p>
-          </div>
-        </div>
-
+      <div class="other_gallery_card mt-10">
         <!-- //galely grid square -->
-        <div class="flex flex-wrap mx-auto justify-center mt-10 p-2 gap-2 rounded-3xl">
+        <div class="flex flex-wrap mx-auto justify-center mt-10 rounded-3xl">
           <div class="w-full sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4 p-4">
             <img class="rounded-2xl hover:scale-105 duration-100" src="../assets/img/zet.jpg" alt="" />
+          </div>
+          <div class="w-full sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4 p-4">
+            <img class="rounded-2xl hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
           </div>
           <div class="w-full sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4 p-4">
             <img class="rounded-2xl hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
@@ -208,15 +210,38 @@
             <img class="rounded-2xl hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
           </div>
         </div>
-        <div class="flex flex-wrap mx-auto justify-center mt-2 p-2 gap-2 rounded-3xl">
-          <div class="w-full sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4 p-4">
-            <img class="rounded-2xl hover:scale-105 duration-100" src="../assets/img/zet.jpg" alt="" />
+      </div>
+    </section>
+
+    <section class="p-6 mt-60 dark:text-gray-200">
+      <div class="flex items-center">
+        <div class="ClassName img">
+          <img src="../assets/img/rplcoding.jpg" class="rounded-3xl hover:scale-105 duration-100" width="950px" alt="">
+        </div>
+        <div class="container mx-auto grid justify-center grid-cols-2 text-center lg:grid-cols-3">
+          <div class="flex flex-col justify-start m-2 lg:m-6">
+            <p class="text-4xl font-bold leadi lg:text-6xl">50+</p>
+            <p class="text-sm sm:text-base mt-5">Clients</p>
           </div>
-          <div class="w-full sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4 p-4">
-            <img class="rounded-2xl hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
+          <div class="flex flex-col justify-start m-2 lg:m-6">
+            <p class="text-4xl font-bold leadi lg:text-6xl">89K</p>
+            <p class="text-sm sm:text-base mt-5">Followers on social media</p>
           </div>
-          <div class="w-full sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4 p-4">
-            <img class="rounded-2xl hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
+          <div class="flex flex-col justify-start m-2 lg:m-6">
+            <p class="text-4xl font-bold leadi lg:text-6xl">3</p>
+            <p class="text-sm sm:text-base mt-5">Published books</p>
+          </div>
+          <div class="flex flex-col justify-start m-2 lg:m-6">
+            <p class="text-4xl font-bold leadi lg:text-6xl">8</p>
+            <p class="text-sm sm:text-base mt-5">TED talks</p>
+          </div>
+          <div class="flex flex-col justify-start m-2 lg:m-6">
+            <p class="text-4xl font-bold leadi lg:text-6xl">22</p>
+            <p class="text-sm sm:text-base mt-5">Years of experience</p>
+          </div>
+          <div class="flex flex-col justify-start m-2 lg:m-6">
+            <p class="text-4xl font-bold leadi lg:text-6xl">10+</p>
+            <p class="text-sm sm:text-base mt-5">Workshops</p>
           </div>
         </div>
       </div>
@@ -232,5 +257,4 @@
   .Explore_our_leading {
     line-height: 50px;
   }
-
 </style>
