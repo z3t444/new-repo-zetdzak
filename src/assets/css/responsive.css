@@ -230,6 +230,44 @@
     .max_paragraph {
         margin-top: 2px;
     }
+
+    .test_gradient_backgorund {
+        flex-direction: column;
+    }
+
+    .hero_about {
+        text-align: center;
+    }
+
+    .cardabout2, .cardabout3 {
+        margin-top: 100px;
+    }
+
+    .asset_profile {
+        margin: auto;
+        width: 190px;
+    }
+
+    .coloumn_rate {
+        padding: 25px;
+        flex-direction: column;
+    }
+
+    .container_rate {
+        margin-top: 50px;
+    }
+
+    .pfrm_txt {
+        text-align: center;
+        margin: 10px;
+        margin-top: 200px;
+    }
+
+
+    .icon_framework_about {
+        margin-top: 0;
+    }
+
   
 }
 

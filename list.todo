@@ -215,3 +215,31 @@
         </marquee>
       </div>
     </section>
+
+
+
+
+
+
+
+
+TODO <div class="other_gallery_card mt-40">
+        <!-- //galely grid square -->
+        <h2 class="text-3xl text-center font-medium">Our Team</h2>
+        <div class="flex mx-auto justify-center mt-10 rounded-3xl">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-60 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/zet.jpg" alt="" />
+          </div>
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-60 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
+          </div>
+        </div>
+        <div class="flex mx-auto justify-center mt-10 rounded-3xl">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-60 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/zet.jpg" alt="" />
+          </div>
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-60 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
+          </div>
+        </div>
+      </div>

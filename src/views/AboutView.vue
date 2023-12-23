@@ -28,7 +28,7 @@
     </div>
     <!-- // -->
 
-    <div class="flex flex-col justify-between items-center sm:flex-row mt-20 gap-10">
+    <div class="flex hero_about flex-col justify-between items-center sm:flex-row mt-20 gap-10">
       <div class="p-1 w-full sm:w-1/2">
         <p class="text-orange-400">Master of Management System</p>
         <h3 class="dark:text-gray-200 font-medium mt-2 text-5xl leading-tight">
@@ -101,7 +101,7 @@
         </div>
       </div>
       <!-- image  -->
-      <div class="ClassName text-center">
+      <div class="ClassName cardabout2 text-center">
         <p class="text-orange-400 text-lg">ZetDzak</p>
         <h3 class="text-5xl font-medium mt-4 dark:text-gray-200">Easy Program</h3>
         <p class="mt-5 leading-8">
@@ -110,7 +110,7 @@
         </p>
       </div>
 
-      <div class="ClassName text-end">
+      <div class="ClassName cardabout3 text-end">
         <p class="text-orange-400 text-lg">🧑 Zet</p>
         <h3 class="text-5xl font-medium mt-4 dark:text-gray-200">Easy Layout</h3>
         <p class="mt-5 leading-8">
@@ -149,11 +149,78 @@
       </div>
     </div>
 
+    <section>
+      <div class="other_gallery_card mt-96" style="margin-top: 600px">
+        <!-- //galely grid square -->
+        <h2 class="text-3xl text-center font-medium">Our Team</h2>
+        <div class="flex flex-wrap gap-10 mx-auto justify-center mt-10 rounded-3xl">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/zet.jpg" alt="" />
+            <div class="text-center mt-5">
+              <h3 class="text-3xl font-medium">Im Zet</h3>
+              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+            </div>
+          </div>
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
+            <div class="text-center mt-5">
+              <h3 class="text-3xl font-medium">Im Zet</h3>
+              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+            </div>
+          </div>
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/zet.jpg" alt="" />
+            <div class="text-center mt-5">
+              <h3 class="text-3xl font-medium">Im Zet</h3>
+              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+            </div>
+          </div>
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
+            <div class="text-center mt-5">
+              <h3 class="text-3xl font-medium">Im Zet</h3>
+              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+            </div>
+          </div>
+        </div>
+        <div class="flex flex-wrap mx-auto gap-10 justify-center mt-20 rounded-3xl">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/zet.jpg" alt="" />
+            <div class="text-center mt-5">
+              <h3 class="text-3xl font-medium">Im Zet</h3>
+              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+            </div>
+          </div>
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
+            <div class="text-center mt-5">
+              <h3 class="text-3xl font-medium">Im Zet</h3>
+              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+            </div>
+          </div>
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/zet.jpg" alt="" />
+            <div class="text-center mt-5">
+              <h3 class="text-3xl font-medium">Im Zet</h3>
+              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+            </div>
+          </div>
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4">
+            <img class="rounded-full asset_profile hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
+            <div class="text-center mt-5">
+              <h3 class="text-3xl font-medium">Im Zet</h3>
+              <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section class="ClassName dm_sans">
       <div class="container px-6 py-10 mx-auto mt-80">
         <h1 class="text-2xl font-medium text-center text-gray-800 capitalize lg:text-5xl dark:text-gray-200">gallery For Us Peformance</h1>
         <div class="line_vertical mx-auto flex justify-center mt-10">
-          <svg xmlns="http://www.w3.org/2000/svg" width="50" height="117" viewBox="0 0 50 147" fill="none">
+          <svg xmlns="http://www.w3.org/2000/svg" width="50" height="40" viewBox="0 0 50 147" fill="none">
             <path fill-rule="evenodd" clip-rule="evenodd" d="M25 3.675C24.6685 3.675 24.3505 4.06219 24.1161 4.75138C23.8817 5.44058 23.75 6.37533 23.75 7.35V139.65C23.75 140.625 23.8817 141.559 24.1161 142.249C24.3505 142.938 24.6685 143.325 25 143.325C25.3315 143.325 25.6495 142.938 25.8839 142.249C26.1183 141.559 26.25 140.625 26.25 139.65V7.35C26.25 6.37533 26.1183 5.44058 25.8839 4.75138C25.6495 4.06219 25.3315 3.675 25 3.675Z" fill="#A8A8A8" />
           </svg>
         </div>
@@ -199,65 +266,15 @@
       </div>
     </section>
 
-    <section>
-      <div class="other_gallery_card mt-10">
-        <!-- //galely grid square -->
-        <div class="flex flex-wrap mx-auto justify-center mt-10 rounded-3xl">
-          <div class="w-full sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4 p-4">
-            <img class="rounded-2xl hover:scale-105 duration-100" src="../assets/img/zet.jpg" alt="" />
-          </div>
-          <div class="w-full sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4 p-4">
-            <img class="rounded-2xl hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
-          </div>
-          <div class="w-full sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4 p-4">
-            <img class="rounded-2xl hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
-          </div>
-          <div class="w-full sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4 p-4">
-            <img class="rounded-2xl hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" alt="" />
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <div class="ClassName mt-60">
-      <h3 class="text-5xl font-medium"><span class="text-red-500 pfrm_red">Peformance</span> Single Player</h3>
+    <div class="ClassName pfrm_txt mt-60">
+      <h3 class="text-5xl font-medium"><span class="text-red-500 pfrm_red">Peformance</span> Team Project</h3>
+      <p class="mt-5 leading-7">
+        Lorem, ipsum dolor sit amet <br />
+        consectetur adipisicin
+      </p>
     </div>
 
-    <section class="p-6 mt-10 dark:text-gray-200">
-      <div class="flex items-center p-10 bg-gray-900 rounded-3xl">
-        <div class="ClassName img">
-          <img src="../assets/img/rplcoding.jpg" class="rounded-3xl hover:scale-105 duration-100" width="950px" alt="" />
-        </div>
-        <div class="container mx-auto grid justify-center grid-cols-2 text-center lg:grid-cols-3">
-          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-2xl">
-            <p class="text-4xl font-bold leadi lg:text-6xl">50+</p>
-            <p class="text-sm sm:text-base mt-5">Clients</p>
-          </div>
-          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-2xl">
-            <p class="text-4xl font-bold leadi lg:text-6xl">89K</p>
-            <p class="text-sm sm:text-base mt-5">Followers on social media</p>
-          </div>
-          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-2xl">
-            <p class="text-4xl font-bold leadi lg:text-6xl">3</p>
-            <p class="text-sm sm:text-base mt-5">Published books</p>
-          </div>
-          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-2xl">
-            <p class="text-4xl font-bold leadi lg:text-6xl">8</p>
-            <p class="text-sm sm:text-base mt-5">TED talks</p>
-          </div>
-          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-2xl">
-            <p class="text-4xl font-bold leadi lg:text-6xl">22</p>
-            <p class="text-sm sm:text-base mt-5">Years of experience</p>
-          </div>
-          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-xl">
-            <p class="text-4xl font-bold leadi lg:text-6xl">10+</p>
-            <p class="text-sm sm:text-base mt-5">Workshops</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="ClassName">
+    <section class="ClassName icon_framework_about mt-20">
       <div class="container p-6 mx-auto space-y-6 text-center lg:p-8 lg:space-y-8">
         <div class="flex flex-wrap justify-center lg:justify-between mt-10">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-label="Angular" class="w-12 h-12 mx-10 my-6 fill-current md:mx-12 lg:m-0 dark:text-gray-400">
@@ -296,6 +313,40 @@
             <title>Vue.js</title>
             <path d="M24.306 4.019h-4.806l-3.5 5.537-3-5.537h-11l14 23.981 14-23.981zM5.481 6.019h3.363l7.156 12.387 7.15-12.387h3.363l-10.512 18.012z"></path>
           </svg>
+        </div>
+      </div>
+    </section>
+
+    <section class="p-6 mt-10 dark:text-gray-200">
+      <div class="flex coloumn_rate items-center p-10 bg-gray-900 rounded-3xl">
+        <div class="ClassName img">
+          <img src="../assets/img/rplcoding.jpg" class="rounded-3xl hover:scale-105 duration-100" width="650px" alt="" />
+        </div>
+        <div class="container_rate mx-auto grid justify-center grid-cols-2 text-center lg:grid-cols-3">
+          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-2xl">
+            <p class="text-4xl font-bold leadi lg:text-6xl">50+</p>
+            <p class="text-sm sm:text-base mt-5">Clients</p>
+          </div>
+          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-2xl">
+            <p class="text-4xl font-bold leadi lg:text-6xl">89K</p>
+            <p class="text-sm sm:text-base mt-5">Followers on social media</p>
+          </div>
+          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-2xl">
+            <p class="text-4xl font-bold leadi lg:text-6xl">3</p>
+            <p class="text-sm sm:text-base mt-5">Published books</p>
+          </div>
+          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-2xl">
+            <p class="text-4xl font-bold leadi lg:text-6xl">8</p>
+            <p class="text-sm sm:text-base mt-5">TED talks</p>
+          </div>
+          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-2xl">
+            <p class="text-4xl font-bold leadi lg:text-6xl">22</p>
+            <p class="text-sm sm:text-base mt-5">Years of experience</p>
+          </div>
+          <div class="flex flex-col justify-start m-2 lg:m-6 shadow-xl">
+            <p class="text-4xl font-bold leadi lg:text-6xl">10+</p>
+            <p class="text-sm sm:text-base mt-5">Workshops</p>
+          </div>
         </div>
       </div>
     </section>
