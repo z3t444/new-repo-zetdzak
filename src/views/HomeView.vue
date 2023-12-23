@@ -296,7 +296,7 @@
           <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline mr-4 md:mr-6">mhmdzakyadrhm@gmail.com</a></li>
           <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline">Contact</a></li>
         </ul>
-        <div class="flex space-x-6 justify-center">
+        <div class="flex space-x-6 ico_footer justify-center">
           <facebookIco />
           <Insta />
           <a href="#" class="text-gray-500 hover:text-blue-500">
