@@ -153,8 +153,8 @@
     <section>
       <div class="other_gallery_card mt-40">
         <!-- //galely grid square -->
-        <h2 class="text-4xl text-center font-medium">Our Team</h2>
-        <div class="flex flex-wrap gap-10 mx-auto justify-center mt-10 rounded-3xl">
+        <h2 class="text-3xl text-center font-medium">Our Team</h2>
+        <div class="flex flex-wrap gap-24 mx-auto justify-center mt-10 rounded-3xl">
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
             <div class="text-center mt-5">
@@ -184,7 +184,7 @@
             </div>
           </div>
         </div>
-        <div class="flex flex-wrap mx-auto gap-10 justify-center mt-20 rounded-3xl">
+        <div class="flex flex-wrap mx-auto gap-24 justify-center mt-8 rounded-3xl">
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
             <div class="text-center mt-5">
@@ -217,80 +217,57 @@
       </div>
     </section>
 
-    <section class="ClassName dm_sans" style="margin-top: 300px">
-      <div class="container px-6 py-10 mx-auto">
-        <h1 class="text-2xl font-medium text-center text-gray-800 capitalize lg:text-5xl dark:text-gray-200">gallery For Us Peformance</h1>
+    <section class="ClassName dm_sans" style="margin-top: 400px">
+      <div class="container px-6 mx-auto">
+        <h1 class="text-2xl font-medium text-center text-gray-800 capitalize lg:text-4xl dark:text-gray-200">partner</h1>
       </div>
-    </section>
-
-    <div class="ClassName">
-      <h3 class="text-center font-medium text-3xl">Member Constribution 🙋‍♂️</h3>
-      <p class="text-center dark:text-gray-300 mt-3">10 Member Constribution On Nusantara Developer</p>
-    </div>
-    <marquee behavior="" direction="right" scrollamount="20" class="mt-2">
-      <section>
-        <div class="mt-10 rounded-3xl">
-          <div class="flex flex-wrap mx-auto gap-5 justify-center rounded-3xl">
-            <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-62 p-6 hover:scale-105 duration-100 hover:shadow-2xl">
-              <img class="rounded-full asset_profile2" src="../assets/img/zet.jpg" alt="" />
-              <div class="text-center mt-5">
-                <h3 class="text-2xl font-medium">Im Zet</h3>
-                <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-              </div>
-            </div>
-            <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-62 p-6 hover:scale-105 duration-100 hover:shadow-2xl">
-              <img class="rounded-full asset_profile2" src="../assets/img/akaksayangg.png" alt="" />
-              <div class="text-center mt-5">
-                <h3 class="text-2xl font-medium">Im Zet</h3>
-                <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-              </div>
-            </div>
-            <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-62 p-6 hover:scale-105 duration-100 hover:shadow-2xl">
-              <img class="rounded-full asset_profile2" src="../assets/img/zet.jpg" alt="" />
-              <div class="text-center mt-5">
-                <h3 class="text-2xl font-medium">Im Zet</h3>
-                <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-              </div>
-            </div>
-            <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-62 p-6 hover:scale-105 duration-100 hover:shadow-2xl">
-              <img class="rounded-full asset_profile2" src="../assets/img/akaksayangg.png" alt="" />
-              <div class="text-center mt-5">
-                <h3 class="text-2xl font-medium">Im Zet</h3>
-                <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-              </div>
-            </div>
-            <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-62 p-6 hover:scale-105 duration-100 hover:shadow-2xl">
-              <img class="rounded-full asset_profile2" src="../assets/img/akaksayangg.png" alt="" />
-              <div class="text-center mt-5">
-                <h3 class="text-2xl font-medium">Im Zet</h3>
-                <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-              </div>
-            </div>
-            <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-62 p-6 hover:scale-105 duration-100 hover:shadow-2xl">
-              <img class="rounded-full asset_profile2" src="../assets/img/akaksayangg.png" alt="" />
-              <div class="text-center mt-5">
-                <h3 class="text-2xl font-medium">Im Zet</h3>
-                <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-              </div>
-            </div>
-            <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-62 p-6 hover:scale-105 duration-100 hover:shadow-2xl">
-              <img class="rounded-full asset_profile2" src="../assets/img/akaksayangg.png" alt="" />
-              <div class="text-center mt-5">
-                <h3 class="text-2xl font-medium">Im Zet</h3>
-                <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-              </div>
-            </div>
-            <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-62 p-6 hover:scale-105 duration-100 hover:shadow-2xl">
-              <img class="rounded-full asset_profile2" src="../assets/img/akaksayangg.png" alt="" />
-              <div class="text-center mt-5">
-                <h3 class="text-2xl font-medium">Im Zet</h3>
-                <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-              </div>
-            </div>
+      <div class="flex flex-wrap mx-auto gap-24 justify-center mt-5 rounded-3xl">
+        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
+          <div class="text-center mt-7">
+            <h3 class="text-3xl font-medium">Im Zet</h3>
+            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
           </div>
         </div>
-      </section>
-    </marquee>
+        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
+          <div class="text-center mt-7">
+            <h3 class="text-3xl font-medium">Im Zet</h3>
+            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+          </div>
+        </div>
+      </div>
+      <div class="flex flex-wrap mx-auto gap-24 justify-center mt-8 rounded-3xl">
+        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
+          <div class="text-center mt-7">
+            <h3 class="text-3xl font-medium">Im Zet</h3>
+            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+          </div>
+        </div>
+        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
+          <div class="text-center mt-7">
+            <h3 class="text-3xl font-medium">Im Zet</h3>
+            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+          </div>
+        </div>
+        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
+          <div class="text-center mt-7">
+            <h3 class="text-3xl font-medium">Im Zet</h3>
+            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+          </div>
+        </div>
+        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
+          <div class="text-center mt-7">
+            <h3 class="text-3xl font-medium">Im Zet</h3>
+            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <div class="ClassName pfrm_txt mt-60">
       <h3 class="text-5xl font-medium"><span class="text-red-500 pfrm_red">Peformance</span> Team Project</h3>
@@ -300,7 +277,7 @@
       </p>
     </div>
 
-    <div class="class_grid_image grid grid-cols-1 sm:gap xl:mt-40 xl:gap-12 lg:grid-cols-2">
+    <div class="class_grid_image grid grid-cols-1 sm:gap xl:mt-20 xl:gap-12 lg:grid-cols-2">
       <div class="gallery_items_img flex items-end overflow-hidden bg-cover rounded-2xl h-96 hover:scale-105 duration-100" style="background-image: url('https://images.unsplash.com/photo-1621111848501-8d3634f82336?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80')">
         <div class="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
           <h2 class="mt-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">Best website collections</h2>
