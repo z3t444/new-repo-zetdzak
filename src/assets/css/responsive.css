@@ -276,6 +276,11 @@
     .ico_footer {
         margin-top: 30px;
     }
+
+    .maintxt_for_dc {
+        text-align: center;
+        padding: 10px;
+    }
   
 }
 
