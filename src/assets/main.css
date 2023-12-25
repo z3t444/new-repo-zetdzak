@@ -2,7 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-    margin: 0;
-    padding: 0;
-}

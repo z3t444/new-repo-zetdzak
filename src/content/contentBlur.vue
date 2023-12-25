@@ -47,7 +47,7 @@
 
   .hover-scale-flexbox {
     transition: all 0.2s ease-in-out;
-    margin-top: 20pxq;
+    margin-top: 10px;
   }
 
   .hover-scale-flexbox:hover {
