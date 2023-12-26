@@ -190,7 +190,7 @@
             </div>
           </div>
         </div>
-        <div class="flex flex-wrap mx-auto gap-10 justify-center mt-8 rounded-3xl">
+        <div class="flex flex-wrap mx-auto gap-10 justify-center mt-20 rounded-3xl">
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
             <div class="text-center mt-5">
@@ -223,57 +223,7 @@
       </div>
     </section>
 
-    <section class="ClassName dm_sans" style="margin-top: 520px">
-      <div class="container px-6 mx-auto">
-        <h1 class="text-2xl font-medium text-center text-gray-800 capitalize lg:text-3xl dark:text-gray-200">Member Discord</h1>
-      </div>
-      <div class="flex flex-wrap mx-auto gap-5 justify-center mt-8 rounded-3xl">
-        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-32 p-4 hover:scale-105 duration-100">
-          <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
-          <div class="text-center mt-7">
-            <h3 class="text-2xl font-medium">Im Zet</h3>
-            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-          </div>
-        </div>
-        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-32 p-4 hover:scale-105 duration-100">
-          <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
-          <div class="text-center mt-7">
-            <h3 class="text-2xl font-medium">Im Zet</h3>
-            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-          </div>
-        </div>
-        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-32 p-4 hover:scale-105 duration-100">
-          <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
-          <div class="text-center mt-7">
-            <h3 class="text-2xl font-medium">Im Zet</h3>
-            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-          </div>
-        </div>
-        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-32 p-4 hover:scale-105 duration-100">
-          <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
-          <div class="text-center mt-7">
-            <h3 class="text-2xl font-medium">Im Zet</h3>
-            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-          </div>
-        </div>
-        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-32 p-4 hover:scale-105 duration-100">
-          <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
-          <div class="text-center mt-7">
-            <h3 class="text-2xl font-medium">Im Zet</h3>
-            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-          </div>
-        </div>
-        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-32 p-4 hover:scale-105 duration-100">
-          <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
-          <div class="text-center mt-7">
-            <h3 class="text-2xl font-medium">Im Zet</h3>
-            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <div class="ClassName maintxt_for_dc flex items-center justify-between p-10" style="margin-top: 50px">
+    <div class="ClassName maintxt_for_dc flex items-center justify-between p-10" style="margin-top: 450px">
       <h3 class="text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
       <div class="ClassName flex discord_and_button items-center space-x-2 p-3 border border-gray-900 rounded-full bg-gray-800 hover:shadow-2xl duration-100 hover:scale-105">
         <discordIco />
@@ -309,6 +259,98 @@
           <div class="flex flex-col justify-start m-2 lg:m-6 dark:shadow-2xl hover:scale-105 duration-100">
             <p class="text-4xl font-bold leadi lg:text-6xl">10+</p>
             <p class="text-sm sm:text-base mt-5">Workshops</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="dark:text-gray-200 mt-24">
+      <div class="container px-5 mx-auto">
+        <div class="flex flex-col text-start w-full mb-20">
+          <h1 class="sm:text-4xl text-2xl font-medium  mb-4 dark:text-gray-200">Our Team</h1>
+          <p class="lg:w-2/6 mt-2 dark:text-gray-300 leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
+        </div>
+        <div class="flex flex-wrap -m-2">
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 border p-4 rounded-2xl hover:scale-105 duration-100">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">Holden Caulfield</h2>
+                <p class="text-gray-400">UI Designer</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 border p-4 rounded-2xl hover:scale-105 duration-100">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">Henry Letham</h2>
+                <p class="text-gray-400">CTO</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 border p-4 rounded-2xl hover:scale-105 duration-100">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">Oskar Blinde</h2>
+                <p class="text-gray-400">Founder</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 border p-4 rounded-2xl hover:scale-105 duration-100">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">John Doe</h2>
+                <p class="text-gray-400">DevOps</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 border p-4 rounded-2xl hover:scale-105 duration-100">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">Martin Eden</h2>
+                <p class="text-gray-400">Software Engineer</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 border p-4 rounded-2xl hover:scale-105 duration-100">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">Boris Kitua</h2>
+                <p class="text-gray-400">UX Researcher</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 border p-4 rounded-2xl hover:scale-105 duration-100">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">Atticus Finch</h2>
+                <p class="text-gray-400">QA Engineer</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 border p-4 rounded-2xl hover:scale-105 duration-100">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">Alper Kamu</h2>
+                <p class="text-gray-400">System</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 border p-4 rounded-2xl hover:scale-105 duration-100">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">Rodrigo Monchi</h2>
+                <p class="text-gray-500">Product Manager</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
