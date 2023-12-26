@@ -223,7 +223,9 @@
         margin-top: 20px;
     }
 
-    .gallery_items_img2, .gallery_items_img3, .gallery_items_img4 {
+    .gallery_items_img2,
+    .gallery_items_img3,
+    .gallery_items_img4 {
         margin-top: 30px;
     }
 
@@ -239,7 +241,8 @@
         text-align: center;
     }
 
-    .cardabout2, .cardabout3 {
+    .cardabout2,
+    .cardabout3 {
         margin-top: 100px;
     }
 
@@ -272,7 +275,7 @@
         margin: auto;
         width: 150px;
     }
-    
+
     .ico_footer {
         margin-top: 30px;
     }
@@ -303,7 +306,7 @@
     .manage_system_security {
         line-height: 55px;
     }
-  
+
 }
 
 @media screen and (min-width: 1023px) {
