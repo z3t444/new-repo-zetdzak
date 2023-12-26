@@ -243,3 +243,44 @@ TODO <div class="other_gallery_card mt-40">
           </div>
         </div>
       </div>
+
+
+
+
+
+
+
+
+
+      TODO  <div class="w-full lg:w-1/2 p-10">
+          <div class="flex flex-wrap gap-3">
+            <div class="w-full sm:w-1/2 md:w-1/4 lg:w-72 justify-around p-4 m-2 flex dark:border dark:border-gray-800 rounded-2xl hover:scale-105 duration-100">
+              <div><Discord /></div>
+              <div class="ClassName">
+                <h4 class="dark:text-gray-300">View Of</h4>
+                <h4 class="text-base font-semibold mt-2">Repo GitHub</h4>
+              </div>
+            </div>
+            <div class="w-full sm:w-1/2 md:w-1/4 lg:w-72 justify-around p-4 m-2 flex dark:border dark:border-gray-800 rounded-2xl hover:scale-105 duration-100">
+              <div><Discord /></div>
+              <div class="ClassName">
+                <h4 class="dark:text-gray-300">View Of</h4>
+                <h4 class="text-base font-semibold mt-2">Repo GitHub</h4>
+              </div>
+            </div>
+            <div class="w-full sm:w-1/2 md:w-1/4 lg:w-72 justify-around p-4 m-2 flex dark:border dark:border-gray-800 rounded-2xl hover:scale-105 duration-100">
+              <div><Discord /></div>
+              <div class="ClassName">
+                <h4 class="dark:text-gray-300">View Of</h4>
+                <h4 class="text-base font-semibold mt-2">Repo GitHub</h4>
+              </div>
+            </div>
+            <div class="w-full sm:w-1/2 md:w-1/4 lg:w-72 justify-around p-4 m-2 flex dark:border dark:border-gray-800 rounded-2xl hover:scale-105 duration-100">
+              <div><Discord /></div>
+              <div class="ClassName">
+                <h4 class="dark:text-gray-300">View Of</h4>
+                <h4 class="text-base font-semibold mt-2">Repo GitHub</h4>
+              </div>
+            </div>
+          </div>
+        </div>

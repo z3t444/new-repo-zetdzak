@@ -1,8 +1,7 @@
 <template>
-  <!-- //Graph Peformance// -->
   <div class="graph_peformance dm_sans">
     <div class="simple-bar-chart mx-auto mt-10">
-      <div class="item hover:text-green-400 duration-100" style="--clr: #5eb344; --val: 90">
+      <div class="item" style="--clr: #5eb344; --val: 90">
         <div class="label mt-3">Framework</div>
         <div class="value">80%</div>
       </div>
