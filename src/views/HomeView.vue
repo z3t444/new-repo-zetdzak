@@ -50,7 +50,7 @@
 
 <template>
   <body class="dm_sans">
-    <div class="bg-white dark:bg-gray-950">
+    <div class="ClassName">
       <div class="relative xl:container mx-auto">
         <div>
           <p class="sm:text-lg daily text-orange-400 text-center md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-semibold lg:w-11/12">Daily Us Collaboration</p>
@@ -142,7 +142,7 @@
     </div>
   </div>
 
-  <div class="flex flex-col dm_sans md:flex-row mt-60 justify-around space-x-2 items-center padding_hero p-16 border border-gray-200 dark:bg-gray-900 dark:border-gray-800 rounded-3xl">
+  <div class="flex flex-col dm_sans md:flex-row mt-60 justify-around space-x-2 items-center padding_hero p-16 border border-gray-200 dark:border-gray-800 rounded-3xl" style="background-color: #1c1c2e">
     <div class="galleryGrid">
       <GalleryGrid />
     </div>
@@ -169,7 +169,7 @@
 
   <div class="flex flex-wrap dm_sans mt-10 text-black dark:text-white">
     <div class="w-full sm:w-1/2 md:w-1/4 p-3">
-      <div class="border1 h-72 border hover:scale-110 duration-150 dark:border-gray-800 dark:bg-gray-900 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-between hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
+      <div class="border1 h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-between hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30" style="background-color: #1c1c2e">
         <Profile />
         <h3 class="text-2xl font-semibold mt-7">Be friendly</h3>
         <p class="mt-5 dark:text-gray-300">We are very friendly in every way, such as collaboration and Q&A.</p>
@@ -178,7 +178,7 @@
 
     <div class="w-full sm:w-1/2 md:w-1/4 p-3">
       <div class="border2 h-72 rounded-3xl hadow-md flex items-center justify-center">
-        <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 dark:bg-gray-900 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30">
+        <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
           <Clock />
           <h3 class="text-2xl font-semibold mt-7">24/7 Hours</h3>
           <p class="mt-5 dark:text-gray-300">we work in a 24-hour week. to improve performance and flight hours for us developers.</p>
@@ -188,7 +188,7 @@
 
     <div class="w-full sm:w-1/2 md:w-1/4 p-3">
       <div class="border3 h-72 rounded-3xl flex items-center justify-center">
-        <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 dark:bg-gray-900 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30">
+        <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30" style="background-color: #1c1c2e">
           <Lightning />
           <h3 class="text-2xl font-semibold mt-7">Faster</h3>
           <p class="mt-5 dark:text-gray-300">we are fast in working on requests from clients. because we have been trained to respond quickly</p>
@@ -198,7 +198,7 @@
 
     <div class="w-full sm:w-1/2 md:w-1/4 p-3">
       <div class="border4 h-72 rounded-3xl flex items-center justify-center">
-        <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 dark:bg-gray-900 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-green-600/20 dark:hover:border-green-300/30">
+        <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-green-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
           <chat />
           <h3 class="text-2xl font-semibold mt-7">Message</h3>
           <p class="mt-5 dark:text-gray-300">we will always answer questions or statements from others if we really need to communicate.</p>
@@ -213,7 +213,7 @@
         <p class="skill text-4xl font-normal dark:text-gray-200">Web <span class="dev_txt font-semibold">dev</span> framework <span class="skills_txt font-semibold">skills</span> that we <span class="master_txt font-semibold">master</span></p>
       </div>
     </div>
-    <div class="mt-16 bg_marquee bg-gray-100 dark:bg-gray-800 rounded-3xl">
+    <div class="mt-16 bg_marquee rounded-3xl" style="background-color: #1c1c2e">
       <div>
         <!-- //marquee icon frontend// -->
         <marquee class="marquee1 rounded-3xl" behavior="" direction="" scrollamount="15">
@@ -254,7 +254,7 @@
       <div class="dm_sans mt-20 flex items-center desk_gear_emoji justify-between">
         <div>
           <h2 class="text-3xl dark:text-gray-300 font-semibold">Awesome Framework Use <span class="gear_emoji">⚙️</span></h2>
-          <p class="dark:text-gray-300 mt-5 xl:w-3/4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, molestiae at. In hic nisi eveniet quia alias dicta pariatur autem delectus nesciunt omnis sit voluptatem corporis quisquam, eaque, laborum rerum. </p>
+          <p class="dark:text-gray-300 mt-5 xl:w-3/4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, molestiae at. In hic nisi eveniet quia alias dicta pariatur autem delectus nesciunt omnis sit voluptatem corporis quisquam, eaque, laborum rerum.</p>
         </div>
         <div class="btn-about flex space-x-3">
           <a href="#" class="text-black dark:text-white text-md font-medium w-32 text-center bg-cyan-300 hover:bg-cyan-500 duration-150 dark:bg-cyan-500 hover:dark:bg-cyan-600 p-5 pt-3 pb-3 rounded-full link_about" target="_blank">About Me</a>
@@ -267,10 +267,10 @@
   <!-- //content profile// -->
   <div class="mt-5">
     <div class="flex flex_responsive_parallax justify-center">
-      <div class="p-4 m-2 parallax1 bg-gray-100 dark:bg-gray-800 rounded-3xl sm:w-1/2">
+      <div class="p-4 m-2 parallax1 bg-gray-100 rounded-3xl sm:w-1/2" style="background-color: #1c1c2e">
         <paralax1 />
       </div>
-      <div class="p-4 m-2 parallax2 bg-gray-100 dark:bg-gray-800 rounded-3xl sm:w-1/2 lg:w-full">
+      <div class="p-4 m-2 parallax2 bg-gray-100 rounded-3xl sm:w-1/2 lg:w-full" style="background-color: #1c1c2e">
         <paralax2 />
       </div>
     </div>
@@ -287,7 +287,7 @@
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus velit enim eligendi vero <br />
         Placeat voluptates ad suscipit, hic officiis vel sed eligendi qui, dolorum rerum
       </p>
-      
+
       <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
         <ul class="flex group_cr items-center flex-wrap md:mb-0">
           <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline mr-4 md:mr-6">@copyright</a></li>
