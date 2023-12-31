@@ -227,7 +227,7 @@
         </div>
         <div class="flex flex-wrap -m-2">
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e;">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Holden Caulfield</h2>
@@ -236,7 +236,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e;">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Henry Letham</h2>
@@ -245,7 +245,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e;">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Oskar Blinde</h2>
@@ -254,7 +254,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e;">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">John Doe</h2>
@@ -263,7 +263,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e;">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Martin Eden</h2>
@@ -272,7 +272,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e;">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Boris Kitua</h2>
@@ -281,7 +281,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e;">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Atticus Finch</h2>
@@ -290,7 +290,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e;">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Alper Kamu</h2>
@@ -299,7 +299,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e;">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Rodrigo Monchi</h2>
@@ -307,6 +307,26 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="mt-60">
+        <div class="ClassName text-center">
+          <h3 class="text-4xl font-medium">You can leave a message below</h3>
+          <p class="xl:w-1/4 mx-auto mt-5 text-gray-400">Tell me whatever it is. give us the best message so that we are more enthusiastic to work.</p>
+        </div>
+        <div class="mt-20">
+          <form action="https://api.web3forms.com/submit" method="POST" class="grid gap-4 max-w-5xl mx-auto p-4 rounded-lg">
+            <input type="hidden" name="access_key" value="3a928331-13f9-4e84-86cf-adb4fb41d57e" />
+            <div class="flex items-center gap-4">
+              <input type="text" name="name" required placeholder="Your Name" class="w-full px-3 py-2 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
+              <input type="email" name="email" required placeholder="Your Email" class="w-full px-3 py-2 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
+            </div>
+            <textarea name="message" required placeholder="Your Message" class="w-full px-3 py-2 h-40 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
+            <button type="submit" class="w-48 mx-auto mt-10 py-2 px-4 text-sm  text-white font-semibold rounded-xl hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
+          </form>
         </div>
       </div>
     </section>
