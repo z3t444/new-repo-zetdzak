@@ -4,7 +4,6 @@
   import facebookIco from "../assets/ico/facebookIco.vue"
   import Insta from "../assets/ico/insta.vue"
   import pcIco from "../assets/ico/pcIco.vue"
-  import discordIco from "../assets/ico/discordIco.vue"
 </script>
 
 <template>
