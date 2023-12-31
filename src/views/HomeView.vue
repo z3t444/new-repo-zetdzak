@@ -254,10 +254,10 @@
       <div class="dm_sans mt-20 flex items-center desk_gear_emoji justify-between">
         <div>
           <h2 class="text-3xl dark:text-gray-300 font-semibold">Awesome Framework Use <span class="gear_emoji">⚙️</span></h2>
-          <p class="dark:text-gray-300 mt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias amet</p>
+          <p class="dark:text-gray-300 mt-5 xl:w-3/4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, molestiae at. In hic nisi eveniet quia alias dicta pariatur autem delectus nesciunt omnis sit voluptatem corporis quisquam, eaque, laborum rerum. </p>
         </div>
         <div class="btn-about flex space-x-3">
-          <a href="#" class="text-black dark:text-white text-md font-medium bg-cyan-300 hover:bg-cyan-500 duration-150 dark:bg-cyan-500 hover:dark:bg-cyan-600 p-5 pt-3 pb-3 rounded-full link_about" target="_blank">About Me</a>
+          <a href="#" class="text-black dark:text-white text-md font-medium w-32 text-center bg-cyan-300 hover:bg-cyan-500 duration-150 dark:bg-cyan-500 hover:dark:bg-cyan-600 p-5 pt-3 pb-3 rounded-full link_about" target="_blank">About Me</a>
           <arrow />
         </div>
       </div>

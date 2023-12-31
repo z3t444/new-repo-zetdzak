@@ -30,7 +30,7 @@
     </div>
     <!-- // -->
 
-    <div class="flex hero_about flex-col justify-between items-center sm:flex-row mt-40 gap-10">
+    <div class="flex hero_about flex-col justify-between items-center sm:flex-row mt-20 gap-10">
       <div class="p-4 w-full sm:w-1/2 rounded-2xl">
         <div class="for_import">
           <Graph />
@@ -116,28 +116,28 @@
       <div class="other_gallery_card mt-44">
         <h2 class="text-3xl text-center font-medium">Our main Team</h2>
         <div class="flex flex-wrap gap-10 mx-auto justify-center mt-10 rounded-3xl">
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/relpicture.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
@@ -146,28 +146,28 @@
           </div>
         </div>
         <div class="flex flex-wrap mx-auto gap-10 justify-center mt-20 rounded-3xl">
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 hover:scale-105 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
