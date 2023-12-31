@@ -109,7 +109,7 @@
           awesome <span class="underline decoration-blue-500">Components</span>
         </h1>
 
-        <p class="mt-4 text-gray-500 xl:mt-6 dark:text-gray-300">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
+        <p class="mt-4 text-gray-500 xl:mt-8 dark:text-gray-300 xl:w-2/6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
 
         <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-20 xl:gap-10 md:grid-cols-2 xl:grid-cols-3">
           <div class="space-y-3 p-10 rounded-3xl" style="background-color: #1c1c2e">
@@ -174,12 +174,12 @@
           </div>
         </div>
       </div>
-    </section> 
+    </section>
 
     <section class="text-gray-400 mt-40 rounded-3xl overflow-hidden" style="background-color: #1c1c2e">
       <div class="container py-16 mx-auto">
         <div class="lg:w-4/5 mx-auto flex items-center flex-wrap">
-          <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded-3xl hover:scale-105 duration-100" src="https://dummyimage.com/400x400" />
+          <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded-3xl hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" />
           <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
             <h2 class="text-sm title-font text-gray-500 tracking-widest">BRAND NAME</h2>
             <h1 class="text-gray-200 text-3xl title-font font-medium mb-1">The Catcher in the Rye</h1>
