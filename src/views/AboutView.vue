@@ -64,7 +64,7 @@
       </div>
     </div>
 
-    <div class="ClassName mt-28 p-12 rounded-3xl" style="background-color: #1c1c2e">
+    <div class="ClassName mt-28 grid_github p-12 rounded-3xl" style="background-color: #1c1c2e">
       <div class="flex flex-wrap items-center justify-between">
         <!-- Box Kedua dengan 4 Grid Box -->
         <div class="w-full md:w-1/2 p-4">

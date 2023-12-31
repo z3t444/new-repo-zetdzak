@@ -177,7 +177,7 @@
     </section>
 
     <section class="text-gray-400 mt-40 rounded-3xl overflow-hidden" style="background-color: #1c1c2e">
-      <div class="container py-16 mx-auto">
+      <div class="container py-16 mx-auto padding_for_pricing">
         <div class="lg:w-4/5 mx-auto flex items-center flex-wrap">
           <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded-3xl hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" />
           <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
@@ -264,28 +264,28 @@
         <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
           <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
           <div class="text-center mt-5">
-            <h3 class="text-2xl font-medium">Im Zet</h3>
+            <h3 class="text-2xl dark:text-gray-200 font-medium">Im Zet</h3>
             <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
           </div>
         </div>
         <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
           <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
           <div class="text-center mt-5">
-            <h3 class="text-2xl font-medium">Im Zet</h3>
+            <h3 class="text-2xl dark:text-gray-200 font-medium">Im Zet</h3>
             <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
           </div>
         </div>
         <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
           <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
           <div class="text-center mt-5">
-            <h3 class="text-2xl font-medium">Im Zet</h3>
+            <h3 class="text-2xl dark:text-gray-200 font-medium">Im Zet</h3>
             <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
           </div>
         </div>
         <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
           <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
           <div class="text-center mt-5">
-            <h3 class="text-2xl font-medium">Im Zet</h3>
+            <h3 class="text-2xl dark:text-gray-200 font-medium">Im Zet</h3>
             <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
           </div>
         </div>

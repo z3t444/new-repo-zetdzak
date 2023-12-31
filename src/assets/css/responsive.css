@@ -307,6 +307,14 @@
         line-height: 55px;
     }
 
+    .grid_github {
+        padding: 0;
+    }
+
+    .padding_for_pricing {
+        padding: 20px;
+    }
+
 }
 
 @media screen and (min-width: 1023px) {
