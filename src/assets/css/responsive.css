@@ -191,7 +191,9 @@
 
 
     .globe_mod {
-        display: none;
+        justify-content: center;
+        margin: auto;
+        width: 190px;
     }
 
     .zetdzak_name {

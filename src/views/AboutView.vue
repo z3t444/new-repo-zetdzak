@@ -4,10 +4,6 @@
   import "../assets/css/responsive.css"
   import "../assets/css/shineText.css"
 
-  // import Parallax
-
-  // Inisialisasi slick-carousel
-
   // import Ico
   import GithubIco from "../assets/ico/githubIco.vue"
   import facebookIco from "../assets/ico/facebookIco.vue"
@@ -325,7 +321,7 @@
               <input type="email" name="email" required placeholder="Your Email" class="w-full px-3 py-2 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
             </div>
             <textarea name="message" required placeholder="Your Message" class="w-full px-3 py-2 h-40 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
-            <button type="submit" class="w-48 mx-auto mt-10 py-2 px-4 text-sm  text-white font-semibold rounded-xl hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
+            <button type="submit" class="w-48 mx-auto mt-10 py-2 px-4 text-sm text-white font-semibold rounded-xl hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
           </form>
         </div>
       </div>
