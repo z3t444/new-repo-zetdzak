@@ -25,7 +25,7 @@
   <div class="contain_max">
     <nav class="p-5 pt-7 dm_sans bg-white dark:bg-gray-950">
       <div class="container mx-auto items-center">
-        <div class="flex wrapperrast justify-between items-center">
+        <div class="flex wrapperrast justify-between  items-center">
           <a href="#">
             <div class="main-logo flex space-x-2 items-center">
               <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 22 18" fill="none">

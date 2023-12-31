@@ -137,7 +137,7 @@
       </div>
     </div>
     <div class="text-center mt-12">
-      <a class="dark:text-gray-200 p-4 rounded-3xl font-medium hover:bg-blue-800 duration-100 bg-blue-500" href="#">Join Discord</a>
+      <a class="dark:text-gray-200 p-4 rounded-3xl font-medium hover:bg-blue-800 duration-100 bg-blue-500" href="#">Join Community</a>
       <a href="#"></a>
     </div>
   </div>
