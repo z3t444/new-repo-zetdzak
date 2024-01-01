@@ -308,21 +308,27 @@
     </section>
 
     <section>
-      <div class="mt-60">
+      <div class="mt-32">
         <div class="ClassName text-center">
-          <h3 class="text-4xl font-medium">You can leave a message below</h3>
+          <h3 class="text-4xl font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span class="underline">message</span> below</h3>
           <p class="xl:w-1/4 mx-auto mt-5 text-gray-400">Tell me whatever it is. give us the best message so that we are more enthusiastic to work.</p>
         </div>
-        <div class="mt-20">
-          <form action="https://api.web3forms.com/submit" method="POST" class="grid gap-4 max-w-5xl mx-auto p-4 rounded-lg">
-            <input type="hidden" name="access_key" value="3a928331-13f9-4e84-86cf-adb4fb41d57e" />
-            <div class="flex items-center gap-4">
-              <input type="text" name="name" required placeholder="Your Name" class="w-full px-3 py-2 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
-              <input type="email" name="email" required placeholder="Your Email" class="w-full px-3 py-2 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
-            </div>
-            <textarea name="message" required placeholder="Your Message" class="w-full px-3 py-2 h-40 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
-            <button type="submit" class="w-48 mx-auto mt-10 py-2 px-4 text-sm text-white font-semibold rounded-xl hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
-          </form>
+
+        <div class="flex items-center justify-center gap-16 mt-14">
+          <div>
+            <img src="../assets/img/coding.jpeg" class="rounded-3xl" alt="image form" width="500px" />
+          </div>
+          <div class="ClassName">
+            <form action="https://api.web3forms.com/submit" method="POST" class="grid gap-4 max-w-5xl mx-auto rounded-lg w-full">
+              <input type="hidden" name="access_key" value="3a928331-13f9-4e84-86cf-adb4fb41d57e" />
+              <div class="gap-4">
+                <input type="text" name="name" required placeholder="Your Name" class="w-full px-3 py-2 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
+                <input type="email" name="email" required placeholder="Your Email" class="w-full px-3 py-2 rounded-xl shadow-lg mt-3 focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
+              </div>
+              <textarea name="message" required placeholder="Your Message" class="w-full px-3 py-2 h-40 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
+              <button type="submit" class="w-48 mx-auto mt-4 py-2 px-4 text-sm text-white font-semibold rounded-xl hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
+            </form>
+          </div>
         </div>
       </div>
     </section>
@@ -389,6 +395,9 @@
     text-shadow: 0px 0px 30px purple;
   }
 
+  .red_message_txt {
+    text-shadow: 0px 0px 30px red;
+  }
   /* .test_gradient_backgorund {
     border-radius: 30px;
     background: linear-gradient(to right, rgb(16, 17, 26), rgb(9, 12, 22));
