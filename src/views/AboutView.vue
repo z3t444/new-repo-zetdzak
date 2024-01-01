@@ -6,14 +6,14 @@
 
   // import Ico
   import GithubIco from "../assets/ico/githubIco.vue"
-  import Github from '../assets/ico/github.vue'
+  import Github from "../assets/ico/github.vue"
   import facebookIco from "../assets/ico/facebookIco.vue"
   import Insta from "../assets/ico/insta.vue"
   import pcIco from "../assets/ico/pcIco.vue"
   import discordIco from "../assets/ico/discordIco.vue"
   import Discord from "../assets/ico/discord.vue"
-  import Reddit from '../assets/ico/reddit.vue'
-  import Zoom from '../assets/ico/zoom.vue'
+  import Reddit from "../assets/ico/reddit.vue"
+  import Zoom from "../assets/ico/zoom.vue"
 </script>
 
 <template>
@@ -29,7 +29,7 @@
     </div>
     <!-- // -->
 
-    <div class="flex hero_about flex-col justify-between items-center sm:flex-row mt-20 gap-10">
+    <div class="flex hero_about flex-col justify-between p-5 rounded-3xl items-center sm:flex-row mt-20 gap-10" style="background-color: #1c1c2e">
       <div class="p-4 w-full sm:w-1/2 rounded-2xl">
         <div class="for_import">
           <Graph />
@@ -37,10 +37,7 @@
       </div>
       <div class="p-1 w-full sm:w-1/2">
         <p class="text-orange-400">Master of Management System</p>
-        <h3 class="text-5xl font-medium mt-5 manage_system_security leading-snug">
-          Manage All system and <br />
-          Data Security
-        </h3>
+        <h3 class="text-5xl font-medium mt-5 manage_system_security leading-snug">Manage All system and Data Security</h3>
         <p class="dark:text-gray-300 mt-8 leading-8">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum necessitatibus <br />
           beatae perspiciatis porro cumque tempore, ipsa similique omnis voluptates esse!
@@ -63,7 +60,7 @@
       </div>
     </div>
 
-    <div class="ClassName mt-28 grid_github p-12 rounded-3xl" style="background-color: #1c1c2e">
+    <div class="ClassName mt-16 grid_github p-9 rounded-3xl" style="background-color: #1c1c2e">
       <div class="flex flex-wrap items-center justify-between">
         <!-- Box Kedua dengan 4 Grid Box -->
         <div class="w-full md:w-1/2 p-4">
@@ -222,7 +219,7 @@
       <div class="container px-5 mx-auto">
         <div class="flex flex-col text-start w-full mb-20">
           <h1 class="sm:text-4xl text-2xl font-medium mb-4 dark:text-gray-200">Our Team</h1>
-          <p class="lg:w-2/6 mt-2 dark:text-gray-300 leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
+          <p class="lg:w-2/6 mt-5 dark:text-gray-300 leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
         </div>
         <div class="flex flex-wrap -m-2">
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
@@ -313,7 +310,7 @@
     <section>
       <div class="mt-40">
         <div class="ClassName text-center">
-          <h3 class="text-4xl font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span class="underline">message</span> below</h3>
+          <h3 class="text-4xl font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
           <p class="xl:w-1/4 mx-auto mt-5 text-gray-400">Tell me whatever it is. give us the best message so that we are more enthusiastic to work.</p>
         </div>
 
