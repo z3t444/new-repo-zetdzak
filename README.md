@@ -1,16 +1,15 @@
 # repeat-olympicad
 
-This template should help get you started developing with Vue 3 in Vite.
+# Social Dev
+Dzaky : https://github.com/dzakyabdurhmn
+Zeeta : https://github.com/z3t444
 
-## Recommended IDE Setup
+# Social Media
+Insta : @zzz_3t44
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+This is a web design project with the theme of collaboration between Frontend Developer and Backend Developer.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## Project Setup install
 
 ```sh
 npm install
@@ -20,6 +19,7 @@ npm install
 
 ```sh
 npm run dev
+default port on (http://localhost:5173/)
 ```
 
 ### Compile and Minify for Production
