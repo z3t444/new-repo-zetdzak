@@ -317,6 +317,11 @@
         padding: 20px;
     }
 
+    .form_col {
+        flex-direction: column;
+        padding: 15px;
+    }
+
 }
 
 @media screen and (min-width: 1023px) {

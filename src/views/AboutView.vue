@@ -6,11 +6,14 @@
 
   // import Ico
   import GithubIco from "../assets/ico/githubIco.vue"
+  import Github from '../assets/ico/github.vue'
   import facebookIco from "../assets/ico/facebookIco.vue"
   import Insta from "../assets/ico/insta.vue"
   import pcIco from "../assets/ico/pcIco.vue"
   import discordIco from "../assets/ico/discordIco.vue"
   import Discord from "../assets/ico/discord.vue"
+  import Reddit from '../assets/ico/reddit.vue'
+  import Zoom from '../assets/ico/zoom.vue'
 </script>
 
 <template>
@@ -80,7 +83,7 @@
                 </div>
               </div>
               <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-700 hover:scale-105 duration-100">
-                <Discord />
+                <Github />
                 <div>
                   <h4 class="dark:text-gray-300">View Of</h4>
                   <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
@@ -89,14 +92,14 @@
             </div>
             <div class="grid grid-cols-1 gap-6">
               <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-700 hover:scale-105 duration-100">
-                <Discord />
+                <Reddit />
                 <div>
                   <h4 class="dark:text-gray-300">View Of</h4>
                   <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
                 </div>
               </div>
               <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-700 hover:scale-105 duration-100">
-                <Discord />
+                <Zoom />
                 <div>
                   <h4 class="dark:text-gray-300">View Of</h4>
                   <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
@@ -308,15 +311,15 @@
     </section>
 
     <section>
-      <div class="mt-32">
+      <div class="mt-40">
         <div class="ClassName text-center">
           <h3 class="text-4xl font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span class="underline">message</span> below</h3>
           <p class="xl:w-1/4 mx-auto mt-5 text-gray-400">Tell me whatever it is. give us the best message so that we are more enthusiastic to work.</p>
         </div>
 
-        <div class="flex items-center justify-center gap-16 mt-14">
+        <div class="flex form_col items-center justify-center gap-16 mt-20">
           <div>
-            <img src="../assets/img/coding.jpeg" class="rounded-3xl" alt="image form" width="500px" />
+            <img src="../assets/img/coding.jpeg" class="rounded-3xl" alt="image form" width="600px" />
           </div>
           <div class="ClassName">
             <form action="https://api.web3forms.com/submit" method="POST" class="grid gap-4 max-w-5xl mx-auto rounded-lg w-full">
