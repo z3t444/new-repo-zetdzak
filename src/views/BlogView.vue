@@ -12,15 +12,15 @@
     <div class="relative overflow-hidden rounded-3xl">
       <!-- Gradients -->
       <div aria-hidden="true" class="flex absolute -top-96 start-1/2 transform -translate-x-1/2">
-        <div class="bg-gradient-to-r from-violet-300/50 to-purple-100 blur-3xl w-[25rem] h-[44rem] rotate-[-60deg] transform -translate-x-[10rem] dark:from-violet-900/50 dark:to-purple-900"></div>
-        <div class="bg-gradient-to-tl from-blue-50 via-blue-100 to-blue-50 blur-3xl w-[90rem] h-[50rem] rounded-fulls origin-top-left -rotate-12 -translate-x-[15rem] dark:from-indigo-900/70 dark:via-indigo-900/70 dark:to-blue-900/70"></div>
+        <div class="bg-gradient-to-r from-violet-300/50 to-purple-100 blur-3xl w-[25rem] h-[44rem] rotate-[-60deg] transform -translate-x-[10rem] dark:from-sky-400/50 dark:to-sky-400"></div>
+        <div class="bg-gradient-to-tl from-blue-50 via-blue-100 to-blue-50 blur-3xl w-[90rem] h-[50rem] rounded-fulls origin-top-left -rotate-12 -translate-x-[15rem] dark:from-sky-500/70 dark:via-sky-500/70 dark:to-blue-200/70"></div>
       </div>
       <!-- End Gradients -->
 
       <div class="relative z-10">
         <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-10 lg:py-16">
           <div class="max-w-2xl text-center mx-auto">
-            <p class="inline-block text-sm font-medium bg-clip-text bg-gradient-to-l from-blue-600 to-violet-500 text-transparent dark:from-blue-400 dark:to-violet-400">Preline: A vision for 2023</p>
+            <p class="inline-block text-sm font-medium dark:text-gray-200">Preline: A vision for 2023</p>
 
             <!-- Title -->
             <div class="mt-5 max-w-2xl">
@@ -110,7 +110,7 @@
 
         <p class="mt-4 text-gray-500 xl:mt-8 dark:text-gray-300 xl:w-2/6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
 
-        <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-20 xl:gap-7 md:grid-cols-2 xl:grid-cols-3">
+        <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-10 xl:gap-7 md:grid-cols-2 xl:grid-cols-3">
           <div class="space-y-3 p-10 rounded-3xl" style="background-color: #1c1c2e">
             <span class="inline-block p-3 text-blue-500 bg-blue-100 rounded-full dark:text-white dark:bg-blue-500">
               <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -175,7 +175,11 @@
       </div>
     </section>
 
-    <section class="text-gray-400 mt-40 rounded-3xl overflow-hidden" style="background-color: #1c1c2e">
+    <section class="mt-40">
+      <h3 class="text-3xl dark:text-white font-medium">Lorem <span class="dark:text-sky-400 blue_shadow">ipsum</span> dolor sit amet <span class="dark:text-blue-500 blue_normal">consectetur</span>.</h3>
+      <p class="xl:w-1/3 mt-6 dark:text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore nostrum, possimus unde consequuntur obcaecati neque. Distinctio nesciunt sunt explicabo odit.</p>
+    </section>
+    <section class="text-gray-400 mt-20 rounded-3xl overflow-hidden" style="background-color: #1c1c2e">
       <div class="container py-16 mx-auto padding_for_pricing">
         <div class="lg:w-4/5 mx-auto flex items-center flex-wrap">
           <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded-3xl hover:scale-105 duration-100" src="../assets/img/akaksayangg.png" />
@@ -338,5 +342,13 @@
 
   .dm_sans {
     font-family: "DM Sans", sans-serif;
+  }
+
+  .blue_shadow {
+    text-shadow: 0px 0px 30px rgb(0, 191, 255);
+  }
+
+  .blue_normal {
+    text-shadow: 0px 0px 30px blue;
   }
 </style>
