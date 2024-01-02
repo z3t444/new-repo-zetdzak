@@ -49,63 +49,63 @@
 </script>
 
 <template>
-    <div class="ClassName dm_sans">
-      <div class="relative xl:container mx-auto">
-        <div>
-          <p class="sm:text-lg daily text-orange-400 text-center md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-semibold lg:w-11/12">Daily Us Collaboration</p>
+  <div class="ClassName dm_sans">
+    <div class="relative xl:container mx-auto">
+      <div>
+        <p class="sm:text-lg daily text-orange-400 text-center md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-semibold lg:w-11/12">Daily Us Collaboration</p>
+      </div>
+      <h1 class="glow_text sm:mx-auto font-black mt-7 text-blue-900 text-4xl text-center sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
+        We Are <br class="lg:block hidden" />
+        <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
+      </h1>
+
+      <div class="md:flex col_content lg:flex items-center justify-center">
+        <div class="sm:mt-10 md:mt-10 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
+          <p class="max_desk text-gray-700 dark:text-gray-300 lg:w-11/12">Daily life with the best collaboration between us Frontend and Backend. from all Project Creation, Web Profile, Corporate Web, Marketplace, Parallax Web design, and agency web design. Our web is a Profile Website</p>
+
+          <div class="ico_pad grid grid-cols-3 space-x-4 md:space-x-6 mt-10 md:flex md:justify-center lg:justify-start">
+            <a aria-label="add to slack" href="#" target="_blank" class="slack p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
+              <div class="flex justify-center space-x-3">
+                <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/slack.png" alt="slack logo" loading="lazy" width="128" height="128" />
+                <span class="hidden font-medium md:block dark:text-gray-200">Slack</span>
+              </div>
+            </a>
+            <a aria-label="add to chat" href="#" target="_blank" class="google_chat p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30">
+              <div class="flex justify-center space-x-4">
+                <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/chat.png" alt="chat logo" loading="lazy" width="128" height="128" />
+                <span class="hidden font-medium md:block dark:text-white">Google Chat</span>
+              </div>
+            </a>
+            <a aria-label="add to zoom" href="#" target="_blank" class="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-blue-400 hover:shadow-lg hover:shadow-blue-600/20 dark:hover:border-blue-300/30">
+              <div class="flex justify-center space-x-4">
+                <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/zoom.png" alt="chat logo" loading="lazy" width="128" height="128" />
+                <span class="hidden font-medium md:block dark:text-white">Zoom</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="sugaris_items text-sm dark:text-gray-300 mt-12">
+            🔥🌟
+            <span>Other integrations :</span>
+            <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://discord.com/" target="_blank">Discord,</a> </a>
+            <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://www.instagram.com/zzz_3t44" target="_blank"></a></a>
+          </div>
+
+          <div class="p-3 support_brand rounded-2xl glass_background flex items-center gap-6 lg:gap-12 lg:mt-5 justify-between grayscale lg:w-2/3">
+            <a href="#" target="_blank"><VSCode /></a>
+            <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/ge.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
+            <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/coty.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
+            <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/microsoft.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
+          </div>
         </div>
-        <h1 class="glow_text sm:mx-auto font-black mt-7 text-blue-900 text-4xl text-center sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
-          We Are <br class="lg:block hidden" />
-          <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
-        </h1>
 
-        <div class="md:flex col_content lg:flex items-center justify-center">
-          <div class="sm:mt-10 md:mt-10 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
-            <p class="max_desk text-gray-700 dark:text-gray-300 lg:w-11/12">Daily life with the best collaboration between us Frontend and Backend. from all Project Creation, Web Profile, Corporate Web, Marketplace, Parallax Web design, and agency web design. Our web is a Profile Website</p>
-
-            <div class="ico_pad grid grid-cols-3 space-x-4 md:space-x-6 mt-10 md:flex md:justify-center lg:justify-start">
-              <a aria-label="add to slack" href="#" target="_blank" class="slack p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
-                <div class="flex justify-center space-x-3">
-                  <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/slack.png" alt="slack logo" loading="lazy" width="128" height="128" />
-                  <span class="hidden font-medium md:block dark:text-gray-200">Slack</span>
-                </div>
-              </a>
-              <a aria-label="add to chat" href="#" target="_blank" class="google_chat p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30">
-                <div class="flex justify-center space-x-4">
-                  <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/chat.png" alt="chat logo" loading="lazy" width="128" height="128" />
-                  <span class="hidden font-medium md:block dark:text-white">Google Chat</span>
-                </div>
-              </a>
-              <a aria-label="add to zoom" href="#" target="_blank" class="p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-blue-400 hover:shadow-lg hover:shadow-blue-600/20 dark:hover:border-blue-300/30">
-                <div class="flex justify-center space-x-4">
-                  <img class="w-6 h-6" src="https://tailus.io/sources/blocks/tech-startup/preview/images/zoom.png" alt="chat logo" loading="lazy" width="128" height="128" />
-                  <span class="hidden font-medium md:block dark:text-white">Zoom</span>
-                </div>
-              </a>
-            </div>
-
-            <div class="sugaris_items text-sm dark:text-gray-300 mt-12">
-              🔥🌟
-              <span>Other integrations :</span>
-              <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://discord.com/" target="_blank">Discord,</a> </a>
-              <a href="#" class="font-semibold text-gray-700 dark:text-gray-200"><a href="https://www.instagram.com/zzz_3t44" target="_blank"></a></a>
-            </div>
-
-            <div class="p-3 support_brand rounded-2xl glass_background flex items-center gap-6 lg:gap-12 lg:mt-5 justify-between grayscale lg:w-2/3">
-              <a href="#" target="_blank"><VSCode /></a>
-              <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/ge.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
-              <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/coty.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
-              <a href="#" target="_blank"> <img src="https://tailus.io/sources/blocks/tech-startup/preview/images/clients/microsoft.svg" class="h-8 sm:h-10 w-auto lg:h-12" alt="" /></a>
-            </div>
-          </div>
-
-          <!-- //image header// -->
-          <div class="ClassName globe_mod">
-            <ImageGlobe />
-          </div>
+        <!-- //image header// -->
+        <div class="ClassName globe_mod">
+          <ImageGlobe />
         </div>
       </div>
     </div>
+  </div>
 
   <!-- content feature -->
   <div class="container mx-auto p-4 mt-48 dm_sans">
@@ -276,7 +276,34 @@
     <div class="content_image_blur mt-36">
       <contentBlur />
     </div>
-    <div class="viewFooter mt-40 dm_sans">
+
+    <section>
+      <div class="mt-48">
+        <div class="ClassName text-start">
+          <h3 class="text-4xl dark:text-gray-200 font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
+          <p class="xl:w-1/4 mt-6 dark:text-gray-300">Tell me whatever it is. give us the best message so that we are more enthusiastic to work.</p>
+        </div>
+
+        <div class="items-center justify-center gap-16 mt-10">
+          <!-- <div>
+            <img src="../assets/img/coding.jpeg" class="rounded-3xl" alt="image form" width="600px" />
+          </div> -->
+          <div class="ClassName">
+            <form action="https://api.web3forms.com/submit" method="POST" class="grid gap-4 max-w-8xl mx-auto rounded-lg w-full">
+              <input type="hidden" name="access_key" value="3a928331-13f9-4e84-86cf-adb4fb41d57e" />
+              <div class="items-center">
+                <input type="text" name="name" required placeholder="Your Name" class="w-full p-5 rounded-2xl mt-3 shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
+                <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg mt-6 focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
+              </div>
+              <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl mt-3 shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
+              <button type="submit" class="w-48 mx-auto mt-5 py-4 px-4 text-sm text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="viewFooter mt-52 dm_sans">
       <div class="ClassName flex space-x-3 justify-center items-center">
         <pcIco />
         <h3 class="text-3xl font-semibold dark:text-gray-200">ZetDzak</h3>
