@@ -253,8 +253,6 @@
       </div>
     </section>
 
-   
-
     <section class="ClassName mt-14">
       <div class="container px-6 py-10 mx-auto">
         <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">
@@ -417,7 +415,7 @@
     </section>
 
     <section>
-      <div class="flex items-center justify-center mt-40">
+      <div class="flex items-center justify-center gap-10 mt-40">
         <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
           <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
           <div class="text-center mt-5">

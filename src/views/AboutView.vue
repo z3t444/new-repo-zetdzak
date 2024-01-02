@@ -29,7 +29,7 @@
     </div>
     <!-- // -->
 
-    <div class="flex hero_about flex-col justify-between p-5 rounded-3xl items-center sm:flex-row mt-20 gap-10" style="background-color: #1c1c2e">
+    <div class="flex hero_about flex-col justify-between p-16 rounded-3xl items-center sm:flex-row mt-20 gap-10" style="background-color: #1c1c2e">
       <div class="p-4 w-full sm:w-1/2 rounded-2xl">
         <div class="for_import">
           <Graph />
@@ -60,7 +60,7 @@
       </div>
     </div>
 
-    <div class="ClassName mt-16 grid_github p-9 rounded-3xl" style="background-color: #1c1c2e">
+    <div class="ClassName mt-24 grid_github p-9 rounded-3xl">
       <div class="flex flex-wrap items-center justify-between">
         <!-- Box Kedua dengan 4 Grid Box -->
         <div class="w-full md:w-1/2 p-4">
@@ -174,7 +174,7 @@
       </div>
     </section>
 
-    <div class="ClassName maintxt_for_dc flex items-center justify-between p-10" style="margin-top: 450px">
+    <div class="ClassName maintxt_for_dc flex items-center justify-between p-10" style="margin-top: 750px">
       <h3 class="text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
       <div class="ClassName flex discord_and_button items-center space-x-2 p-3 border border-gray-900 rounded-full bg-gray-800 hover:shadow-2xl duration-100 hover:scale-105">
         <discordIco />
@@ -302,32 +302,6 @@
                 <p class="text-gray-500">Product Manager</p>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section>
-      <div class="mt-40">
-        <div class="ClassName text-center">
-          <h3 class="text-4xl font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
-          <p class="xl:w-1/4 mx-auto mt-5 text-gray-400">Tell me whatever it is. give us the best message so that we are more enthusiastic to work.</p>
-        </div>
-
-        <div class="flex form_col items-center justify-center gap-16 mt-20">
-          <div>
-            <img src="../assets/img/coding.jpeg" class="rounded-3xl" alt="image form" width="600px" />
-          </div>
-          <div class="ClassName">
-            <form action="https://api.web3forms.com/submit" method="POST" class="grid gap-4 max-w-5xl mx-auto rounded-lg w-full">
-              <input type="hidden" name="access_key" value="3a928331-13f9-4e84-86cf-adb4fb41d57e" />
-              <div class="gap-4">
-                <input type="text" name="name" required placeholder="Your Name" class="w-full px-3 py-2 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
-                <input type="email" name="email" required placeholder="Your Email" class="w-full px-3 py-2 rounded-xl shadow-lg mt-3 focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
-              </div>
-              <textarea name="message" required placeholder="Your Message" class="w-full px-3 py-2 h-40 rounded-xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
-              <button type="submit" class="w-48 mx-auto mt-4 py-2 px-4 text-sm text-white font-semibold rounded-xl hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
-            </form>
           </div>
         </div>
       </div>
