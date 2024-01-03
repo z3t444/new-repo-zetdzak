@@ -330,6 +330,23 @@
     padding: 20px;
    }
 
+   .text_main_forms {
+    text-align: center;
+   }
+
+   .forms {
+    padding: 20px;
+   }
+
+   .glow_community_text {
+    text-align: center;
+    font-size: 25px;
+   }
+
+   .glow_red_text {
+    font-size: 27px;
+   }
+
 }
 
 @media screen and (min-width: 1023px) {

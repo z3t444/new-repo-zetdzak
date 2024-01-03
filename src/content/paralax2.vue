@@ -4,7 +4,7 @@
       <h1 class="text-2xl font-semibold text-gray-300">Problem Sholving</h1>
     </div>
     <div class="content-text">
-      <p class="text-gray-300 max-desk-parallax2 text-start">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas ut, natus in maxime architecto veniam suscipit odit porro</p>
+      <p class="text-gray-300 max-desk-parallax2 text-start leading-8">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas ut, natus in maxime architecto veniam suscipit odit porro</p>
     </div>
   </div>
 </template>

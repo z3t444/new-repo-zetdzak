@@ -2,7 +2,7 @@
   <div class="dm_sans information_site">
     <div class="container mx-auto rounded-2xl">
       <div class="rounded-3xl 3xl:p-8">
-        <h2 class="text-start text-4xl font-medium dark:text-gray-200 mb-6 dream-text">Feel the power of a greats <span class="community font-semibold">community.</span></h2>
+        <h2 class="text-start text-4xl font-medium dark:text-gray-200 mb-6 glow_community_text">Feel the power of a greats <span class="community font-semibold">community.</span></h2>
         <div class="grid grid-cols-1 text-start gap-5 sm:grid-cols-2 mt-20 3xl:grid-cols-3">
           <div style="background-color: #1c1c2e" class="border border-gray-300 dark:border-gray-800 hover-scale-flexbox rounded-3xl shadow p-6 hover:border-sky-400 hover:shadow-lg hover:shadow-sky-600/20 dark:hover:border-sky-300/30">
             <h3 class="text-5xl dark:text-gray-200 font-bold mb-2">17K</h3>
@@ -33,6 +33,10 @@
     </div>
   </div>
 </template>
+
+L<script setup>
+import '../assets/css/responsive.css'
+</script>
 
 <style scoped>
   @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,300;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800;0,9..40,900;0,9..40,1000;1,9..40,300;1,9..40,300;1,9..40,500;1,9..40,600;1,9..40,700;1,9..40,800;1,9..40,900;1,9..40,1000&display=swap");

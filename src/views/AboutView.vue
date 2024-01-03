@@ -24,7 +24,7 @@
         <h2 class="text-center shine font-bold sm:text-4xl md:text-5xl lg:text-6xl lg:mt-52 dark:text-gray-100 dm_sans">Performance Us frontend & Backend</h2>
       </div>
       <div class="prgh">
-        <p class="p-8 max_paragraph sm:text-lg mt-10 dm_sans text-center mx-auto text-gray-700 dark:text-gray-300 lg:w-11/12">ZetDzak takes chat and collaboration to the next level: daily standups, team check-ins, surveys, kudos, best companion bot for your virtual watercooler, motivation <span class="light_lamp">💡</span></p>
+        <p class="p-8 xl:w-2/5 leading-8 mt-10 dm_sans text-center mx-auto text-gray-700 dark:text-gray-300 lg:w-11/12">ZetDzak takes chat and collaboration to the next level: daily standups, team check-ins, surveys, kudos, best companion bot for your virtual watercooler, motivation <span class="light_lamp">💡</span></p>
       </div>
     </div>
     <!-- // -->
@@ -66,7 +66,7 @@
         <div class="w-full md:w-1/2 p-4">
           <div class="p-1 rounded center_txt">
             <h4 class="text-3xl font-medium leading-snug">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure perferendis!</h4>
-            <p class="mt-10 dark:text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quis animi, reiciendis maxime incidunt neque, perferendis voluptatum veritatis cum earum debitis harum obcaecati voluptatem magni facilis nisi minus aspernatur repellendus?</p>
+            <p class="mt-10 dark:text-gray-300 leading-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quis animi, reiciendis maxime incidunt neque, perferendis voluptatum veritatis cum earum debitis harum obcaecati voluptatem magni facilis nisi minus aspernatur repellendus?</p>
           </div>
         </div>
         <div class="w-full md:w-1/2 p-4 margin_state">
@@ -349,9 +349,7 @@
 </template>
 
 <style scoped>
-  .max_paragraph {
-    max-width: 680px;
-  }
+ 
 
   .Explore_our_leading {
     line-height: 50px;
@@ -372,13 +370,5 @@
   .red_message_txt {
     text-shadow: 0px 0px 30px red;
   }
-  /* .test_gradient_backgorund {
-    border-radius: 30px;
-    background: linear-gradient(to right, rgb(16, 17, 26), rgb(9, 12, 22));
-    backdrop-filter: blur(40px);
-    color: #fff;
 
-    padding: 40px;
-    box-shadow: 0 8px 72px 0 rgba(2, 2, 2, 0.37);
-  } */
 </style>

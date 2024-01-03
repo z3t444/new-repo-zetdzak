@@ -155,55 +155,57 @@
     </div>
   </div>
 
-  <div class="mt-36 introduction_card">
-    <div class="dm_sans">
-      <h2 class="text-4xl text_love font-medium dark:text-gray-200">Enterprise developers <span class="love">❤️</span> <span class="font-bold">ZetDzak</span></h2>
-      <p class="mt-6 text_desk_love dark:text-gray-200 text-md">
-        Features of Our Performance in <br />
-        Website Development
-      </p>
-    </div>
-  </div>
-
-  <div class="flex flex-wrap dm_sans mt-10 text-black dark:text-white">
-    <div class="w-full sm:w-1/2 md:w-1/4 p-3">
-      <div class="border1 h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-between hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30" style="background-color: #1c1c2e">
-        <Profile />
-        <h3 class="text-2xl font-semibold mt-7">Be friendly</h3>
-        <p class="mt-5 dark:text-gray-300">We are very friendly in every way, such as collaboration and Q&A.</p>
+  <section>
+    <div class="mt-36 introduction_card">
+      <div class="dm_sans">
+        <h2 class="text-4xl text_love font-medium dark:text-gray-200">Enterprise developers <span class="love">❤️</span> <span class="font-bold">ZetDzak</span></h2>
+        <p class="mt-6 text_desk_love dark:text-gray-200 text-md">
+          Features of Our Performance in <br />
+          Website Development
+        </p>
       </div>
     </div>
 
-    <div class="w-full sm:w-1/2 md:w-1/4 p-3">
-      <div class="border2 h-72 rounded-3xl hadow-md flex items-center justify-center">
-        <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
-          <Clock />
-          <h3 class="text-2xl font-semibold mt-7">24/7 Hours</h3>
-          <p class="mt-5 dark:text-gray-300">we work in a 24-hour week. to improve performance and flight hours for us developers.</p>
+    <div class="flex flex-wrap dm_sans mt-10 text-black dark:text-white">
+      <div class="w-full sm:w-1/2 md:w-1/4 p-3">
+        <div class="border1 h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-between hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30" style="background-color: #1c1c2e">
+          <Profile />
+          <h3 class="text-2xl font-semibold mt-7">Be friendly</h3>
+          <p class="mt-5 dark:text-gray-300 leading-7">We are very friendly in every way, such as collaboration and Q&A.</p>
+        </div>
+      </div>
+
+      <div class="w-full sm:w-1/2 md:w-1/4 p-3">
+        <div class="border2 h-72 rounded-3xl hadow-md flex items-center justify-center">
+          <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
+            <Clock />
+            <h3 class="text-2xl font-semibold mt-7">24/7 Hours</h3>
+            <p class="mt-5 dark:text-gray-300 leading-7">we work in a 24-hour week. to improve performance and flight hours for us developers.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-full sm:w-1/2 md:w-1/4 p-3">
+        <div class="border3 h-72 rounded-3xl flex items-center justify-center">
+          <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30" style="background-color: #1c1c2e">
+            <Lightning />
+            <h3 class="text-2xl font-semibold mt-7">Faster</h3>
+            <p class="mt-5 dark:text-gray-300 leading-7">we are fast in working on requests from clients. because we have been trained to respond quickly</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-full sm:w-1/2 md:w-1/4 p-3">
+        <div class="border4 h-72 rounded-3xl flex items-center justify-center">
+          <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-green-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
+            <chat />
+            <h3 class="text-2xl font-semibold mt-7">Message</h3>
+            <p class="mt-5 dark:text-gray-300 leading-7">we will always answer questions or statements from others if we really need to communicate.</p>
+          </div>
         </div>
       </div>
     </div>
-
-    <div class="w-full sm:w-1/2 md:w-1/4 p-3">
-      <div class="border3 h-72 rounded-3xl flex items-center justify-center">
-        <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30" style="background-color: #1c1c2e">
-          <Lightning />
-          <h3 class="text-2xl font-semibold mt-7">Faster</h3>
-          <p class="mt-5 dark:text-gray-300">we are fast in working on requests from clients. because we have been trained to respond quickly</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="w-full sm:w-1/2 md:w-1/4 p-3">
-      <div class="border4 h-72 rounded-3xl flex items-center justify-center">
-        <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-green-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
-          <chat />
-          <h3 class="text-2xl font-semibold mt-7">Message</h3>
-          <p class="mt-5 dark:text-gray-300">we will always answer questions or statements from others if we really need to communicate.</p>
-        </div>
-      </div>
-    </div>
-  </div>
+  </section>
 
   <div>
     <div class="mt-60 dm_sans">
@@ -252,7 +254,7 @@
       <div class="dm_sans mt-20 flex items-center desk_gear_emoji justify-between">
         <div>
           <h2 class="text-3xl dark:text-gray-300 font-semibold">Awesome Framework Use <span class="gear_emoji">⚙️</span></h2>
-          <p class="dark:text-gray-300 mt-5 xl:w-3/4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, molestiae at. In hic nisi eveniet quia alias dicta pariatur autem delectus nesciunt omnis sit voluptatem corporis quisquam, eaque, laborum rerum.</p>
+          <p class="dark:text-gray-300 mt-5 xl:w-3/4 leading-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, molestiae at. In hic nisi eveniet quia alias dicta pariatur autem delectus nesciunt omnis sit voluptatem corporis quisquam, eaque, laborum rerum.</p>
         </div>
         <div class="btn-about flex space-x-3">
           <a href="#" class="text-black dark:text-white text-md font-medium w-32 text-center bg-cyan-300 hover:bg-cyan-500 duration-150 dark:bg-cyan-500 hover:dark:bg-cyan-600 p-5 pt-3 pb-3 rounded-full link_about" target="_blank">About Me</a>
@@ -277,11 +279,11 @@
       <contentBlur />
     </div>
 
-    <section>
-      <div class="mt-48 dm_sans">
-        <div class="ClassName text-start">
-          <h3 class="text-4xl dark:text-gray-200 font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
-          <p class="xl:w-1/4 mt-6 dark:text-gray-300">Tell me whatever it is. give us the best message so that we are more enthusiastic to work.</p>
+    <section class="mt-48 forms">
+      <div class="dm_sans">
+        <div class="ClassName text_main_forms text-start">
+          <h3 class="text-4xl glow_red_text dark:text-gray-200 font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
+          <p class="xl:w-1/4 mt-6 dark:text-gray-300 leading-8">Tell me whatever it is. Give us the best message so that we are more enthusiastic to work.</p>
         </div>
 
         <div class="items-center justify-center gap-16 mt-14">
@@ -291,11 +293,11 @@
           <div class="ClassName">
             <form action="https://api.web3forms.com/submit" method="POST" class="grid gap-4 max-w-8xl mx-auto rounded-lg w-full">
               <input type="hidden" name="access_key" value="3a928331-13f9-4e84-86cf-adb4fb41d57e" />
-              <div class="items-center">
+              <div class="gap-3 flex">
                 <input type="text" name="name" required placeholder="Your Name" class="w-full p-5 rounded-2xl mt-3 shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
-                <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg mt-6 focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
+                <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg mt-3 bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
               </div>
-              <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl mt-3 shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
+              <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
               <button type="submit" class="w-48 mx-auto mt-10 py-4 px-4 text-sm text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
             </form>
           </div>
@@ -308,7 +310,7 @@
         <pcIco />
         <h3 class="text-3xl font-semibold dark:text-gray-200">ZetDzak</h3>
       </div>
-      <p class="text-center desk_footer mt-5 dark:text-gray-300">
+      <p class="text-center desk_footer mt-5 dark:text-gray-300 text-sm leading-7">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus velit enim eligendi vero <br />
         Placeat voluptates ad suscipit, hic officiis vel sed eligendi qui, dolorum rerum
       </p>
