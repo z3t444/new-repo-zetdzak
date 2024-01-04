@@ -279,28 +279,29 @@
       <contentBlur />
     </div>
 
-    <section class="mt-48 forms">
-      <div class="dm_sans">
-        <div class="ClassName text_main_forms text-start">
-          <h3 class="text-4xl glow_red_text dark:text-gray-200 font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
-          <p class="xl:w-1/4 mt-6 dark:text-gray-300 leading-8">Tell me whatever it is. Give us the best message so that we are more enthusiastic to work.</p>
-        </div>
-
-        <div class="items-center justify-center gap-16 mt-14">
-          <!-- <div>
-            <img src="../assets/img/coding.jpeg" class="rounded-3xl" alt="image form" width="600px" />
-          </div> -->
-          <div class="ClassName">
-            <form action="https://api.web3forms.com/submit" method="POST" class="grid gap-4 max-w-8xl mx-auto rounded-lg w-full">
-              <input type="hidden" name="access_key" value="3a928331-13f9-4e84-86cf-adb4fb41d57e" />
-              <div class="gap-3 flex">
-                <input type="text" name="name" required placeholder="Your Name" class="w-full p-5 rounded-2xl mt-3 shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
-                <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg mt-3 bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
-              </div>
-              <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
-              <button type="submit" class="w-48 mx-auto mt-10 py-4 px-4 text-sm text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
-            </form>
+    <section class="mt-52 forms">
+      <div class="ClassName xl:flex xl:items-center gap-16">
+        <div class="dm_sans">
+          <div class="ClassName text_main_forms text-start">
+            <h3 class="text-4xl glow_red_text dark:text-gray-200 font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
+            <p class="xl:w-3/4 mt-4 dark:text-gray-300 leading-7">Tell me whatever it is. Give us the best message so that we are more enthusiastic to work.</p>
           </div>
+          <div class="items-center justify-center gap-16 mt-14">
+            <div class="ClassName">
+              <form action="https://api.web3forms.com/submit" method="POST" class="grid gap-4 max-w-8xl mx-auto rounded-lg w-full">
+                <input type="hidden" name="access_key" value="3a928331-13f9-4e84-86cf-adb4fb41d57e" />
+                <div class="gap-3 flex">
+                  <input type="text" name="name" required placeholder="Your Name" class="w-full p-5 rounded-2xl mt-3 shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
+                  <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg mt-3 bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
+                </div>
+                <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
+                <button type="submit" class="w-48 mx-auto  py-4 px-4 text-sm mt-4 text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
+              </form>
+            </div>
+          </div>
+        </div>
+        <div>
+          <img src="../assets/img/phoneframecompres.png" class="rounded-3xl mt-20 hover:scale-105 duration-100 animate-up-down" alt="image form" width="700px" />
         </div>
       </div>
     </section>
@@ -423,5 +424,26 @@
 
   .light_p {
     text-shadow: 0px 0px 30px white;
+  }
+
+
+  @keyframes up-down {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+
+  .animate-up-down {
+    animation: up-down 2s infinite;
+  }
+
+  .red_message_txt {
+    text-shadow: 0px 0px 30px red;
   }
 </style>

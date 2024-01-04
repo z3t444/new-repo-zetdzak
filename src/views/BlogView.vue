@@ -5,6 +5,8 @@
   import facebookIco from "../assets/ico/facebookIco.vue"
   import Insta from "../assets/ico/insta.vue"
   import pcIco from "../assets/ico/pcIco.vue"
+
+  import ParallaxBlog from "../components/parallaxBlog.vue"
 </script>
 
 <template>
@@ -53,11 +55,17 @@
     </section>
 
     <section>
-      <marquee behavior="" direction="" scrollamount="20">
-        <section class="ClassName">
+      <div class="ClassName ParallaxBlog mt-10 p-8 rounded-3xl" style="background-color: #1c1c2e">
+        <ParallaxBlog />
+      </div>
+    </section>
+
+    <div class="ClassName mt-14">
+      <section class="p-6 rounded-3xl" style="background-color: #1c1c2e">
+        <h3 class="dark:text-gray-200 text-3xl font-medium">Our <span class="dark:text-orange-400">Skill</span> on Project ⚡</h3>
+        <section class="ClassName mt-10">
           <div class="container p-6 mx-auto space-y-6 text-center lg:p-8 lg:space-y-8">
-            <h2 class="text-3xl font-bold">Fully compatible with</h2>
-            <div class="flex flex-wrap justify-center lg:justify-between">
+            <div class="flex flex-wrap justify-center lg:justify-around">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-label="Angular" class="w-12 h-12 mx-10 my-6 fill-current md:mx-12 lg:m-0 dark:text-gray-400">
                 <title>Angular</title>
                 <path d="M13.24 16.859h5.51l-2.755-6.542zM15.995 0.010l-15.078 5.307 2.297 19.677 12.781 6.995 12.786-6.984 2.297-19.688-15.083-5.302zM25.406 24.406h-3.516l-1.896-4.667h-8l-1.896 4.667h-3.516l9.411-20.865z"></path>
@@ -98,15 +106,15 @@
             </div>
           </div>
         </section>
-      </marquee>
-    </section>
+      </section>
+    </div>
 
     <!-- Hero -->
 
     <!-- End Hero -->
-    <section class="ClassName mt-14">
+    <section class="ClassName mt-40">
       <div class="container px-6 py-10 mx-auto">
-        <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">explore our awesome <span class="underline decoration-blue-500">Components</span></h1>
+        <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">explore our awesome <span class="dark:text-blue-400">Components 🔍</span></h1>
 
         <p class="mt-4 text-gray-500 xl:mt-8 leading-8 dark:text-gray-300 xl:w-2/6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
 
@@ -265,39 +273,6 @@
       </div>
     </section>
 
-    <!-- <section>
-      <div class="flex items-center justify-center gap-10 mt-40">
-        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
-          <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
-          <div class="text-center mt-5">
-            <h3 class="text-2xl dark:text-gray-200 font-medium">Im Zet</h3>
-            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-          </div>
-        </div>
-        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
-          <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
-          <div class="text-center mt-5">
-            <h3 class="text-2xl dark:text-gray-200 font-medium">Im Zet</h3>
-            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-          </div>
-        </div>
-        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
-          <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
-          <div class="text-center mt-5">
-            <h3 class="text-2xl dark:text-gray-200 font-medium">Im Zet</h3>
-            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-          </div>
-        </div>
-        <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
-          <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
-          <div class="text-center mt-5">
-            <h3 class="text-2xl dark:text-gray-200 font-medium">Im Zet</h3>
-            <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
-          </div>
-        </div>
-      </div>
-    </section> -->
-
     <div class="viewFooter mt-40 dm_sans">
       <div class="ClassName flex space-x-3 justify-center items-center">
         <pcIco />
@@ -352,6 +327,6 @@
   }
 
   .blue_normal {
-    text-shadow: 0px 0px 30px blue;
+    text-shadow: 0px 0px 30px rgb(0, 140, 255);
   }
 </style>
