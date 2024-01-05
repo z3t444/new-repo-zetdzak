@@ -29,84 +29,88 @@
     </div>
     <!-- // -->
 
-    <div class="flex hero_about flex-col justify-between p-16 rounded-3xl items-center sm:flex-row mt-20 gap-10" style="background-color: #1c1c2e">
-      <div class="p-4 w-full sm:w-1/2 rounded-2xl">
-        <div class="for_import">
-          <Graph />
-        </div>
-      </div>
-      <div class="p-1 w-full sm:w-1/2">
-        <p class="text-orange-400">Master of Management System</p>
-        <h3 class="text-5xl font-medium mt-5 manage_system_security leading-snug">Manage All system and Data Security</h3>
-        <p class="dark:text-gray-300 mt-8 leading-8">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum necessitatibus <br />
-          beatae perspiciatis porro cumque tempore, ipsa similique omnis voluptates esse!
-        </p>
-        <p class="dark:text-gray-300 mt-7 leading-8">
-          Lorem ipsum dolor sit, amet consectetur <br />
-          adipisicing elit.
-        </p>
-        <div class="flex items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-10 gap-10">
-          <a href="#" class="bg-blue-500 dark:text-gray-200 hover:bg-transparent hover:border text-black hover:border-blue-400 text-center w-36 duration-100 p-4 rounded-full">Read More</a>
-          <div class="p-4 w-full sm:w-1/2 md:w-full dark:text-gray-200 lg:w-1/3 system_text_css">
-            <h3 class="text-5xl font-medium">78%</h3>
-            <p class="mt-3">Lorem, ipsum dolor.</p>
-          </div>
-          <div class="p-4 w-full sm:w-1/2 md:w-full lg:w-1/3 security_text_css">
-            <h3 class="text-5xl font-medium">80%</h3>
-            <p class="mt-3">Lorem ipsum dolor sit.</p>
+    <section>
+      <div class="flex hero_about flex-col justify-between p-16 rounded-3xl items-center sm:flex-row mt-20 gap-10" style="background-color: #1c1c2e">
+        <div class="p-4 w-full sm:w-1/2 rounded-2xl">
+          <div class="for_import">
+            <Graph />
           </div>
         </div>
+        <div class="p-1 w-full sm:w-1/2">
+          <p class="text-orange-400">Master of Management System</p>
+          <h3 class="text-5xl font-medium mt-5 manage_system_security leading-snug">Manage All system and Data Security</h3>
+          <p class="dark:text-gray-300 mt-8 leading-8">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum necessitatibus <br />
+            beatae perspiciatis porro cumque tempore, ipsa similique omnis voluptates esse!
+          </p>
+          <p class="dark:text-gray-300 mt-7 leading-8">
+            Lorem ipsum dolor sit, amet consectetur <br />
+            adipisicing elit.
+          </p>
+          <div class="flex items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-10 gap-10">
+            <a href="#" class="bg-blue-500 dark:text-gray-200 hover:bg-transparent hover:border text-black hover:border-blue-400 text-center w-36 duration-100 p-4 rounded-full">Read More</a>
+            <div class="p-4 w-full sm:w-1/2 md:w-full dark:text-gray-200 lg:w-1/3 system_text_css">
+              <h3 class="text-5xl font-medium">78%</h3>
+              <p class="mt-3">Lorem, ipsum dolor.</p>
+            </div>
+            <div class="p-4 w-full sm:w-1/2 md:w-full lg:w-1/3 security_text_css">
+              <h3 class="text-5xl font-medium">80%</h3>
+              <p class="mt-3">Lorem ipsum dolor sit.</p>
+            </div>
+          </div>
+        </div>
       </div>
-    </div>
+    </section>
 
-    <div class="ClassName mt-24 grid_github p-9 rounded-3xl">
-      <div class="flex flex-wrap items-center justify-between">
-        <!-- Box Kedua dengan 4 Grid Box -->
-        <div class="w-full md:w-1/2 p-4">
-          <div class="p-1 rounded center_txt">
-            <h4 class="text-3xl font-medium leading-snug">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure perferendis!</h4>
-            <p class="mt-10 dark:text-gray-300 leading-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quis animi, reiciendis maxime incidunt neque, perferendis voluptatum veritatis cum earum debitis harum obcaecati voluptatem magni facilis nisi minus aspernatur repellendus?</p>
-          </div>
-        </div>
-        <div class="w-full md:w-1/2 p-4 margin_state">
-          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
-            <div class="grid grid-cols-1 gap-6">
-              <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100" style="background-color: #1c1c2e">
-                <Discord />
-                <div>
-                  <h4 class="dark:text-gray-300">View Of</h4>
-                  <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
-                </div>
-              </div>
-              <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100" style="background-color: #1c1c2e">
-                <Github />
-                <div>
-                  <h4 class="dark:text-gray-300">View Of</h4>
-                  <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
-                </div>
-              </div>
+    <section>
+      <div class="ClassName mt-24 grid_github p-9 rounded-3xl">
+        <div class="flex flex-wrap items-center justify-between">
+          <!-- Box Kedua dengan 4 Grid Box -->
+          <div class="w-full md:w-1/2 p-4">
+            <div class="p-1 rounded center_txt">
+              <h4 class="text-3xl font-medium leading-snug">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure perferendis!</h4>
+              <p class="mt-10 dark:text-gray-300 leading-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quis animi, reiciendis maxime incidunt neque, perferendis voluptatum veritatis cum earum debitis harum obcaecati voluptatem magni facilis nisi minus aspernatur repellendus?</p>
             </div>
-            <div class="grid grid-cols-1 gap-6">
-              <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100" style="background-color: #1c1c2e">
-                <Reddit />
-                <div>
-                  <h4 class="dark:text-gray-300">View Of</h4>
-                  <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
+          </div>
+          <div class="w-full md:w-1/2 p-4 margin_state">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
+              <div class="grid grid-cols-1 gap-6">
+                <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100" style="background-color: #1c1c2e">
+                  <Discord />
+                  <div>
+                    <h4 class="dark:text-gray-300">View Of</h4>
+                    <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
+                  </div>
+                </div>
+                <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100" style="background-color: #1c1c2e">
+                  <Github />
+                  <div>
+                    <h4 class="dark:text-gray-300">View Of</h4>
+                    <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
+                  </div>
                 </div>
               </div>
-              <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100" style="background-color: #1c1c2e">
-                <Zoom />
-                <div>
-                  <h4 class="dark:text-gray-300">View Of</h4>
-                  <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
+              <div class="grid grid-cols-1 gap-6">
+                <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100" style="background-color: #1c1c2e">
+                  <Reddit />
+                  <div>
+                    <h4 class="dark:text-gray-300">View Of</h4>
+                    <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
+                  </div>
+                </div>
+                <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100" style="background-color: #1c1c2e">
+                  <Zoom />
+                  <div>
+                    <h4 class="dark:text-gray-300">View Of</h4>
+                    <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
+    </section>
 
     <section>
       <div class="other_gallery_card mt-44">
@@ -349,8 +353,6 @@
 </template>
 
 <style scoped>
- 
-
   .Explore_our_leading {
     line-height: 50px;
   }
@@ -370,5 +372,4 @@
   .red_message_txt {
     text-shadow: 0px 0px 30px red;
   }
-
 </style>
