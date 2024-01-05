@@ -158,8 +158,8 @@
   <section>
     <div class="mt-36 introduction_card">
       <div class="dm_sans">
-        <h2 class="text-4xl text_love font-medium dark:text-gray-200">Enterprise developers <span class="love">❤️</span> <span class="font-bold">ZetDzak</span></h2>
-        <p class="mt-6 text_desk_love dark:text-gray-200 text-md">
+        <h2 class="text-4xl text_love font-medium dark:text-gray-200">Enterprise developers <span class="love">❤️</span> <span class="font-bold">Nusantara Developer</span></h2>
+        <p class="mt-6 text_desk_love dark:text-gray-200 text-md leading-7">
           Features of Our Performance in <br />
           Website Development
         </p>
@@ -309,7 +309,7 @@
     <div class="viewFooter mt-52 dm_sans">
       <div class="ClassName flex space-x-3 justify-center items-center">
         <pcIco />
-        <h3 class="text-3xl font-semibold dark:text-gray-200">ZetDzak</h3>
+        <h3 class="text-3xl font-semibold dark:text-gray-200">Nusantara Developer</h3>
       </div>
       <p class="text-center desk_footer mt-5 dark:text-gray-300 text-sm leading-7">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus velit enim eligendi vero <br />

@@ -218,7 +218,7 @@
     <section class="dark:text-gray-200 mt-24">
       <div class="container px-5 mx-auto">
         <div class="flex flex-col text-start w-full mb-20">
-          <h1 class="sm:text-4xl text-2xl font-medium mb-4 dark:text-gray-200">Our Team</h1>
+          <h1 class="sm:text-4xl text-2xl font-medium mb-4 dark:text-gray-200">Our Discord Member</h1>
           <p class="lg:w-2/6 mt-5 dark:text-gray-300 leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
         </div>
         <div class="flex flex-wrap -m-2">
@@ -310,7 +310,7 @@
     <div class="viewFooter mt-40 dm_sans">
       <div class="ClassName flex space-x-3 justify-center items-center">
         <pcIco />
-        <h3 class="text-4xl font-semibold">ZetDzak</h3>
+        <h3 class="text-4xl font-semibold">Nusantara Developer</h3>
       </div>
       <p class="text-center desk_footer mt-5 leading-8 dark:text-gray-300">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus velit enim eligendi vero <br />

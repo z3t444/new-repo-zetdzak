@@ -276,7 +276,7 @@
     <div class="viewFooter mt-40 dm_sans">
       <div class="ClassName flex space-x-3 justify-center items-center">
         <pcIco />
-        <h3 class="text-4xl dark:text-gray-200 font-semibold">ZetDzak</h3>
+        <h3 class="text-4xl dark:text-gray-200 font-semibold">Nusantara Developer</h3>
       </div>
       <p class="text-center desk_footer mt-5 leading-8 dark:text-gray-300">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus velit enim eligendi vero <br />
