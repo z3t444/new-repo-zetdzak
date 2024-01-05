@@ -24,7 +24,7 @@
         <h2 class="text-center shine font-bold sm:text-4xl md:text-5xl lg:text-6xl lg:mt-52 dark:text-gray-100 dm_sans">Performance Us Nusantara Developer</h2>
       </div>
       <div class="prgh">
-        <p class="p-8 xl:w-2/5 leading-8 mt-10 dm_sans text-center mx-auto text-gray-700 dark:text-gray-300 lg:w-11/12">ZetDzak takes chat and collaboration to the next level: daily standups, team check-ins, surveys, kudos, best companion bot for your virtual watercooler, motivation <span class="light_lamp">💡</span></p>
+        <p class="p-8 xl:w-2/4 leading-8 mt-10 dm_sans text-center mx-auto leading-10 text-gray-700 dark:text-gray-300 lg:w-11/12">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi<span class="light_lamp">💡</span></p>
       </div>
     </div>
     <!-- // -->
@@ -110,7 +110,7 @@
 
     <section>
       <div class="other_gallery_card mt-44">
-        <h2 class="text-3xl text-center font-medium">Our main Team</h2>
+        <h2 class="text-3xl text-center font-medium">Tim Utama Nusantara Developer</h2>
         <div class="flex flex-wrap gap-10 mx-auto justify-center mt-10 rounded-3xl">
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
