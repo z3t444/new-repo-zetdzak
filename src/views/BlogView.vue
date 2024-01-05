@@ -19,7 +19,7 @@
               <img src="../assets/img/staravatar.png" alt="image" loading="lazy" width="550px" height="" />
             </div>
             <div class="md:7/12 lg:w-1/2">
-              <h2 class="text-4xl font-medium desk_avatarstar text-gray-900 md:text-4x leading-normal dark:text-white"><span class="text-sky-300 font-semibold" style="text-shadow: 0px 0px 30px rgb(0, 183, 255)">Nusantara Developer</span> is carried out by passionate developers</h2>
+              <h2 class="text-5xl font-medium desk_avatarstar text-gray-900 md:text-4x leading-normal dark:text-white"><span class="text-sky-300 font-semibold" style="text-shadow: 0px 0px 30px rgb(0, 183, 255)">Nusantara Developer</span> is carried out by passionate developers</h2>
               <p class="my-8 text-gray-600 leading-8 text-sm dark:text-gray-300">Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at? Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.</p>
               <div class="divide-y space-y-4 divide-gray-100 dark:divide-gray-800">
                 <div class="mt-20 flex gap-4 md:items-center hover:scale-105 duration-100">
