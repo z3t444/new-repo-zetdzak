@@ -29,7 +29,7 @@
           <a href="#">
             <div class="main-logo flex space-x-3 items-center">
               <img src="../assets/img/NusantaraDeveloperlogo.jpg" class="rounded-full" width="50px" alt="">
-              <h3 class="text-2xl dark:text-white font-semibold">Nusantara Developer</h3>
+              <h3 class="text-lg dark:text-white font-semibold">Nusantara Developer</h3>
             </div>
           </a>
           <button @click="toggleNavbar" class="ml-4 md:hidden text-gray-500 focus:outline-none">
