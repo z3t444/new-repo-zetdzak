@@ -111,9 +111,7 @@
   <div class="container mx-auto p-4 mt-48 dm_sans">
     <p class="text-center zetdzak_name font-medium dark:text-gray-200">ND Indonesia</p>
     <h3 class="text-center gradient_nusantara dark:text-gray-200 text-6xl mt-3 font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
-    <p class="ClassName_desk_nusantara text-center text-sm mt-6 xl:w-1/3 mx-auto leading-9 dark:text-gray-200">
-     Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah
-    </p>
+    <p class="ClassName_desk_nusantara text-center text-sm mt-6 xl:w-1/3 mx-auto leading-9 dark:text-gray-200">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 mt-16 md:grid-cols-3 gap-4">
       <!-- Box 1 -->
       <div class="p-4 shadow-md text-center dark:text-gray-200 text-lg">
@@ -145,7 +143,7 @@
     </div>
     <div class="content_Desk md:w-1/2">
       <h3 class="ClassName settings_text text-hero text-4xl mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From Indonesia</h3>
-      <p class="dark:text-gray-200 mt-7 desk_text_settings leading-8 text-gray-800">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem, est omnis. Culpa vitae facilis suscipit, natus voluptatibus itaque fugit officiis dolores aut dolor enim sint temporibus corporis ducimus at inventore?</p>
+      <p class="dark:text-gray-200 mt-7 desk_text_settings leading-8 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif Untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
       <div class="button_in_hero dark:text-gray-200 mt-10 flex justify-start items-center text-center space-x-5 p-5">
         <a href="https://mhm-dzaky.vercel.app/" class="p-3 bg-blue-500 hover:bg-blue-600 text-white duration-100 w-28 rounded-full" target="_blank">Dzaky </a>
         <a href="https://zeeta.my.id" class="p-3 bg-blue-500 hover:bg-blue-600 w-28 rounded-full text-white dark:hover:bg-blue-600 duration-100" target="_blank">Zeeta </a>
@@ -158,10 +156,7 @@
     <div class="mt-36 introduction_card">
       <div class="dm_sans">
         <h2 class="text-4xl text_love font-medium dark:text-gray-200">Enterprise developers <span class="love">❤️</span> <span class="font-bold">Nusantara Developer</span></h2>
-        <p class="mt-6 text_desk_love dark:text-gray-200 text-md leading-7">
-          Features of Our Performance in <br />
-          Website Development
-        </p>
+        <p class="mt-6 text_desk_love xl:w-1/5  dark:text-gray-200 text-md leading-8">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo. </p>
       </div>
     </div>
 
@@ -189,7 +184,7 @@
           <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30" style="background-color: #1c1c2e">
             <Lightning />
             <h3 class="text-2xl font-semibold mt-7">Faster</h3>
-            <p class="mt-5 dark:text-gray-300 leading-7">kami cepat dalam mengerjakan permintaan dari klien. karena kami sudah terlatih untuk merespon dengan cepat</p>
+            <p class="mt-5 dark:text-gray-300 leading-7">kami cepat dalam mengerjakan permintaan dari klien. karena kami terlatih untuk merespon dengan cepat</p>
           </div>
         </div>
       </div>
@@ -283,7 +278,7 @@
         <div class="dm_sans">
           <div class="ClassName text_main_forms text-start">
             <h3 class="text-4xl glow_red_text dark:text-gray-200 font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
-            <p class="xl:w-3/4 mt-4 dark:text-gray-300 leading-7">Tell me whatever it is. Give us the best message so that we are more enthusiastic to work.</p>
+            <p class="xl:w-3/4 mt-4 dark:text-gray-300 leading-7">Ceritakan apa pun itu. Berikan pesan yang terbaik agar kami semakin bersemangat dalam bekerja.</p>
           </div>
           <div class="items-center justify-center gap-16 mt-14">
             <div class="ClassName">
@@ -294,7 +289,7 @@
                   <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg mt-3 bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
                 </div>
                 <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
-                <button type="submit" class="w-48 mx-auto  py-4 px-4 text-sm mt-4 text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
+                <button type="submit" class="w-48 mx-auto py-4 px-4 text-sm mt-4 text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
               </form>
             </div>
           </div>
@@ -310,15 +305,12 @@
         <pcIco />
         <h3 class="text-3xl font-semibold dark:text-gray-200">Nusantara Developer</h3>
       </div>
-      <p class="text-center desk_footer mt-5 dark:text-gray-300 text-sm leading-7">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus velit enim eligendi vero <br />
-        Placeat voluptates ad suscipit, hic officiis vel sed eligendi qui, dolorum rerum
-      </p>
+      <p class="text-center desk_footer mt-5 xl:w-1/3 mx-auto dark:text-gray-300 text-sm leading-7">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
 
       <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
         <ul class="flex group_cr items-center flex-wrap md:mb-0">
           <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline mr-4 md:mr-6">@copyright</a></li>
-          <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline mr-4 md:mr-6">©️ZetDzak</a></li>
+          <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline mr-4 md:mr-6">©Nusantara Developer</a></li>
           <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline mr-4 md:mr-6">ebdtv4@gmail.com</a></li>
           <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline mr-4 md:mr-6">mhmdzakyadrhm@gmail.com</a></li>
           <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline">Contact</a></li>
@@ -424,7 +416,6 @@
   .light_p {
     text-shadow: 0px 0px 30px white;
   }
-
 
   @keyframes up-down {
     0% {
