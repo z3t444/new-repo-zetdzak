@@ -109,8 +109,8 @@
 
   <!-- content feature -->
   <div class="container mx-auto p-4 mt-48 dm_sans">
-    <p class="text-center zetdzak_name font-medium dark:text-gray-200">ZetDzak</p>
-    <h3 class="text-center gradient_nusantara dark:text-gray-200 text-6xl mt-3 font-normal">Leader of <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
+    <p class="text-center zetdzak_name font-medium dark:text-gray-200">ND Indonesia</p>
+    <h3 class="text-center gradient_nusantara dark:text-gray-200 text-6xl mt-3 font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
     <p class="ClassName_desk_nusantara text-center text-md mt-6 leading-8 dark:text-gray-200">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
       Error esse harum quaerat ipsa. Autem
