@@ -61,7 +61,7 @@
 
       <div class="md:flex col_content lg:flex items-center justify-center">
         <div class="sm:mt-10 md:mt-10 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
-          <p class="max_desk text-gray-700 dark:text-gray-300 lg:w-11/12">Daily life with the best collaboration between us Frontend and Backend. from all Project Creation, Web Profile, Corporate Web, Marketplace, Parallax Web design, and agency web design. Our web is a Profile Website</p>
+          <p class="max_desk text-gray-700 dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
 
           <div class="ico_pad grid grid-cols-3 space-x-4 md:space-x-6 mt-10 md:flex md:justify-center lg:justify-start">
             <a aria-label="add to slack" href="#" target="_blank" class="slack p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
@@ -145,7 +145,7 @@
       <GalleryGrid />
     </div>
     <div class="content_Desk md:w-1/2">
-      <h3 class="ClassName settings_text text-hero text-4xl mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From Yogyakarta</h3>
+      <h3 class="ClassName settings_text text-hero text-4xl mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From Indonesia</h3>
       <p class="dark:text-gray-200 mt-7 desk_text_settings leading-8 text-gray-800">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem, est omnis. Culpa vitae facilis suscipit, natus voluptatibus itaque fugit officiis dolores aut dolor enim sint temporibus corporis ducimus at inventore?</p>
       <div class="button_in_hero dark:text-gray-200 mt-10 flex justify-start items-center text-center space-x-5 p-5">
         <a href="https://mhm-dzaky.vercel.app/" class="p-3 bg-blue-500 hover:bg-blue-600 text-white duration-100 w-28 rounded-full" target="_blank">Dzaky </a>
