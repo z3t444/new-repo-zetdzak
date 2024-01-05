@@ -316,9 +316,8 @@
         <pcIco />
         <h3 class="text-4xl font-semibold">Nusantara Developer</h3>
       </div>
-      <p class="text-center desk_footer mt-5 leading-8 dark:text-gray-300">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus velit enim eligendi vero <br />
-        Placeat voluptates ad suscipit, hic officiis vel sed eligendi qui, dolorum rerum
+      <p class="text-center desk_footer xl:w-1/3 mx-auto text-sm mt-5 leading-8 dark:text-gray-300">
+        terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.
       </p>
 
       <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
