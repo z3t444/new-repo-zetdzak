@@ -55,14 +55,14 @@
     </section>
 
     <section>
-      <div class="ClassName ParallaxBlog mt-10 p-8 rounded-3xl" style="background-color: #1c1c2e">
+      <div class="ClassName ParallaxBlog mt-10 p-6 rounded-3xl" style="background-color: #1c1c2e">
         <ParallaxBlog />
       </div>
     </section>
 
     <div class="ClassName mt-14">
       <section class="p-6 rounded-3xl" style="background-color: #1c1c2e">
-        <h3 class="dark:text-gray-200 text-3xl font-medium">Our <span class="dark:text-orange-400">Skill</span> on Project ⚡</h3>
+        <h3 class="dark:text-gray-200 text-3xl text-center lg:text-start xl:text-start font-medium">Our <span class="dark:text-orange-400">Skill</span> on Project ⚡</h3>
         <section class="ClassName mt-10">
           <div class="container p-6 mx-auto space-y-6 text-center lg:p-8 lg:space-y-8">
             <div class="flex flex-wrap justify-center lg:justify-around">
