@@ -170,7 +170,7 @@
         <div class="border1 h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-between hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30" style="background-color: #1c1c2e">
           <Profile />
           <h3 class="text-2xl font-semibold mt-7">Be friendly</h3>
-          <p class="mt-5 dark:text-gray-300 leading-7">We are very friendly in every way, such as collaboration and Q&A.</p>
+          <p class="mt-5 dark:text-gray-300 leading-7">Kami sangat ramah dalam segala hal, seperti kolaborasi dan tanya jawab.</p>
         </div>
       </div>
 
@@ -179,7 +179,7 @@
           <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
             <Clock />
             <h3 class="text-2xl font-semibold mt-7">24/7 Hours</h3>
-            <p class="mt-5 dark:text-gray-300 leading-7">we work in a 24-hour week. to improve performance and flight hours for us developers.</p>
+            <p class="mt-5 dark:text-gray-300 leading-7">kami bekerja dalam 24 jam seminggu. untuk meningkatkan kinerja dan jam terbang bagi kami para pengembang.</p>
           </div>
         </div>
       </div>
@@ -189,7 +189,7 @@
           <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30" style="background-color: #1c1c2e">
             <Lightning />
             <h3 class="text-2xl font-semibold mt-7">Faster</h3>
-            <p class="mt-5 dark:text-gray-300 leading-7">we are fast in working on requests from clients. because we have been trained to respond quickly</p>
+            <p class="mt-5 dark:text-gray-300 leading-7">kami cepat dalam mengerjakan permintaan dari klien. karena kami sudah terlatih untuk merespon dengan cepat</p>
           </div>
         </div>
       </div>
@@ -199,7 +199,7 @@
           <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-green-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
             <chat />
             <h3 class="text-2xl font-semibold mt-7">Message</h3>
-            <p class="mt-5 dark:text-gray-300 leading-7">we will always answer questions or statements from others if we really need to communicate.</p>
+            <p class="mt-5 dark:text-gray-300 leading-7">kita akan selalu menjawab pertanyaan atau pernyataan dari orang lain jika kita memang perlu berkomunikasi.</p>
           </div>
         </div>
       </div>
@@ -253,7 +253,7 @@
       <div class="dm_sans mt-20 flex items-center desk_gear_emoji justify-between">
         <div>
           <h2 class="text-3xl dark:text-gray-300 font-semibold">Awesome Framework Use <span class="gear_emoji">⚙️</span></h2>
-          <p class="dark:text-gray-300 mt-5 xl:w-3/4 leading-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, molestiae at. In hic nisi eveniet quia alias dicta pariatur autem delectus nesciunt omnis sit voluptatem corporis quisquam, eaque, laborum rerum.</p>
+          <p class="dark:text-gray-300 mt-5 xl:w-3/4 leading-8">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
         </div>
         <div class="btn-about flex space-x-3">
           <a href="#" class="text-black dark:text-white text-md font-medium w-32 text-center bg-cyan-300 hover:bg-cyan-500 duration-150 dark:bg-cyan-500 hover:dark:bg-cyan-600 p-5 pt-3 pb-3 rounded-full link_about" target="_blank">About Me</a>

@@ -24,7 +24,7 @@
         <h2 class="text-center shine font-bold sm:text-4xl md:text-5xl lg:text-6xl lg:mt-52 dark:text-gray-100 dm_sans">Performance Us Nusantara Developer</h2>
       </div>
       <div class="prgh">
-        <p class="p-8 xl:w-2/4 leading-8 mt-10 dm_sans text-center mx-auto leading-10 text-gray-700 dark:text-gray-300 lg:w-11/12">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi<span class="light_lamp">💡</span></p>
+        <p class="p-8 xl:w-2/4 mt-10 dm_sans text-center mx-auto leading-9 text-gray-700 dark:text-gray-300 lg:w-11/12">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi<span class="light_lamp">💡</span></p>
       </div>
     </div>
     <!-- // -->
