@@ -38,15 +38,13 @@
           </div>
         </div>
         <div class="p-1 w-full sm:w-1/2">
-          <p class="text-orange-400">Master of Management System</p>
-          <h3 class="text-5xl font-medium mt-5 manage_system_security leading-snug">Manage All system and Data Security</h3>
+          <p class="text-orange-400">Management System</p>
+          <h3 class="text-5xl font-medium mt-5 manage_system_security leading-snug">Kelola semua System dan Kesempurnaan Data</h3>
           <p class="dark:text-gray-300 mt-8 leading-8">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum necessitatibus <br />
-            beatae perspiciatis porro cumque tempore, ipsa similique omnis voluptates esse!
+          Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami
           </p>
           <p class="dark:text-gray-300 mt-7 leading-8">
-            Lorem ipsum dolor sit, amet consectetur <br />
-            adipisicing elit.
+            Rating Kami Untuk kalian Semua
           </p>
           <div class="flex items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-10 gap-10">
             <a href="#" class="bg-blue-500 dark:text-gray-200 hover:bparent hover:border text-black hover:border-blue-400 text-center w-36 duration-100 p-4 rounded-full">Read More</a>
@@ -69,8 +67,8 @@
           <!-- Box Kedua dengan 4 Grid Box -->
           <div class="w-full md:w-1/2 p-4">
             <div class="p-1 rounded center_txt">
-              <h4 class="text-3xl font-medium leading-snug">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure perferendis!</h4>
-              <p class="mt-10 dark:text-gray-300 leading-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quis animi, reiciendis maxime incidunt neque, perferendis voluptatum veritatis cum earum debitis harum obcaecati voluptatem magni facilis nisi minus aspernatur repellendus?</p>
+              <h4 class="text-3xl font-medium xl:w-1/1 leading-snug">Kami Berada di keempat Platfrom yang populer di Dunia ini. dan Kami Tersedia</h4>
+              <p class="mt-10 dark:text-gray-300 leading-8">dengan keempat platform yang kami buat, agar mempermudah Semua Atau Pendatang baru untuk Saling Berkomunikasi ataupun Berkosntribusi dengan kami. Kami sangat menghargai kedatangan Kalian Semua.</p>
             </div>
           </div>
           <div class="w-full md:w-1/2 p-4 margin_state">
