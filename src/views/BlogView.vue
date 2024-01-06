@@ -56,7 +56,87 @@
       </div>
     </section>
 
- 
+    <section class="mt-60">
+      <div class="ClassName xl:p-0 p-5">
+        <h3 class="xl:text-4xl text-2xl text-center dark:text-gray-200">Seamless integration with your existing ecosystem.</h3>
+        <p class="dark:text-gray-300 xl:text-lg xl:w-1/3 mx-auto xl:leading-9 text-center mt-8">List of packages to extend your Refine project with UI frameworks, backend connectors and other powerful tools.</p>
+      </div>
+      <div class="flex flex-wrap justify-center gap-10 mt-10 xl:mt-32">
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 1</p>
+          </div>
+        </div>
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 2</p>
+          </div>
+        </div>
+      </div>
+      <div class="flex flex-wrap justify-center gap-10 xl:mt-10">
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 1</p>
+          </div>
+        </div>
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 2</p>
+          </div>
+        </div>
+      </div>
+      <div class="flex flex-wrap justify-center gap-10 xl:mt-10">
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 1</p>
+          </div>
+        </div>
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 2</p>
+          </div>
+        </div>
+      </div>
+      <div class="flex flex-wrap justify-center gap-10 xl:mt-10">
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 1</p>
+          </div>
+        </div>
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 2</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mt-44">
+      <div class="flex flex-wrap justify-center gap-10 xl:mt-10">
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 1</p>
+          </div>
+        </div>
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 2</p>
+          </div>
+        </div>
+      </div>
+      <div class="flex flex-wrap justify-center gap-10 xl:mt-10">
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 1</p>
+          </div>
+        </div>
+        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+            <p class="text-white text-center">Box 2</p>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <section class="ClassName mt-44">
       <div class="container px-6 py-10 mx-auto">
