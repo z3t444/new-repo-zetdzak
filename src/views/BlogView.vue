@@ -125,46 +125,9 @@
         </div>
       </div>
     </section>
-
-    <section class="mt-40 main_txt_pricing">
-      <h3 class="text-3xl dark:text-white font-medium">Lorem <span class="dark:text-sky-400 blue_shadow">ipsum</span> dolor sit amet <span class="dark:text-blue-400 blue_normal">consectetur</span>.</h3>
-      <p class="xl:w-1/3 mt-6 dark:text-gray-300 leading-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore nostrum, possimus unde consequuntur obcaecati neque. Distinctio nesciunt sunt explicabo odit.</p>
-    </section>
-    <section>
-      <div class="flex items-center gap-20 justify-center mt-20 p-20 rounded-3xl" style="background-color: #1c1c2e">
-        <div class="pie animate" style="--p: 50">50%</div>
-        <div class="pie animate" style="--p: 25; --c: darkblue; --b: 10px">25%</div>
-        <div class="pie animate no-round" style="--p: 60; --c: purple; --b: 15px">60%</div>
-        <div class="pie animate no-round" style="--p: 40; --c: orange">40%</div>
-        <div class="pie animate" style="--p: 90; --c: lightgreen">90%</div>
-      </div>
-    </section>
-
-    <section class="mt-40">
-      <div class="relative overflow-hidden mt-10 rounded-3xl">
-        <div class="relative z-10">
-          <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-10 lg:py-16">
-            <div class="max-w-3xl text-center mx-auto">
-              <p class="inline-block text-sm font-medium dark:text-gray-200">Solution Problem Solving</p>
-
-              <!-- Title -->
-              <div class="ClassName mt-7">
-                <h3 class="text-6xl dark:text-gray-200 font-medium">The Intuitive Web Solutions</h3>
-              </div>
-              <!-- End Title -->
-
-              <div class="mt-5 max-w-3xl">
-                <p class="text-sm leading-8 xl:w-3/4 mx-auto text-gray-600 dark:text-gray-300">Preline UI is an open-source set of prebuilt UI components, ready-to-use examples and Figma design system based on the utility-first Tailwind CSS framework.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <section class="mt-2 p-14">
-          <div class="ClassName ParallaxBlog mt-10 p-5 rounded-3xl" style="background-color: #1c1c2e">
-            <ParallaxBlog />
-          </div>
-        </section>
+    <section class="xl:p-6 mt-2">
+      <div class="ClassName ParallaxBlog p-5 rounded-3xl" style="background-color: #1c1c2e">
+        <ParallaxBlog />
       </div>
     </section>
 
