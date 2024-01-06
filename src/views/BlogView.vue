@@ -13,11 +13,11 @@
 <template>
   <div class="ClasAll">
     <section>
-      <div class="mt-10">
-        <div class="xl:container m-auto px-6 text-gray-600 md:px-12 xl:px-16">
-          <div class="dark:lg:bg-darker lg:p-16 rounded-[4rem] space-y-6 md:flex flex-row-reverse md:gap-6 justify-center md:space-y-0 lg:items-center">
+      <div class="mt-20">
+        <div class="xl:container m-auto px-6 text-gray-600 md:px-12">
+          <div class="dark:lg:bg-darker rounded-[4rem] md:flex flex-row-reverse md:gap-6 justify-between mx-auto md:space-y-0 lg:items-center">
             <div class="md:5/12 lg:w-1/2">
-              <img src="../assets/img/staravatar.png" alt="image" loading="lazy" width="550px" height="" />
+              <img src="../assets/img/staravatar.png" class="mx-auto" alt="image" loading="lazy" width="500px" height="" />
             </div>
             <div class="md:7/12 lg:w-1/2">
               <h2 class="text-5xl font-medium desk_avatarstar text-gray-900 md:text-4x leading-normal dark:text-white"><span class="text-sky-300 font-semibold" style="text-shadow: 0px 0px 30px rgb(0, 183, 255)">Nusantara Developer</span> is carried out by passionate developers</h2>
@@ -161,7 +161,7 @@
         </div>
 
         <section class="mt-2 p-14">
-          <div class="ClassName ParallaxBlog mt-10 p-6 rounded-3xl" style="background-color: #1c1c2e">
+          <div class="ClassName ParallaxBlog mt-10 p-5 rounded-3xl" style="background-color: #1c1c2e">
             <ParallaxBlog />
           </div>
         </section>
