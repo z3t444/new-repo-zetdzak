@@ -74,8 +74,8 @@
                 <a href="#" class="relative flex h-9 ml-auto items-center justify-center sm:px-6 before:absolute before:inset-0 before:rounded-full focus:before:bg-primary/10 dark:focus:before:bg-primaryLight/10 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95">
                   <span class="relative text-sm font-semibold text-primary dark:text-primaryLight">Sign Up</span>
                 </a>
-                <a href="#" class="relative flex h-9 ml-auto items-center justify-center sm:px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary dark:before:bg-primaryLight before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95">
-                  <span class="relative text-sm font-semibold text-white dark:text-gray-900">Login</span>
+                <a href="#" class="relative flex h-9 ml-auto items-center justify-center sm:px-6">
+                  <span class="relative text-sm font-semibold bg-blue-500 rounded-3xl p-4 text-white xl:w-28 text-center dark:text-gray-900">Login</span>
                 </a>
               </div>
             </div>
@@ -83,5 +83,21 @@
         </div>
       </nav>
     </header>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const checkbox = document.getElementById("hbr")
+        const navMenu = document.querySelector(".navmenu")
+
+        checkbox.addEventListener("change", function () {
+          if (this.checked) {
+            navMenu.classList.add("flex")
+            navMenu.classList.remove("hidden")
+          } else {
+            navMenu.classList.add("hidden")
+            navMenu.classList.remove("flex")
+          }
+        })
+      })
+    </script>
   </body>
 </html>
