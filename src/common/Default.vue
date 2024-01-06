@@ -24,7 +24,7 @@
   </p>
 
   <div class="contain_max">
-    <nav class="p-5 pt-7 dm_sans">
+    <nav class="p-5 pt-7">
       <div class="container mx-auto items-center">
         <div class="flex wrapperrast justify-between items-center">
           <a href="#">

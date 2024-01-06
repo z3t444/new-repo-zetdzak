@@ -11,7 +11,7 @@
 </script>
 
 <template>
-  <div class="dm_sans">
+  <div class="ClasAll">
     <section>
       <div class="mt-10">
         <div class="xl:container m-auto px-6 text-gray-600 md:px-12 xl:px-16">
@@ -274,7 +274,7 @@
       </div>
     </section>
 
-    <div class="viewFooter mt-40 dm_sans">
+    <div class="viewFooter mt-40 ClasAll">
       <div class="ClassName flex space-x-3 justify-center items-center">
         <pcIco />
         <h3 class="text-4xl dark:text-gray-200 font-semibold">Nusantara Developer</h3>

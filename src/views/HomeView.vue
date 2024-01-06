@@ -50,7 +50,7 @@
 </script>
 
 <template>
-  <div class="ClassName dm_sans">
+  <div class="ClassAll">
     <div class="relative xl:container mx-auto">
       <div>
         <p class="sm:text-lg daily text-orange-400 text-center md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-semibold lg:w-11/12">Daily Us Collaboration</p>

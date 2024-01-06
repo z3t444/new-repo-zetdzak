@@ -18,14 +18,14 @@
 </script>
 
 <template>
-  <div class="dm_sans shadow_collor">
+  <div class="shadow_collor">
     <!-- //Graph Peformance// -->
     <div class="bg_glow_color">
       <div class="shine_text_light">
-        <h2 class="text-center shine font-bold sm:text-4xl md:text-5xl lg:text-6xl lg:mt-52 dark:text-gray-100 dm_sans">Performance Us Nusantara Developer</h2>
+        <h2 class="text-center shine font-bold sm:text-4xl md:text-5xl lg:text-6xl lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
       </div>
       <div class="prgh">
-        <p class="p-8 xl:w-2/4 mt-10 dm_sans text-center mx-auto leading-9 text-gray-700 dark:text-gray-300 lg:w-11/12">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi<span class="light_lamp">💡</span></p>
+        <p class="p-8 xl:w-2/4 mt-10 text-center mx-auto leading-9 text-gray-700 dark:text-gray-300 lg:w-11/12">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi<span class="light_lamp">💡</span></p>
       </div>
     </div>
     <!-- // -->
@@ -49,7 +49,7 @@
             adipisicing elit.
           </p>
           <div class="flex items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-10 gap-10">
-            <a href="#" class="bg-blue-500 dark:text-gray-200 hover:bg-transparent hover:border text-black hover:border-blue-400 text-center w-36 duration-100 p-4 rounded-full">Read More</a>
+            <a href="#" class="bg-blue-500 dark:text-gray-200 hover:bparent hover:border text-black hover:border-blue-400 text-center w-36 duration-100 p-4 rounded-full">Read More</a>
             <div class="p-4 w-full sm:w-1/2 md:w-full dark:text-gray-200 lg:w-1/3 system_text_css">
               <h3 class="text-5xl font-medium">78%</h3>
               <p class="mt-3">Lorem, ipsum dolor.</p>
@@ -228,7 +228,7 @@
         </div>
         <div class="flex flex-wrap -m-2">
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Holden Caulfield</h2>
@@ -237,7 +237,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Henry Letham</h2>
@@ -246,7 +246,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Oskar Blinde</h2>
@@ -255,7 +255,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">John Doe</h2>
@@ -264,7 +264,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Martin Eden</h2>
@@ -273,7 +273,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Boris Kitua</h2>
@@ -282,7 +282,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Atticus Finch</h2>
@@ -291,7 +291,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Alper Kamu</h2>
@@ -300,7 +300,7 @@
             </div>
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bg-transparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Rodrigo Monchi</h2>
@@ -312,7 +312,7 @@
       </div>
     </section>
 
-    <div class="viewFooter mt-40 dm_sans">
+    <div class="viewFooter mt-40">
       <div class="ClassName flex space-x-3 justify-center items-center">
         <pcIco />
         <h3 class="text-4xl font-semibold">Nusantara Developer</h3>
