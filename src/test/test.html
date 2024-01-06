@@ -7,23 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
   </head>
   <body>
-    <!--
-    add this to your stylesheet 
-    
-    @layer components {
-        .navbar-active .hamburger div:first-child {
-        @apply rotate-45 translate-y-1.5;
-        }
-        .navbar-active .hamburger div:last-child {
-        @apply -rotate-45 -translate-y-1;
-        }
-        .navbar-active div:first-child div:first-child div:last-child{
-            @apply block lg:flex
-        }
-    }
--->
-
-    <header>
+    <header class="dark:bg-white">
       <input type="checkbox" name="hbr" id="hbr" class="hbr peer" hidden aria-hidden="true" />
       <nav class="fixed z-20 w-full bg-white/90 dark:bg-gray-900/80 backdrop-blur navbar shadow-2xl shadow-gray-600/5 border-b border-gray-100 dark:border-gray-800 peer-checked:navbar-active dark:shadow-none">
         <div class="xl:container m-auto px-6 md:px-12 lg:px-6">
