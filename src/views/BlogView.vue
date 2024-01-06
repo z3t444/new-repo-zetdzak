@@ -22,7 +22,7 @@
             </div>
             <div class="md:7/12 lg:w-1/2">
               <h2 class="text-3xl sm:text-3xl font-normal desk_avatarstar text-gray-900 md:text-4xl lg:text-5xl text-center xl:text-5xl xl:text-start sm:text-center xl:leading-snug leading-normal dark:text-white"><span class="text-sky-300 font-semibold" style="text-shadow: 0px 0px 30px rgb(0, 183, 255)">Nusantara Developer</span> is carried out by passionate developers</h2>
-              <p class="my-8 text-gray-600 leading-8 text-sm dark:text-gray-300">Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at? Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.</p>
+              <p class="my-8 text-gray-600 leading-8 text-center xl:text-start xl:text-lg xl:leading-9 text-sm dark:text-gray-300">Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at? Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.</p>
               <div class="divide-y space-y-4 divide-gray-100 dark:divide-gray-800">
                 <div class="mt-20 flex gap-4 md:items-center hover:scale-105 duration-100">
                   <div class="w-12 h-12 flex gap-4 rounded-full bg-indigo-100 dark:bg-indigo-900/20">
@@ -56,10 +56,12 @@
       </div>
     </section>
 
-    <section class="ClassName mt-40">
+ 
+
+    <section class="ClassName mt-44">
       <div class="container px-6 py-10 mx-auto">
         <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">explore our awesome <span class="dark:text-blue-400">Components 🔍</span></h1>
-        <p class="mt-4 text-gray-500 xl:mt-8 leading-8 dark:text-gray-300 xl:w-2/6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
+        <p class="mt-4 text-gray-500 xl:mt-8 leading-8 dark:text-gray-300 xl:text-lg xl:leading-9 xl:w-2/6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
 
         <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-20 xl:gap-17 md:grid-cols-2 xl:grid-cols-3">
           <div class="space-y-3 p-10 rounded-3xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
@@ -130,7 +132,7 @@
       <div class="container px-6 py-10 mx-auto">
         <h1 class="text-2xl font-medium text-gray-800 capitalize lg:text-3xl dark:text-white">explore our awesome <span class="underline decoration-blue-500">Components</span></h1>
 
-        <p class="mt-4 text-gray-500 xl:mt-6 xl:w-1/4 leading-8 dark:text-gray-300">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
+        <p class="mt-4 text-gray-500 xl:mt-6 xl:w-1/3 leading-8 xl:text-lg xl:leading-9 dark:text-gray-300">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
         <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-20 xl:gap-8 md:grid-cols-2 xl:grid-cols-3">
           <div class="p-8 space-y-6 border border-gray-400 dark:border-gray-800 hover:dark:border-sky-400 rounded-3xl hover:scale-105 duration-100">
             <span class="inline-block text-blue-500 dark:text-blue-400">
@@ -169,7 +171,7 @@
     <div class="viewFooter mt-40 ClasAll">
       <div class="ClassName flex space-x-3 justify-center items-center">
         <pcIco />
-        <h3 class="text-4xl dark:text-gray-200 font-semibold">Nusantara Developer</h3>
+        <h3 class="text-3xl xl:text-4xl dark:text-gray-200 font-semibold">Nusantara Developer</h3>
       </div>
       <p class="text-center desk_footer xl:w-1/3 mx-auto text-sm mt-5 leading-8 dark:text-gray-300">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
 

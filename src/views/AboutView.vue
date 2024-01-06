@@ -25,7 +25,7 @@
         <h2 class="text-center shine font-bold sm:text-4xl md:text-5xl lg:text-6xl lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
       </div>
       <div class="prgh">
-        <p class="p-8 xl:w-2/4 mt-10 text-center mx-auto leading-9 text-gray-700 dark:text-gray-300 lg:w-11/12">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi<span class="light_lamp">💡</span></p>
+        <p class="p-8 xl:w-2/4 mt-10 text-center mx-auto xl:text-lg xl:leading-10 leading-9 text-gray-700 dark:text-gray-300 lg:w-11/12">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi<span class="light_lamp">💡</span></p>
       </div>
     </div>
     <!-- // -->
@@ -40,7 +40,7 @@
         <div class="p-1 w-full sm:w-1/2">
           <p class="text-orange-400">Management System</p>
           <h3 class="text-5xl font-medium mt-5 manage_system_security leading-snug">Kelola semua System dan Kesempurnaan Data</h3>
-          <p class="dark:text-gray-300 mt-8 leading-8">
+          <p class="dark:text-gray-300 mt-8 leading-9">
           Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami
           </p>
           <p class="dark:text-gray-300 mt-7 leading-8">
@@ -68,7 +68,7 @@
           <div class="w-full md:w-1/2 p-4">
             <div class="p-1 rounded center_txt">
               <h4 class="text-3xl font-medium xl:w-1/1 leading-snug">Kami Berada di keempat Platfrom yang populer di Dunia ini. dan Kami Tersedia</h4>
-              <p class="mt-10 dark:text-gray-300 leading-8">dengan keempat platform yang kami buat, agar mempermudah Semua Atau Pendatang baru untuk Saling Berkomunikasi ataupun Berkosntribusi dengan kami. Kami sangat menghargai kedatangan Kalian Semua.</p>
+              <p class="mt-10 dark:text-gray-300 leading-9">dengan keempat platform yang kami buat, agar mempermudah Semua Atau Pendatang baru untuk Saling Berkomunikasi ataupun Berkosntribusi dengan kami. Kami sangat menghargai kedatangan Kalian Semua.</p>
             </div>
           </div>
           <div class="w-full md:w-1/2 p-4 margin_state">
@@ -222,7 +222,7 @@
       <div class="container px-5 mx-auto">
         <div class="flex flex-col text-start w-full mb-20">
           <h1 class="sm:text-4xl text-2xl font-medium mb-4 dark:text-gray-200">Our Discord Member</h1>
-          <p class="lg:w-2/6 mt-5 dark:text-gray-300 leading-8 text-base">Kami Menampilkan Tbeberapa member di server Discord Kami. dari sisi Divisi masing masing.</p>
+          <p class="lg:w-2/6 mt-5 dark:text-gray-300 leading-8 xl:text-lg xl:leading-9 text-base">Kami Menampilkan Tbeberapa member di server Discord Kami. dari sisi Divisi masing masing.</p>
         </div>
         <div class="flex flex-wrap -m-2">
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">

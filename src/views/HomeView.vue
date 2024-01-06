@@ -55,14 +55,14 @@
       <div>
         <p class="sm:text-lg daily text-orange-400 text-center md:pt-12 lg:pt-20 lg:text-start dark:text-orange-400 font-semibold lg:w-11/12">Daily Us Collaboration</p>
       </div>
-      <h1 class="glow_text sm:mx-auto font-black mt-7 text-blue-900 text-4xl text-center sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
+      <h1 class="glow_text sm:mx-auto font-black mt-7 text-blue-900 text-4xl text-center leading-tight xl:leading-none sm:text-5xl md:text-6xl lg:w-auto lg:text-left xl:text-8xl dark:text-white animate-spin-letters">
         We Are <br class="lg:block hidden" />
         <span class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300">Web Developer</span>.
       </h1>
 
       <div class="md:flex col_content lg:flex items-center justify-center">
         <div class="sm:mt-10 md:mt-10 sm:w-10/12 md:w-2/3 lg:ml-0 sm:mx-auto text-center lg:text-left lg:mr-auto lg:w-7/12">
-          <p class="max_desk text-gray-700 dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
+          <p class="max_desk text-gray-700 xl:text-lg dark:text-gray-300 lg:w-11/12">Keseharian dengan kolaborasi terbaik antara kami Frontend dan Backend. dari semua Pembuatan Proyek, Profil Web, Web Perusahaan, Marketplace, desain Web Parallax, dan desain web agensi. Web kami adalah Website Profil</p>
 
           <div class="ico_pad grid grid-cols-3 space-x-4 md:space-x-6 mt-10 md:flex md:justify-center lg:justify-start">
             <a aria-label="add to slack" href="#" target="_blank" class="slack p-4 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 rounded-full duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30">
@@ -110,9 +110,9 @@
 
   <!-- content feature -->
   <div class="container mx-auto p-4 mt-48 dm_sans">
-    <p class="text-center zetdzak_name font-medium dark:text-gray-200">ND Indonesia</p>
+    <p class="text-center font-medium dark:text-gray-200">ND Indonesia</p>
     <h3 class="text-center gradient_nusantara dark:text-gray-200 text-6xl mt-3 font-normal">Community for <span class="nusantara_text font-semibold bg-gradient-to-r from-red-500 to-blue-400 dark:bg-gradient-to-r dark:from-red-500 dark:to-white bg-clip-text text-transparent">Nusantara</span> Programmer</h3>
-    <p class="ClassName_desk_nusantara text-center text-sm mt-6 xl:w-1/3 mx-auto leading-9 dark:text-gray-200">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
+    <p class="ClassName_desk_nusantara text-center xl:leading-9 xl:text-lg xl:mt-10 xl:w-1/3 mx-auto leading-9 dark:text-gray-200">Komunitas ini telah tercipta karena suatu Hal yaitu Kompetisi Olympicade 2023/2024 Program Muhammadyah</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 mt-16 md:grid-cols-3 gap-4">
       <!-- Box 1 -->
       <div class="p-4 shadow-md text-center dark:text-gray-200 text-lg">
@@ -144,7 +144,7 @@
     </div>
     <div class="content_Desk md:w-1/2">
       <h3 class="ClassName settings_text text-hero text-4xl mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From Indonesia</h3>
-      <p class="dark:text-gray-200 mt-7 desk_text_settings leading-8 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif Untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
+      <p class="dark:text-gray-200 mt-7 xl:text-lg text-center xl:text-start leading-8 xl:leading-10 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif Untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
       <div class="button_in_hero dark:text-gray-200 mt-10 flex justify-start items-center text-center space-x-5 p-5">
         <a href="https://mhm-dzaky.vercel.app/" class="p-3 bg-blue-500 hover:bg-blue-600 text-white duration-100 w-28 rounded-full" target="_blank">Dzaky </a>
         <a href="https://zeeta.my.id" class="p-3 bg-blue-500 hover:bg-blue-600 w-28 rounded-full text-white dark:hover:bg-blue-600 duration-100" target="_blank">Zeeta </a>
@@ -156,8 +156,8 @@
   <section>
     <div class="mt-36 introduction_card">
       <div class="dm_sans">
-        <h2 class="text-4xl text_love font-medium dark:text-gray-200">Enterprise developers <span class="love">❤️</span> <span class="font-bold">Nusantara Developer</span></h2>
-        <p class="mt-6 text_desk_love xl:w-1/5 dark:text-gray-200 text-md leading-8">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo.</p>
+        <h2 class="text-4xl text_love font-medium dark:text-gray-200">Kemampuan kami<span class="love">❤️</span> <span class="font-bold">Nusantara Developer</span></h2>
+        <p class="mt-6 text_desk_love xl:w-1/4 xl:leading-9 dark:text-gray-200 xl:text-lg leading-8">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo.</p>
       </div>
     </div>
 
@@ -166,7 +166,7 @@
         <div class="border1 h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-between hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30" style="background-color: #1c1c2e">
           <Profile />
           <h3 class="text-2xl font-semibold mt-7">Be friendly</h3>
-          <p class="mt-5 dark:text-gray-300 leading-7">Kami sangat ramah dalam segala hal, seperti kolaborasi dan tanya jawab.</p>
+          <p class="mt-5 dark:text-gray-300 leading-8">Kami sangat ramah dalam segala hal, seperti kolaborasi dan tanya jawab.</p>
         </div>
       </div>
 
@@ -175,7 +175,7 @@
           <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
             <Clock />
             <h3 class="text-2xl font-semibold mt-7">24/7 Hours</h3>
-            <p class="mt-5 dark:text-gray-300 leading-7">kami bekerja dalam 24 jam seminggu. untuk meningkatkan kinerja dan jam terbang bagi kami para pengembang.</p>
+            <p class="mt-5 dark:text-gray-300 leading-8">kami bekerja dalam 24 jam seminggu. untuk meningkatkan kinerja dan jam terbang bagi kami para pengembang.</p>
           </div>
         </div>
       </div>
@@ -185,7 +185,7 @@
           <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30" style="background-color: #1c1c2e">
             <Lightning />
             <h3 class="text-2xl font-semibold mt-7">Faster</h3>
-            <p class="mt-5 dark:text-gray-300 leading-7">kami cepat dalam mengerjakan permintaan dari klien. karena kami terlatih untuk merespon dengan cepat</p>
+            <p class="mt-5 dark:text-gray-300 leading-8">kami cepat dalam mengerjakan permintaan dari klien. karena kami terlatih untuk merespon dengan cepat</p>
           </div>
         </div>
       </div>
@@ -195,7 +195,7 @@
           <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-green-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
             <chat />
             <h3 class="text-2xl font-semibold mt-7">Message</h3>
-            <p class="mt-5 dark:text-gray-300 leading-7">kita akan selalu menjawab pertanyaan atau pernyataan dari orang lain jika kita memang perlu berkomunikasi.</p>
+            <p class="mt-5 dark:text-gray-300 leading-8">kita akan selalu menjawab pertanyaan atau pernyataan dari orang lain jika kita memang perlu berkomunikasi.</p>
           </div>
         </div>
       </div>
@@ -249,7 +249,7 @@
       <div class="dm_sans mt-20 flex items-center desk_gear_emoji justify-between">
         <div>
           <h2 class="text-3xl dark:text-gray-300 font-semibold">Awesome Framework Use <span class="gear_emoji">⚙️</span></h2>
-          <p class="dark:text-gray-300 mt-5 xl:w-3/4 leading-8">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
+          <p class="dark:text-gray-300 mt-5 xl:w-3/4 xl:text-lg xl:leading-9 leading-8">Di atas ini adalah semua framework yang kami gunakan ketika kita sedang mengerjakan proejct besar. ada beberapa tools yang memang kami sangat sering Gunakan yaitu Vue JS dan React, untuk backend kami lebih sering menggunakan Nest JS dan Express JS</p>
         </div>
         <div class="btn-about flex space-x-3">
           <a href="#" class="text-black dark:text-white text-md font-medium w-32 text-center bg-cyan-300 hover:bg-cyan-500 duration-150 dark:bg-cyan-500 hover:dark:bg-cyan-600 p-5 pt-3 pb-3 rounded-full link_about" target="_blank">About Me</a>
@@ -279,7 +279,7 @@
         <div class="dm_sans">
           <div class="ClassName text_main_forms text-start">
             <h3 class="text-4xl glow_red_text dark:text-gray-200 font-medium">You can <span class="text-red-500 red_message_txt">leave</span> a <span>message</span> below</h3>
-            <p class="xl:w-3/4 mt-4 dark:text-gray-300 leading-7">Ceritakan apa pun itu. Berikan pesan yang terbaik agar kami semakin bersemangat dalam bekerja.</p>
+            <p class="xl:w-3/4 mt-6 xl:text-lg xl:leading-9 dark:text-gray-300 leading-7">Ceritakan apa pun itu. Berikan pesan yang terbaik agar kami semakin bersemangat dalam bekerja.</p>
           </div>
           <div class="items-center justify-center gap-16 mt-14">
             <div class="ClassName">
@@ -338,4 +338,3 @@
     </div>
   </div>
 </template>
-

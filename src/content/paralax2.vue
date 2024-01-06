@@ -4,7 +4,7 @@
       <h1 class="text-2xl font-semibold text-gray-300">Problem Sholving</h1>
     </div>
     <div class="content-text">
-      <p class="text-gray-300 max-desk-parallax2 text-start leading-8">Foto di atas ini ketika Nusantara Developer sedang Menyelesaikan Masalah dari Pihak Pihak yang bertanya. dari segi Frontend mapupun backend.</p>
+      <p class="text-gray-300 max-desk-parallax2 text-start xl:text-lg xl:leading-9 xl:w-2/3 leading-8">Foto di atas ini ketika Nusantara Developer sedang Menyelesaikan Masalah dari Pihak Pihak yang bertanya. dari segi Frontend mapupun backend.</p>
     </div>
   </div>
 </template>
@@ -44,7 +44,4 @@
     text-align: center;
   }
 
-  .max-desk-parallax2 {
-    max-width: 400px;
-  }
 </style>
