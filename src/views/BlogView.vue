@@ -7,6 +7,7 @@
   import Insta from "../assets/ico/insta.vue"
   import pcIco from "../assets/ico/pcIco.vue"
 
+  // //components Contents
   import ParallaxBlog from "../components/parallaxBlog.vue"
 </script>
 
@@ -20,7 +21,7 @@
               <img src="../assets/img/staravatar.png" class="mx-auto" alt="image" loading="lazy" width="500px" height="" />
             </div>
             <div class="md:7/12 lg:w-1/2">
-              <h2 class="text-5xl font-medium desk_avatarstar text-gray-900 md:text-4x leading-normal dark:text-white"><span class="text-sky-300 font-semibold" style="text-shadow: 0px 0px 30px rgb(0, 183, 255)">Nusantara Developer</span> is carried out by passionate developers</h2>
+              <h2 class="text-3xl sm:text-3xl font-normal desk_avatarstar text-gray-900 md:text-4xl lg:text-5xl text-center xl:text-5xl xl:text-start sm:text-center xl:leading-snug leading-normal dark:text-white"><span class="text-sky-300 font-semibold" style="text-shadow: 0px 0px 30px rgb(0, 183, 255)">Nusantara Developer</span> is carried out by passionate developers</h2>
               <p class="my-8 text-gray-600 leading-8 text-sm dark:text-gray-300">Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at? Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.</p>
               <div class="divide-y space-y-4 divide-gray-100 dark:divide-gray-800">
                 <div class="mt-20 flex gap-4 md:items-center hover:scale-105 duration-100">
@@ -58,7 +59,6 @@
     <section class="ClassName mt-40">
       <div class="container px-6 py-10 mx-auto">
         <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">explore our awesome <span class="dark:text-blue-400">Components 🔍</span></h1>
-
         <p class="mt-4 text-gray-500 xl:mt-8 leading-8 dark:text-gray-300 xl:w-2/6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
 
         <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-20 xl:gap-17 md:grid-cols-2 xl:grid-cols-3">
