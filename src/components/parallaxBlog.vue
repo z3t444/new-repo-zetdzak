@@ -1,10 +1,12 @@
 <template>
-  <div class="dm_sans">
-    <div class="parallaxshit2">
-      <h1 class="text-2xl font-semibold text-gray-300">Problem Sholving</h1>
-    </div>
-    <div class="content-text">
-      <p class="text-gray-300 max-desk-parallax3 text-start leading-8 xl:w-2/4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas ut, natus in maxime architecto veniam suscipit odit porro</p>
+  <div>
+    <div class="dm_sans">
+      <div class="parallaxshit2">
+        <h1 class="text-2xl font-semibold text-gray-300">Problem Sholving</h1>
+      </div>
+      <div class="content-text">
+        <p class="text-gray-300 max-desk-parallax3 text-start leading-8 xl:w-2/4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas ut, natus in maxime architecto veniam suscipit odit porro</p>
+      </div>
     </div>
   </div>
 </template>
@@ -29,7 +31,7 @@
     background-image: url("../assets/img/rplcoding.jpg");
     background-size: cover;
     background-position: center;
-    height: 550px;
+    height: 450px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -42,5 +44,4 @@
     border-bottom-right-radius: 20px;
     text-align: center;
   }
-
 </style>
