@@ -58,52 +58,52 @@
 
     <section class="mt-60">
       <div class="ClassName xl:p-0 p-5">
-        <h3 class="xl:text-4xl text-2xl text-center dark:text-gray-200">Seamless integration with your existing ecosystem.</h3>
-        <p class="dark:text-gray-300 xl:text-lg xl:w-1/3 mx-auto xl:leading-9 text-center mt-8">List of packages to extend your Refine project with UI frameworks, backend connectors and other powerful tools.</p>
+        <h3 class="xl:text-4xl text-2xl text-start dark:text-gray-200">Seamless <span class="dark:text-blue-400 font-semibold" style="text-shadow: 0px 0px 30px;">integration</span> with your existing <span class="dark:text-sky-400 font-semibold" style="text-shadow: 0px 0px 30px;">ecosystem</span>.</h3>
+        <p class="dark:text-gray-300 xl:text-lg xl:w-1/3 xl:leading-9 mt-8">List of packages to extend your Refine project with UI frameworks, backend connectors and other powerful tools.</p>
       </div>
-      <div class="flex flex-wrap justify-center gap-10 mt-10 xl:mt-32">
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+      <div class="flex flex-wrap justify-center mt-10 xl:mt-32">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
         </div>
       </div>
-      <div class="flex flex-wrap justify-center gap-10 xl:mt-10">
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+      <div class="flex flex-wrap justify-center xl:mt-10">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
         </div>
       </div>
-      <div class="flex flex-wrap justify-center gap-10 xl:mt-10">
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+      <div class="flex flex-wrap justify-center xl:mt-10">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
         </div>
       </div>
-      <div class="flex flex-wrap justify-center gap-10 xl:mt-10">
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+      <div class="flex flex-wrap justify-center xl:mt-10">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
@@ -112,25 +112,25 @@
     </section>
 
     <section class="mt-44">
-      <div class="flex flex-wrap justify-center gap-10 xl:mt-10">
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+      <div class="flex flex-wrap justify-center xl:mt-10">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
         </div>
       </div>
-      <div class="flex flex-wrap justify-center gap-10 xl:mt-10">
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+      <div class="flex flex-wrap justify-center xl:mt-10">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 lg:w-2/5 p-4">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
           <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
@@ -143,7 +143,7 @@
         <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">explore our awesome <span class="dark:text-blue-400">Components 🔍</span></h1>
         <p class="mt-4 text-gray-500 xl:mt-8 leading-8 dark:text-gray-300 xl:text-lg xl:leading-9 xl:w-2/6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
 
-        <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-20 xl:gap-17 md:grid-cols-2 xl:grid-cols-3">
+        <div class="grid grid-cols-1 gap-8 mt-12 xl:mt-20 xl:gap-17 md:grid-cols-2 xl:grid-cols-3">
           <div class="space-y-3 p-10 rounded-3xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
             <span class="inline-block p-3 text-blue-500 bg-blue-100 rounded-full dark:text-white dark:bg-blue-500">
               <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">

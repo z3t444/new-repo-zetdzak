@@ -29,7 +29,7 @@
         <div class="flex wrapperrast justify-between items-center">
           <a href="#">
             <div class="main-logo flex space-x-3 items-center">
-              <img src="../assets/img/NusantaraDeveloperlogo.jpg" class="rounded-full" width="50px" alt="" />
+              <img src="../assets/img/NusantaraDeveloperlogo.jpg" class="rounded-full" width="40px" alt="" />
               <h3 class="text-lg dark:text-white font-semibold">Nusantara Developer</h3>
             </div>
           </a>
