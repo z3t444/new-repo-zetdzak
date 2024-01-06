@@ -31,7 +31,7 @@
     <!-- // -->
 
     <section>
-      <div class="flex hero_about flex-col justify-between p-16 rounded-3xl items-center sm:flex-row mt-20 gap-10" style="background-color: #1c1c2e">
+      <div class="flex hero_about flex-col justify-between p-16 rounded-3xl items-center sm:flex-row mt-40 gap-10" style="background-color: #1c1c2e">
         <div class="p-4 w-full sm:w-1/2 rounded-2xl">
           <div class="for_import">
             <Graph />
@@ -177,7 +177,7 @@
       </div>
     </section>
 
-    <div class="ClassName maintxt_for_dc flex items-center justify-between p-10" style="margin-top: 750px">
+    <div class="ClassName maintxt_for_dc flex items-center justify-between p-10" style="margin-top: 670px">
       <h3 class="text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
       <div class="ClassName flex discord_and_button items-center space-x-2 p-3 border border-gray-900 rounded-full bg-gray-800 hover:shadow-2xl duration-100 hover:scale-105">
         <discordIco />

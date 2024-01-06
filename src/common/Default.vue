@@ -49,8 +49,8 @@
             <div class="flex space-x-5 text-sm font-medium items-center">
               <RouterLink to="/"><a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-400 duration-100">Home</a></RouterLink>
               <RouterLink to="/about"><a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-400 duration-100">About</a></RouterLink>
-              <RouterLink to="/services"><a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-400 duration-100">Services</a></RouterLink>
-              <RouterLink to="/contact"><a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-400 duration-100">Help</a></RouterLink>
+              <RouterLink to="/services"><a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-400 duration-100">Contact</a></RouterLink>
+              <RouterLink to="/contact"><a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-400 duration-100">FAQ</a></RouterLink>
               <RouterLink to="/blog"><a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-400 duration-100">Info</a></RouterLink>
             </div>
           </div>
@@ -65,8 +65,8 @@
         <div class="flex-col items-center font-medium">
           <RouterLink to="/"><a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-500 duration-100">Home</a></RouterLink>
           <RouterLink to="/about"> <a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-500 duration-100">About</a></RouterLink>
-          <RouterLink to="/services"><a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-500 duration-100">Services</a></RouterLink>
-          <RouterLink to="/contact"> <a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-500 duration-100">Help</a></RouterLink>
+          <RouterLink to="/services"><a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-500 duration-100">Contact</a></RouterLink>
+          <RouterLink to="/contact"> <a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-500 duration-100">FAQ</a></RouterLink>
           <RouterLink to="/blog"><a href="#" class="block dark:text-gray-200 py-2 hover:text-blue-500 duration-100">Info</a></RouterLink>
         </div>
       </div>
