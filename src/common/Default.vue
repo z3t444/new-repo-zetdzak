@@ -55,9 +55,11 @@
             </div>
           </div>
 
-          <div class="icoNav text-sm space-x-3">
+          <div class="icoNav text-sm space-x-5">
             <a href="#" target="_blank" class="dark:text-gray-200 hover:text-blue-400 duration-150">Sign In</a>
-            <a href="#" target="_blank" class="p-3 bg_glow text-gray-200 rounded-full">Regrister</a>
+            <button class="bg-blue-500 p-3 rounded-full w-32 hover:scale-105 duration-100 hover:bg-blue-600">
+              <a href="#" target="_blank" class="text-gray-200">Regrister</a>
+            </button>
           </div>
         </div>
       </div>
