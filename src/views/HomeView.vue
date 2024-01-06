@@ -5,6 +5,7 @@
   import "../assets/css/responsive.css"
   import "../assets/css/shineText.css"
   import "../assets/css/rotateImg.css"
+  import "../views/style/HomeView.css"
 
   // //import Ico location
   import Profile from "../components/icons/Profile.vue"
@@ -156,7 +157,7 @@
     <div class="mt-36 introduction_card">
       <div class="dm_sans">
         <h2 class="text-4xl text_love font-medium dark:text-gray-200">Enterprise developers <span class="love">❤️</span> <span class="font-bold">Nusantara Developer</span></h2>
-        <p class="mt-6 text_desk_love xl:w-1/5  dark:text-gray-200 text-md leading-8">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo. </p>
+        <p class="mt-6 text_desk_love xl:w-1/5 dark:text-gray-200 text-md leading-8">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo.</p>
       </div>
     </div>
 
@@ -342,98 +343,7 @@
   @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..set40,500;0,9..40,600;0,9..40,700;0,9..40,800;0,9..40,900;0,9..40,1000;1,9..40,300;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700;1,9..40,800;1,9..40,900;1,9..40,1000&display=swap");
   @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800;0,9..40,900;0,9..40,1000;1,9..40,300;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700;1,9..40,800;1,9..40,900;1,9..40,1000&display=swap");
 
-  .header_image {
-    animation: wave 5s infinite;
-    top: 44px;
-  }
-  .glow_text {
-    animation: neon 10s ease-in-out infinite alternate;
-  }
-  .allert {
-    font-size: 13px;
-  }
-  .max_desk {
-    max-width: 630px;
-    font-size: 17px;
-    line-height: 33px;
-  }
-  .max_paragraph {
-    max-width: 680px;
-  }
-  /* demo */
   .dm_sans {
     font-family: "DM Sans", sans-serif;
-  }
-  .love {
-    text-shadow: 0px 0px 30px red;
-  }
-  .light_lamp {
-    text-shadow: 0px 0px 30px yellow;
-  }
-
-  .ico_framework {
-    transition: all 0.2s ease-out;
-  }
-  .ico_framework:hover {
-    scale: 1.1;
-  }
-  .bg_marquee {
-    padding: 50px;
-  }
-  .dev_txt {
-    color: #26d37c;
-    text-shadow: 0px 0px 30px #26d37c;
-  }
-  .skills_txt {
-    color: #47ebeb;
-    text-shadow: 0px 0px 30px #47ebeb;
-  }
-  .master_txt {
-    color: #f2494a;
-    text-shadow: 0px 0px 30px #f2494a;
-  }
-  .gear_emoji {
-    text-shadow: 0px 0px 40px;
-  }
-  .for_bg_img {
-    background-color: red;
-    height: 350px;
-    width: 250px;
-  }
-  .image_ss {
-    width: 700px;
-  }
-
-  .ClassText_friends {
-    text-shadow: 0px 0px 30px red;
-  }
-
-  .settings_text {
-    line-height: 55px;
-    max-width: 600px;
-  }
-
-  .light_p {
-    text-shadow: 0px 0px 30px white;
-  }
-
-  @keyframes up-down {
-    0% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-    100% {
-      transform: translateY(0);
-    }
-  }
-
-  .animate-up-down {
-    animation: up-down 2s infinite;
-  }
-
-  .red_message_txt {
-    text-shadow: 0px 0px 30px red;
   }
 </style>

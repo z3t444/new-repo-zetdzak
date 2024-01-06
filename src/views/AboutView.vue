@@ -3,6 +3,7 @@
   import "../assets/css/keyframes.css"
   import "../assets/css/responsive.css"
   import "../assets/css/shineText.css"
+  import "../views/style/AboutView.css"
 
   // import Ico
   import GithubIco from "../assets/ico/githubIco.vue"
@@ -79,7 +80,7 @@
                   <Discord />
                   <div>
                     <h4 class="dark:text-gray-300">View Of</h4>
-                    <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
+                    <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Discord Server</h4>
                   </div>
                 </div>
                 <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100" style="background-color: #1c1c2e">
@@ -95,14 +96,14 @@
                   <Reddit />
                   <div>
                     <h4 class="dark:text-gray-300">View Of</h4>
-                    <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
+                    <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Reddit</h4>
                   </div>
                 </div>
                 <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100" style="background-color: #1c1c2e">
                   <Zoom />
                   <div>
                     <h4 class="dark:text-gray-300">View Of</h4>
-                    <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Repo Github</h4>
+                    <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Zoom Server</h4>
                   </div>
                 </div>
               </div>
@@ -223,7 +224,7 @@
       <div class="container px-5 mx-auto">
         <div class="flex flex-col text-start w-full mb-20">
           <h1 class="sm:text-4xl text-2xl font-medium mb-4 dark:text-gray-200">Our Discord Member</h1>
-          <p class="lg:w-2/6 mt-5 dark:text-gray-300 leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
+          <p class="lg:w-2/6 mt-5 dark:text-gray-300 leading-8 text-base">Kami Menampilkan Tbeberapa member di server Discord Kami. dari sisi Divisi masing masing.</p>
         </div>
         <div class="flex flex-wrap -m-2">
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
@@ -316,9 +317,7 @@
         <pcIco />
         <h3 class="text-4xl font-semibold">Nusantara Developer</h3>
       </div>
-      <p class="text-center desk_footer xl:w-1/3 mx-auto text-sm mt-5 leading-8 dark:text-gray-300">
-        terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.
-      </p>
+      <p class="text-center desk_footer xl:w-1/3 mx-auto text-sm mt-5 leading-8 dark:text-gray-300">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
 
       <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
         <ul class="flex group_cr items-center flex-wrap md:mb-0">
@@ -350,25 +349,3 @@
     </div>
   </div>
 </template>
-
-<style scoped>
-  .Explore_our_leading {
-    line-height: 50px;
-  }
-
-  .pfrm_red {
-    text-shadow: 0px 0px 30px red;
-  }
-
-  .people_txt_glow {
-    text-shadow: 0px 0px 30px rgb(2, 170, 236);
-  }
-
-  .discord_txt_glow {
-    text-shadow: 0px 0px 30px purple;
-  }
-
-  .red_message_txt {
-    text-shadow: 0px 0px 30px red;
-  }
-</style>

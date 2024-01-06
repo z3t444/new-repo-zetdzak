@@ -1,6 +1,7 @@
 <script setup>
   import "../assets/css/responsive.css"
   import "../assets/css/graphpie.css"
+  import "../views/style/BlogView.css"
   import GithubIco from "../assets/ico/githubIco.vue"
   import facebookIco from "../assets/ico/facebookIco.vue"
   import Insta from "../assets/ico/insta.vue"
@@ -278,9 +279,7 @@
         <pcIco />
         <h3 class="text-4xl dark:text-gray-200 font-semibold">Nusantara Developer</h3>
       </div>
-      <p class="text-center desk_footer xl:w-1/3 mx-auto text-sm mt-5 leading-8 dark:text-gray-300">
-        terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.
-      </p>
+      <p class="text-center desk_footer xl:w-1/3 mx-auto text-sm mt-5 leading-8 dark:text-gray-300">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
 
       <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
         <ul class="flex group_cr items-center flex-wrap md:mb-0">
@@ -319,13 +318,5 @@
 
   .dm_sans {
     font-family: "DM Sans", sans-serif;
-  }
-
-  .blue_shadow {
-    text-shadow: 0px 0px 30px rgb(0, 191, 255);
-  }
-
-  .blue_normal {
-    text-shadow: 0px 0px 30px rgb(0, 140, 255);
   }
 </style>

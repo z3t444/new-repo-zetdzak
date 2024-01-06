@@ -15,6 +15,7 @@
   }
   import "../assets/css/allert.css"
   import "../assets/css/responsive.css"
+  import '../common/style/defaultCommon.css'
 </script>
 
 <template>
@@ -83,14 +84,5 @@
     font-family: "DM Sans", sans-serif;
   }
 
-  .bg_glow {
-    background-color: #2379d5;
-  }
-  .bg_glow:hover {
-    text-shadow: 0px 0px 5px #23a6d5, 0px 0px 30px #23a6d5, 0px 0px 90px #23a6d5, 0px 0px 120px #23a6d5;
-  }
-  .contain_max {
-    max-width: 1450px;
-    margin: auto;
-  }
+
 </style>
