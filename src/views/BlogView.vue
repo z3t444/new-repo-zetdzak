@@ -6,6 +6,9 @@
   import facebookIco from "../assets/ico/facebookIco.vue"
   import Insta from "../assets/ico/insta.vue"
   import pcIco from "../assets/ico/pcIco.vue"
+
+  import messageIco from "@/assets/ico/messageIco.vue"
+  import locationIco from '../assets/ico/locationIco.vue'
 </script>
 
 <template>
@@ -18,17 +21,12 @@
               <img src="../assets/img/staravatar.png" class="mx-auto" alt="image" loading="lazy" width="500px" height="" />
             </div>
             <div class="md:7/12 lg:w-1/2">
-              <h2 class="text-3xl sm:text-3xl font-normal desk_avatarstar text-gray-900 md:text-4xl lg:text-5xl text-center xl:text-5xl xl:text-start sm:text-center xl:leading-snug leading-normal dark:text-white">We maintain the <span class="dark:text-red-500 font-semibold" style="text-shadow: 0px 0px 30px">development</span> <span class="font-semibold dark:text-orange-400" style="text-shadow: 0px 0px 30px">ecosystem </span> of every framework that we run.</h2>
+              <h2 class="text-2xl sm:text-3xl font-medium desk_avatarstar text-gray-900 md:text-4xl lg:text-5xl text-center xl:text-[50px] xl:text-start sm:text-center xl:leading-tight leading-normal dark:text-gray-200">We maintain the development ecosystem of every framework that we run.</h2>
               <p class="my-8 text-gray-600 leading-8 text-center xl:text-start xl:text-lg xl:leading-9 text-sm dark:text-gray-300">Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at? Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.</p>
               <div class="divide-y space-y-4 divide-gray-100 dark:divide-gray-800">
                 <div class="mt-20 flex gap-4 md:items-center hover:scale-105 duration-100">
                   <div class="w-12 h-12 flex gap-4 rounded-full bg-indigo-100 dark:bg-indigo-900/20">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 m-auto text-indigo-500 dark:text-indigo-400">
-                      <path
-                        fill-rule="evenodd"
-                        d="M4.848 2.771A49.144 49.144 0 0112 2.25c2.43 0 4.817.178 7.152.52 1.978.292 3.348 2.024 3.348 3.97v6.02c0 1.946-1.37 3.678-3.348 3.97a48.901 48.901 0 01-3.476.383.39.39 0 00-.297.17l-2.755 4.133a.75.75 0 01-1.248 0l-2.755-4.133a.39.39 0 00-.297-.17 48.9 48.9 0 01-3.476-.384c-1.978-.29-3.348-2.024-3.348-3.97V6.741c0-1.946 1.37-3.68 3.348-3.97zM6.75 8.25a.75.75 0 01.75-.75h9a.75.75 0 010 1.5h-9a.75.75 0 01-.75-.75zm.75 2.25a.75.75 0 000 1.5H12a.75.75 0 000-1.5H7.5z"
-                        clip-rule="evenodd" />
-                    </svg>
+                   <messageIco/>
                   </div>
                   <div class="w-5/6">
                     <h3 class="font-semibold text-lg text-gray-700 dark:text-indigo-300">Chat Anytime</h3>
@@ -37,9 +35,7 @@
                 </div>
                 <div class="pt-4 flex gap-4 md:items-center hover:scale-105 duration-100">
                   <div class="w-12 h-12 flex gap-4 rounded-full bg-teal-100 dark:bg-teal-900/20">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 m-auto text-teal-600 dark:text-teal-400">
-                      <path fill-rule="evenodd" d="M11.54 22.351l.07.04.028.016a.76.76 0 00.723 0l.028-.015.071-.041a16.975 16.975 0 001.144-.742 19.58 19.58 0 002.683-2.282c1.944-1.99 3.963-4.98 3.963-8.827a8.25 8.25 0 00-16.5 0c0 3.846 2.02 6.837 3.963 8.827a19.58 19.58 0 002.682 2.282 16.975 16.975 0 001.145.742zM12 13.5a3 3 0 100-6 3 3 0 000 6z" clip-rule="evenodd" />
-                    </svg>
+                   <locationIco/>
                   </div>
                   <div class="w-5/6">
                     <h3 class="font-semibold text-lg text-gray-700 dark:text-teal-300">Real Time Location</h3>
@@ -55,7 +51,7 @@
 
     <section class="mt-60">
       <div class="ClassName xl:p-0 p-5">
-        <h3 class="xl:text-4xl text-2xl text-start dark:text-gray-200">Seamless <span class="dark:text-blue-400 font-semibold" style="text-shadow: 0px 0px 30px">integration</span> with your existing <span class="dark:text-sky-400 font-semibold" style="text-shadow: 0px 0px 30px">ecosystem</span>.</h3>
+        <h3 class="xl:text-4xl text-2xl leading-10 text-start dark:text-gray-200">Seamless <span class="dark:text-blue-400 font-semibold" style="text-shadow: 0px 0px 20px;">integration</span> with your existing <span class="dark:text-sky-400 font-semibold" style="text-shadow: 0px 0px 20px;">ecosystem</span>.</h3>
         <p class="dark:text-gray-300 xl:text-lg xl:w-1/3 xl:leading-9 mt-8">List of packages to extend your Refine project with UI frameworks, backend connectors and other powerful tools.</p>
       </div>
       <div class="flex flex-wrap justify-center mt-10 xl:mt-24">
@@ -137,7 +133,7 @@
 
     <section class="ClassName mt-44">
       <div class="container px-6 py-10 mx-auto">
-        <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">explore our awesome <span class="dark:text-blue-400">Components 🔍</span></h1>
+        <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">explore our awesome <span class="dark:text-red-500" style="text-shadow: 0px 0px 20px;">Components</span>🔍</h1>
         <p class="mt-4 text-gray-500 xl:mt-8 leading-8 dark:text-gray-300 xl:text-lg xl:leading-9 xl:w-2/6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
 
         <div class="grid grid-cols-1 gap-8 mt-12 xl:mt-20 xl:gap-17 md:grid-cols-2 xl:grid-cols-3">
