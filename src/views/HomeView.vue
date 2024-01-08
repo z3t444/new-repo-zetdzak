@@ -284,7 +284,7 @@
               <form action="https://api.web3forms.com/submit" method="POST" class="grid gap-4 max-w-8xl mx-auto rounded-lg w-full">
                 <input type="hidden" name="access_key" value="3a928331-13f9-4e84-86cf-adb4fb41d57e" />
                 <div class="gap-3 flex">
-                  <input type="text" name="name" required placeholder="Your Name" class="w-full p-5 rounded-2xl mt-3 shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
+                  <input type="text" name="name" required placeholder="Your Name" class="w-full p-5 rounded-2xl mt-3 shadow-lg focus:outline-none bg-transparent focus:border-blue-500 bg-[#1c1c2e]"/>
                   <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg mt-3 bg-transparent focus:border-blue-500" style="background-color: #1c1c2e" />
                 </div>
                 <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500" style="background-color: #1c1c2e"></textarea>
