@@ -51,7 +51,7 @@
 
     <section class="mt-60">
       <div class="ClassName xl:p-0 p-5">
-        <h3 class="xl:text-4xl text-2xl leading-10 text-start dark:text-gray-200">Seamless <span class="dark:text-blue-400 font-semibold" style="text-shadow: 0px 0px 20px;">integration</span> with your existing <span class="dark:text-sky-400 font-semibold" style="text-shadow: 0px 0px 20px;">ecosystem</span>.</h3>
+        <h3 class="xl:text-4xl text-2xl leading-9 text-start dark:text-gray-200">Seamless <span class="dark:text-blue-400 font-semibold" style="text-shadow: 0px 0px 20px;">integration</span> with your existing <span class="dark:text-sky-400 font-semibold" style="text-shadow: 0px 0px 20px;">ecosystem</span>.</h3>
         <p class="dark:text-gray-300 xl:text-lg xl:w-1/3 xl:leading-9 mt-8">List of packages to extend your Refine project with UI frameworks, backend connectors and other powerful tools.</p>
       </div>
       <div class="flex flex-wrap justify-center mt-10 xl:mt-24">
@@ -133,7 +133,7 @@
 
     <section class="ClassName mt-44">
       <div class="container px-6 py-10 mx-auto">
-        <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">explore our awesome <span class="dark:text-red-500" style="text-shadow: 0px 0px 20px;">Components</span>🔍</h1>
+        <h1 class="text-2xl font-semibold text-gray-800 capitalize leading-8 lg:text-3xl dark:text-white">explore our awesome <span class="dark:text-red-500" style="text-shadow: 0px 0px 20px;">Components</span>🔍</h1>
         <p class="mt-4 text-gray-500 xl:mt-8 leading-8 dark:text-gray-300 xl:text-lg xl:leading-9 xl:w-2/6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum quam voluptatibus</p>
 
         <div class="grid grid-cols-1 gap-8 mt-12 xl:mt-20 xl:gap-17 md:grid-cols-2 xl:grid-cols-3">
