@@ -137,7 +137,7 @@
     </div>
   </div>
 
-  <div class="flex flex-col dm_sans md:flex-row mt-60 justify-around space-x-2 items-center padding_hero p-16 border border-gray-200 dark:border-gray-800 rounded-3xl" style="background-color: #1c1c2e">
+  <div class="flex flex-col dm_sans md:flex-row mt-60 justify-around space-x-2 items-center padding_hero p-16 border border-gray-200 dark:border-gray-800 bg-[#1c1c2e] rounded-3xl">
     <div class="galleryGrid">
       <GalleryGrid />
     </div>
