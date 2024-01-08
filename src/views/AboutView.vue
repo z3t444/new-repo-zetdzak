@@ -173,7 +173,7 @@
       </div>
     </section>
 
-    <div class="ClassName maintxt_for_dc flex items-center justify-between p-10" style="margin-top: 570px">
+    <div class="ClassName maintxt_for_dc flex items-center justify-between mt-[550px] p-10">
       <h3 class="text-3xl leading-10 xl:text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
       <div class="ClassName flex discord_and_button items-center space-x-2 p-3 border border-gray-900 rounded-full bg-gray-800 hover:shadow-2xl duration-100 hover:scale-105">
         <discordIco />
