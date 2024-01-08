@@ -18,7 +18,7 @@
         <div class="xl:container m-auto px-6 text-gray-600 md:px-12">
           <div class="dark:lg:bg-darker rounded-[4rem] md:flex flex-row-reverse md:gap-6 justify-between mx-auto md:space-y-0 lg:items-center">
             <div class="md:5/12 lg:w-1/2">
-              <img src="../assets/img/staravatar.png" class="mx-auto" alt="image" loading="lazy" width="500px" height="" />
+              <img src="../assets/img/staravatar.png" class="mx-auto image-hero-blog animate-up-down duration-100" alt="image" loading="lazy" width="500px" height="" />
             </div>
             <div class="md:7/12 lg:w-1/2">
               <h2 class="text-2xl sm:text-3xl font-medium desk_avatarstar text-gray-900 md:text-4xl lg:text-5xl text-center xl:text-[50px] xl:text-start sm:text-center xl:leading-tight leading-normal dark:text-gray-200">We maintain the development ecosystem of every framework that we run.</h2>

@@ -148,7 +148,6 @@
       <div class="button_in_hero dark:text-gray-200 mt-10 flex justify-start items-center text-center space-x-5 p-5">
         <a href="https://mhm-dzaky.vercel.app/" class="p-3 bg-blue-500 hover:bg-blue-600 text-white duration-100 w-28 rounded-full" target="_blank">Dzaky </a>
         <a href="https://zeeta.my.id" class="p-3 bg-blue-500 hover:bg-blue-600 w-28 rounded-full text-white dark:hover:bg-blue-600 duration-100" target="_blank">Zeeta </a>
-        <p class="light_p font-semibold">Visite this SITE!</p>
       </div>
     </div>
   </div>
