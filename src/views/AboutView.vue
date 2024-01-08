@@ -62,7 +62,7 @@
     </section>
 
     <section>
-      <div class="ClassName mt-24 grid_github p-9 rounded-3xl">
+      <div class="ClassName mt-28 grid_github p-2 rounded-3xl">
         <div class="flex flex-wrap items-center justify-between">
           <!-- Box Kedua dengan 4 Grid Box -->
           <div class="w-full md:w-1/2 p-4">
@@ -115,28 +115,28 @@
       <div class="other_gallery_card mt-44">
         <h2 class="text-3xl text-center font-medium">Tim Utama Nusantara Developer</h2>
         <div class="flex flex-wrap gap-10 mx-auto justify-center mt-10 rounded-3xl">
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/relpicture.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
@@ -145,28 +145,28 @@
           </div>
         </div>
         <div class="flex flex-wrap mx-auto gap-10 justify-center mt-20 rounded-3xl">
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/zet.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
-          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-64 p-4 duration-100">
+          <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Im Zet</h3>
@@ -177,7 +177,7 @@
       </div>
     </section>
 
-    <div class="ClassName maintxt_for_dc flex items-center justify-between p-10" style="margin-top: 670px">
+    <div class="ClassName maintxt_for_dc flex items-center justify-between p-10" style="margin-top: 570px">
       <h3 class="text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
       <div class="ClassName flex discord_and_button items-center space-x-2 p-3 border border-gray-900 rounded-full bg-gray-800 hover:shadow-2xl duration-100 hover:scale-105">
         <discordIco />
