@@ -54,7 +54,11 @@
         <h3 class="xl:text-4xl text-2xl leading-9 text-start dark:text-gray-200">Seamless <span class="dark:text-blue-400 font-semibold" style="text-shadow: 0px 0px 20px;">integration</span> with your existing <span class="dark:text-sky-400 font-semibold" style="text-shadow: 0px 0px 20px;">ecosystem</span>.</h3>
         <p class="dark:text-gray-300 xl:text-lg xl:w-1/3 xl:leading-9 mt-8">List of packages to extend your Refine project with UI frameworks, backend connectors and other powerful tools.</p>
       </div>
-      <div class="flex flex-wrap justify-center mt-10 xl:mt-24">
+      <div class="border-t border-gray-800 mt-12 h-5"></div>
+      <div class="ClassName mt-10">
+        <h3 class="ClassName xl:text-3xl p-5 pb-1 xl:p-0 dark:text-gray-200 font-semibold">UI an DB framework</h3>
+      </div>
+      <div class="flex flex-wrap justify-center mt-10 xl:mt-14">
         <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
           <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
@@ -138,7 +142,7 @@
 
         <div class="grid grid-cols-1 gap-8 mt-12 xl:mt-20 xl:gap-17 md:grid-cols-2 xl:grid-cols-3">
           <div class="space-y-3 p-10 rounded-3xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
-            <span class="inline-block p-3 text-blue-500 bg-blue-100 rounded-full dark:text-white dark:bg-red-500">
+            <span class="inline-block p-3 text-blue-500 bg-blue-100 rounded-full dark:text-white dark:bg-red-500  shadow-red-500">
               <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
               </svg>
@@ -247,7 +251,6 @@
         <h3 class="text-3xl xl:text-4xl dark:text-gray-200 font-semibold">Nusantara Developer</h3>
       </div>
       <p class="text-center desk_footer xl:w-1/3 mx-auto text-sm mt-5 leading-8 dark:text-gray-300">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
-
       <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
         <ul class="flex group_cr items-center flex-wrap md:mb-0">
           <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline mr-4 md:mr-6">@copyright</a></li>
