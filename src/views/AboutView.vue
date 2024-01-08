@@ -222,7 +222,7 @@
         </div>
         <div class="flex flex-wrap -m-2">
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100" style="background-color: #1c1c2e">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/akaksayangg.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Holden Caulfield</h2>
