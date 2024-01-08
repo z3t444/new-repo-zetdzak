@@ -180,7 +180,7 @@
         <h4 class="font-medium">Join</h4>
       </div>
     </div>
-    <section class="p-2 margin_state dark:text-gray-200 rounded-3xl" style="background-color: #1c1c2e">
+    <section class="p-2 margin_state dark:text-gray-200 rounded-3xl bg-[#1c1c2e]">
       <div class="flex coloumn_rate items-center p-10 rounded-3xl">
         <div class="ClassName img">
           <img src="../assets/img/rplcoding.jpg" class="rounded-3xl hover:scale-105 duration-100" width="650px" alt="" />
