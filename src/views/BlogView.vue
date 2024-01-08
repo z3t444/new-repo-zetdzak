@@ -18,7 +18,7 @@
               <img src="../assets/img/staravatar.png" class="mx-auto" alt="image" loading="lazy" width="500px" height="" />
             </div>
             <div class="md:7/12 lg:w-1/2">
-              <h2 class="text-3xl sm:text-3xl font-normal desk_avatarstar text-gray-900 md:text-4xl lg:text-5xl text-center xl:text-5xl xl:text-start sm:text-center xl:leading-snug leading-normal dark:text-white"><span class="text-sky-300 font-semibold" style="text-shadow: 0px 0px 30px rgb(0, 183, 255)">Nusantara Developer</span> is carried out by passionate developers</h2>
+              <h2 class="text-3xl sm:text-3xl font-normal desk_avatarstar text-gray-900 md:text-4xl lg:text-5xl text-center xl:text-5xl xl:text-start sm:text-center xl:leading-snug leading-normal dark:text-white">We maintain the <span class="dark:text-red-500 font-semibold" style="text-shadow: 0px 0px 30px">development</span> <span class="font-semibold dark:text-orange-400" style="text-shadow: 0px 0px 30px">ecosystem </span> of every framework that we run.</h2>
               <p class="my-8 text-gray-600 leading-8 text-center xl:text-start xl:text-lg xl:leading-9 text-sm dark:text-gray-300">Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at? Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.</p>
               <div class="divide-y space-y-4 divide-gray-100 dark:divide-gray-800">
                 <div class="mt-20 flex gap-4 md:items-center hover:scale-105 duration-100">
@@ -55,7 +55,7 @@
 
     <section class="mt-60">
       <div class="ClassName xl:p-0 p-5">
-        <h3 class="xl:text-4xl text-2xl text-start dark:text-gray-200">Seamless <span class="dark:text-blue-400 font-semibold" style="text-shadow: 0px 0px 30px;">integration</span> with your existing <span class="dark:text-sky-400 font-semibold" style="text-shadow: 0px 0px 30px;">ecosystem</span>.</h3>
+        <h3 class="xl:text-4xl text-2xl text-start dark:text-gray-200">Seamless <span class="dark:text-blue-400 font-semibold" style="text-shadow: 0px 0px 30px">integration</span> with your existing <span class="dark:text-sky-400 font-semibold" style="text-shadow: 0px 0px 30px">ecosystem</span>.</h3>
         <p class="dark:text-gray-300 xl:text-lg xl:w-1/3 xl:leading-9 mt-8">List of packages to extend your Refine project with UI frameworks, backend connectors and other powerful tools.</p>
       </div>
       <div class="flex flex-wrap justify-center mt-10 xl:mt-24">
