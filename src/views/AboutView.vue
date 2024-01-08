@@ -155,7 +155,7 @@
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/akaksayangg.png" alt="" />
             <div class="text-center mt-5">
-              <h3 class="text-2xl font-medium">Im Zet</h3>
+              <h3 class="text-2xl font-medium">Im Zet</h3>  
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
