@@ -263,7 +263,7 @@
       <div class="p-4 m-2 parallax1 rounded-3xl sm:w-1/2 bg-[#1c1c2e]">
         <paralax1 />
       </div>
-      <div class="p-4 m-2 parallax2 bg-gray-100 rounded-3xl sm:w-1/2 lg:w-full bg-[#1c1c2e]">
+      <div class="p-4 m-2 parallax2 rounded-3xl sm:w-1/2 lg:w-full bg-[#1c1c2e]">
         <paralax2 />
       </div>
     </div>
