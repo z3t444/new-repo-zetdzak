@@ -288,7 +288,7 @@
                   <input type="email" name="email" required placeholder="Your Email" class="w-full p-5 rounded-2xl shadow-lg mt-3 bg-transparent focus:border-blue-500 bg-[#1c1c2e]" />
                 </div>
                 <textarea name="message" required placeholder="Your Message" class="w-full px-4 py-4 h-60 rounded-2xl shadow-lg focus:outline-none bg-transparent focus:border-blue-500 bg-[#1c1c2e]"></textarea>
-                <button type="submit" class="w-48 mx-auto py-4 px-4 text-sm mt-4 text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600" style="background-color: #1c1c2e">Submit Form</button>
+                <button type="submit" class="w-48 mx-auto py-4 px-4 text-sm mt-4 text-white font-semibold rounded-3xl hover:scale-95 hover:text-gray-200 hover:bg-blue-600 focus:outline-none duration-100 focus:bg-blue-600 bg-[#1c1c2e]">Submit Form</button>
               </form>
             </div>
           </div>
