@@ -22,7 +22,7 @@
     <!-- //Graph Peformance// -->
     <div class="bg_glow_color">
       <div class="shine_text_light">
-        <h2 class="text-center shine font-bold sm:text-4xl md:text-5xl lg:text-6xl lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
+        <h2 class="text-center shine font-bold text-4xl md:text-5xl lg:text-6xl lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
       </div>
       <div class="prgh">
         <p class="p-8 xl:w-2/4 mt-10 text-center mx-auto xl:text-lg xl:leading-10 leading-9 text-gray-700 dark:text-gray-300 lg:w-11/12">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi<span class="light_lamp">💡</span></p>
@@ -221,8 +221,8 @@
     <section class="dark:text-gray-200 mt-24">
       <div class="container px-5 mx-auto">
         <div class="flex flex-col text-start w-full mb-20">
-          <h1 class="sm:text-4xl text-2xl font-medium mb-4 dark:text-gray-200">Our Discord Member</h1>
-          <p class="lg:w-2/6 mt-5 dark:text-gray-300 leading-8 xl:text-lg xl:leading-9 text-base">Kami Menampilkan beberapa member di server Discord Kami. dari sisi Divisi masing masing.</p>
+          <h1 class="xl:text-4xl text-3xl font-medium mb-4 dark:text-gray-200">Our Discord Member</h1>
+          <p class="lg:w-2/6 dark:text-gray-300 leading-8 xl:text-lg xl:leading-9 text-base">Kami Menampilkan beberapa member di server Discord Kami. dari sisi Divisi masing masing.</p>
         </div>
         <div class="flex flex-wrap -m-2">
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
