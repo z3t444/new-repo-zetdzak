@@ -31,15 +31,15 @@
     <!-- // -->
 
     <section>
-      <div class="flex hero_about flex-col justify-between p-16 rounded-3xl items-center sm:flex-row mt-40 gap-10" style="background-color: #1c1c2e">
-        <div class="p-4 w-full sm:w-1/2 rounded-2xl">
+      <div class="flex hero_about flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row mt-40 gap-10" style="background-color: #1c1c2e">
+        <div class="xl:p-4 w-full sm:w-1/2 rounded-2xl">
           <div class="for_import">
             <Graph />
           </div>
         </div>
-        <div class="p-1 w-full sm:w-1/2">
+        <div class="p-1 w-full xl:mt-0 mt-20 sm:w-1/2">
           <p class="text-orange-400">Management System</p>
-          <h3 class="text-5xl font-medium mt-5 manage_system_security leading-snug">Kelola semua System dan Kesempurnaan Data</h3>
+          <h3 class="text-3xl xl:text-5xl font-medium mt-5 manage_system_security xl:leading-snug">Kelola semua System dan Kesempurnaan Data</h3>
           <p class="dark:text-gray-300 mt-8 leading-9">
           Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami
           </p>
@@ -178,7 +178,7 @@
     </section>
 
     <div class="ClassName maintxt_for_dc flex items-center justify-between p-10" style="margin-top: 570px">
-      <h3 class="text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
+      <h3 class="text-3xl leading-10 xl:text-4xl font-normal"><span class="text-sky-400 font-semibold people_txt_glow">People</span> constribution on <span class="font-semibold discord_txt_glow text-purple-700">Discord</span> server</h3>
       <div class="ClassName flex discord_and_button items-center space-x-2 p-3 border border-gray-900 rounded-full bg-gray-800 hover:shadow-2xl duration-100 hover:scale-105">
         <discordIco />
         <h4 class="font-medium">Join</h4>
@@ -222,7 +222,7 @@
       <div class="container px-5 mx-auto">
         <div class="flex flex-col text-start w-full mb-20">
           <h1 class="sm:text-4xl text-2xl font-medium mb-4 dark:text-gray-200">Our Discord Member</h1>
-          <p class="lg:w-2/6 mt-5 dark:text-gray-300 leading-8 xl:text-lg xl:leading-9 text-base">Kami Menampilkan Tbeberapa member di server Discord Kami. dari sisi Divisi masing masing.</p>
+          <p class="lg:w-2/6 mt-5 dark:text-gray-300 leading-8 xl:text-lg xl:leading-9 text-base">Kami Menampilkan beberapa member di server Discord Kami. dari sisi Divisi masing masing.</p>
         </div>
         <div class="flex flex-wrap -m-2">
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
