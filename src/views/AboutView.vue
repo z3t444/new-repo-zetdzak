@@ -77,7 +77,7 @@
                     <h4 class="dark:text-gray-200 font-medium text-lg mt-2">Discord Server</h4>
                   </div>
                 </div>
-                <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100" style="background-color: #1c1c2e">
+                <div class="p-6 rounded-3xl flex space-x-3 dark:border dark:border-gray-800 hover:scale-105 duration-100 bg-[#1c1c2e]">
                   <Github />
                   <div>
                     <h4 class="dark:text-gray-300">View Of</h4>
