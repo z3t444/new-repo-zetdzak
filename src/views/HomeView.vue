@@ -161,7 +161,7 @@
 
     <div class="flex flex-wrap dm_sans mt-10 text-black dark:text-white">
       <div class="w-full sm:w-1/2 md:w-1/4 p-3">
-        <div class="border1 h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-between hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30" style="background-color: #1c1c2e">
+        <div class="border1 h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-between hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-600/20 dark:hover:border-cyan-300/30 bg-[#1c1c2e]">
           <Profile />
           <h3 class="text-2xl font-semibold mt-7">Be friendly</h3>
           <p class="mt-5 dark:text-gray-300 leading-8">Kami sangat ramah dalam segala hal, seperti kolaborasi dan tanya jawab.</p>
@@ -170,7 +170,7 @@
 
       <div class="w-full sm:w-1/2 md:w-1/4 p-3">
         <div class="border2 h-72 rounded-3xl hadow-md flex items-center justify-center">
-          <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
+          <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-lime-600/20 dark:hover:border-green-300/30 bg-[#1c1c2e]">
             <Clock />
             <h3 class="text-2xl font-semibold mt-7">24/7 Hours</h3>
             <p class="mt-5 dark:text-gray-300 leading-8">kami bekerja dalam 24 jam seminggu. untuk meningkatkan kinerja dan jam terbang bagi kami para pengembang.</p>
@@ -180,7 +180,7 @@
 
       <div class="w-full sm:w-1/2 md:w-1/4 p-3">
         <div class="border3 h-72 rounded-3xl flex items-center justify-center">
-          <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30" style="background-color: #1c1c2e">
+          <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/20 dark:hover:border-yellow-300/30 bg-[#1c1c2e]">
             <Lightning />
             <h3 class="text-2xl font-semibold mt-7">Faster</h3>
             <p class="mt-5 dark:text-gray-300 leading-8">kami cepat dalam mengerjakan permintaan dari klien. karena kami terlatih untuk merespon dengan cepat</p>
@@ -190,7 +190,7 @@
 
       <div class="w-full sm:w-1/2 md:w-1/4 p-3">
         <div class="border4 h-72 rounded-3xl flex items-center justify-center">
-          <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-green-600/20 dark:hover:border-green-300/30" style="background-color: #1c1c2e">
+          <div class="bord h-72 border hover:scale-110 duration-150 dark:border-gray-800 rounded-3xl p-5 shadow-md flex-col text-start items-center justify-center hover:border-green-400 hover:shadow-lg hover:shadow-green-600/20 dark:hover:border-green-300/30 bg-[#1c1c2e]">
             <chat />
             <h3 class="text-2xl font-semibold mt-7">Message</h3>
             <p class="mt-5 dark:text-gray-300 leading-8">kita akan selalu menjawab pertanyaan atau pernyataan dari orang lain jika kita memang perlu berkomunikasi.</p>
@@ -206,7 +206,7 @@
         <p class="skill text-4xl font-normal dark:text-gray-200">Web <span class="dev_txt font-semibold">dev</span> framework <span class="skills_txt font-semibold">skills</span> that we <span class="master_txt font-semibold">master</span></p>
       </div>
     </div>
-    <div class="mt-16 bg_marquee rounded-3xl" style="background-color: #1c1c2e">
+    <div class="mt-16 bg_marquee rounded-3xl bg-[#1c1c2e]">
       <div>
         <!-- //marquee icon frontend// -->
         <marquee class="marquee1 rounded-3xl" behavior="" direction="" scrollamount="15">
