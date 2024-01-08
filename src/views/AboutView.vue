@@ -43,18 +43,16 @@
           <p class="dark:text-gray-300 mt-8 leading-9">
           Kami akan selalu menjaga kesetabilan dan Kesempurnaan Data alam suatu Hal Project yang kami buat.kami juga bersedia untuk membantu kesetabilan dan Kesempurnaan dari Semua yang berkonstribusi kepada Kami
           </p>
-          <p class="dark:text-gray-300 mt-7 leading-8">
-            Rating Kami Untuk kalian Semua
-          </p>
-          <div class="flex items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-10 gap-10">
-            <a href="#" class="bg-blue-500 dark:text-gray-200 hover:bparent hover:border text-black hover:border-blue-400 text-center w-36 duration-100 p-4 rounded-full">Read More</a>
-            <div class="p-4 w-full sm:w-1/2 md:w-full dark:text-gray-200 lg:w-1/3 system_text_css">
-              <h3 class="text-5xl font-medium">78%</h3>
-              <p class="mt-3">Lorem, ipsum dolor.</p>
+          <p class="dark:text-gray-300 mt-7 leading-8">Rating Kami Untuk kalian Semua</p>
+          <div class="flex items-center flex-col sm:flex-row md:flex-col lg:flex-row mt-10">
+            <a href="#" class="bg-blue-500 dark:text-gray-200 hover:bparent hover:border text-black hover:border-blue-400 text-center w-36 duration-100 p-4 rounded-2xl hover:scale-95">Read More</a>
+            <div class="p-4 w-full text-center sm:w-1/2 md:w-full mt-10 xl:mt-0 dark:text-gray-200 lg:w-1/3 system_text_css">
+              <h3 class="text-4xl font-medium">78%</h3>
+              <p class="mt-3 text-sm">Lorem, ipsum dolor.</p>
             </div>
-            <div class="p-4 w-full sm:w-1/2 md:w-full lg:w-1/3 security_text_css">
-              <h3 class="text-5xl font-medium">80%</h3>
-              <p class="mt-3">Lorem ipsum dolor sit.</p>
+            <div class="p-4 w-full text-center sm:w-1/2 md:w-full lg:w-1/3 mb-10 xl:mb-0 security_text_css">
+              <h3 class="text-4xl font-medium">80%</h3>
+              <p class="mt-3 text-sm">Lorem ipsum dolor sit.</p>
             </div>
           </div>
         </div>
@@ -313,7 +311,7 @@
     <div class="viewFooter mt-40">
       <div class="ClassName flex space-x-3 justify-center items-center">
         <pcIco />
-        <h3 class="text-4xl font-semibold">Nusantara Developer</h3>
+        <h3 class="text-3xl xl:text-4xl font-semibold">Nusantara Developer</h3>
       </div>
       <p class="text-center desk_footer xl:w-1/3 mx-auto text-sm mt-5 leading-8 dark:text-gray-300">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
 

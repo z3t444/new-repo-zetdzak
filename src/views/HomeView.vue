@@ -4,7 +4,6 @@
   import "../assets/css/keyframes.css"
   import "../assets/css/responsive.css"
   import "../assets/css/shineText.css"
-  import "../assets/css/rotateImg.css"
   import "../views/style/HomeView.css"
 
   // //import Ico location
