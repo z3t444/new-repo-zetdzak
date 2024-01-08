@@ -25,10 +25,9 @@
         <h2 class="text-center shine font-bold text-4xl md:text-5xl lg:text-6xl lg:mt-52 dark:text-gray-100">Performance Us Nusantara Developer</h2>
       </div>
       <div class="prgh">
-        <p class="p-8 xl:w-2/4 mt-10 text-center mx-auto xl:text-lg xl:leading-10 leading-9 text-gray-700 dark:text-gray-300 lg:w-11/12">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi<span class="light_lamp">💡</span></p>
+        <p class="p-8 xl:w-2/4 mt-10 text-center mx-auto xl:text-lg xl:leading-10 leading-9 text-gray-700 dark:text-gray-300 lg:w-11/12">Nusantara Developer membawa obrolan dan kolaborasi ke tingkat berikutnya: standup harian, check-in tim, survei, pujian, bot pendamping terbaik untuk watercooler virtual Anda, motivasi <span class="light_lamp">💡</span></p>
       </div>
     </div>
-    <!-- // -->
 
     <section>
       <div class="flex hero_about flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row mt-40 gap-10" style="background-color: #1c1c2e">
@@ -62,7 +61,6 @@
     <section>
       <div class="ClassName mt-28 grid_github p-2 rounded-3xl">
         <div class="flex flex-wrap items-center justify-between">
-          <!-- Box Kedua dengan 4 Grid Box -->
           <div class="w-full md:w-1/2 p-4">
             <div class="p-1 rounded center_txt">
               <h4 class="text-3xl font-medium xl:w-1/1 leading-snug">Kami Berada di keempat Platfrom yang populer di Dunia ini. dan Kami Tersedia</h4>
@@ -314,7 +312,6 @@
         <h3 class="text-3xl xl:text-4xl font-semibold">Nusantara Developer</h3>
       </div>
       <p class="text-center desk_footer xl:w-1/3 mx-auto text-sm mt-5 leading-8 dark:text-gray-300">terimakasih telah berkunjung Di Website kami Nusantara Developer. Kami sangat senang Dengan Kehadiran Anda di website ini. semoga menginspirasikan Kalian Semua.</p>
-
       <footer class="md:flex md:items-center md:justify-between rounded-lg mt-16 p-4 md:p-6 xl:p-8">
         <ul class="flex group_cr items-center flex-wrap md:mb-0">
           <li><a href="#" class="text-sm font-normal dark:text-gray-200 hover:underline mr-4 md:mr-6">@copyright</a></li>
