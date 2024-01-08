@@ -30,7 +30,7 @@
     </div>
 
     <section>
-      <div class="flex hero_about flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row mt-40 gap-10" style="background-color: #1c1c2e">
+      <div class="flex hero_about flex-col justify-between xl:p-16 rounded-3xl items-center sm:flex-row mt-40 gap-10 bg-[#1c1c2e]">
         <div class="xl:p-4 w-full sm:w-1/2 rounded-2xl">
           <div class="for_import">
             <Graph />
