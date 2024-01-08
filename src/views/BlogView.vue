@@ -55,49 +55,49 @@
         <p class="dark:text-gray-300 xl:text-lg xl:w-1/3 xl:leading-9 mt-8">List of packages to extend your Refine project with UI frameworks, backend connectors and other powerful tools.</p>
       </div>
       <div class="flex flex-wrap justify-center mt-10 xl:mt-24">
-        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
         </div>
       </div>
       <div class="flex flex-wrap justify-center xl:mt-10">
-        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
         </div>
       </div>
       <div class="flex flex-wrap justify-center xl:mt-10">
-        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
         <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
         </div>
       </div>
       <div class="flex flex-wrap justify-center xl:mt-10">
-        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
         </div>
@@ -106,25 +106,25 @@
 
     <section class="mt-44">
       <div class="flex flex-wrap justify-center xl:mt-10">
-        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
         </div>
       </div>
       <div class="flex flex-wrap justify-center xl:mt-10">
-        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 1</p>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 lg:w-2/4 p-4">
-          <div class="h-32 sm:h-48 lg:h-58 rounded-lg shadow-md dark:border dark:border-gray-800">
+        <div class="w-full sm:w-1/2 lg:w-2/4 p-4 hover:scale-105 duration-100">
+          <div class="h-32 sm:h-48 lg:h-58 rounded-3xl shadow-md dark:border hover:bg-[#1c1c2e] dark:border-gray-800">
             <p class="text-white text-center">Box 2</p>
           </div>
         </div>
