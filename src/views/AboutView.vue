@@ -163,7 +163,7 @@
             </div>
           </div>
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
-            <img class="rounded-full asset_profile" src="../assets/img/assetpeople/syafiq.jpg" alt="" />
+            <img class="rounded-full asset_profile" src="../assets/img/assetpeople/fael.jpg" alt="" />
             <div class="text-center mt-5">
               <h3 class="text-2xl font-medium">Syafiq Alfarensqi</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
@@ -259,7 +259,7 @@
           </div>
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
             <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
-              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/fael.jpg" />
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/syafiq.jpg" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Martin Eden</h2>
                 <p class="text-gray-400">Software Engineer</p>

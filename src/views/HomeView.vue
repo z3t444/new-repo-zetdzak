@@ -142,19 +142,15 @@
       <GalleryGrid />
     </div>
     <div class="content_Desk md:w-1/2">
-      <h3 class="ClassName settings_text text-hero text-4xl mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From Indonesia</h3>
-      <p class="dark:text-gray-200 mt-7 xl:text-lg text-center xl:text-start leading-8 xl:leading-10 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif Untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
-      <div class="button_in_hero dark:text-gray-200 mt-10 flex justify-start items-center text-center space-x-5 p-5">
-        <a href="https://mhm-dzaky.vercel.app/" class="p-3 bg-blue-500 hover:bg-blue-600 text-white duration-100 w-28 rounded-full" target="_blank">Dzaky </a>
-        <a href="https://zeeta.my.id" class="p-3 bg-blue-500 hover:bg-blue-600 w-28 rounded-full text-white dark:hover:bg-blue-600 duration-100" target="_blank">Zeeta </a>
-      </div>
+      <h3 class="ClassName xl:w-2/2 xl:leading-snug text-hero xl:text-start xl:text-5xl text-3xl text-center leading-10 mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From Indonesia</h3>
+      <p class="dark:text-gray-200 mt-7 p-7 xl:p-0 xl:text-lg text-center xl:text-start leading-8 xl:leading-10 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif Untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
     </div>
   </div>
 
   <section>
     <div class="mt-36 introduction_card">
-      <div class="dm_sans">
-        <h2 class="text-4xl text_love font-medium dark:text-gray-200">Kemampuan kami<span class="love">❤️</span> <span class="font-bold">Nusantara Developer</span></h2>
+      <div class="dm_sans p-5 xl:p-0">
+        <h2 class="text-3xl xl:text-4xl text_love font-medium dark:text-gray-200">Kemampuan kami<span class="love">❤️</span> <span class="font-bold">Nusantara Developer</span></h2>
         <p class="mt-6 text_desk_love xl:w-1/4 xl:leading-9 dark:text-gray-200 xl:text-lg leading-8">kami Menampilkan Fitur Kami dalam Progres atau Project Monorepo.</p>
       </div>
     </div>
