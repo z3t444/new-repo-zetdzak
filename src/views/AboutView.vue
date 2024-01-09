@@ -165,7 +165,7 @@
           <div class="w-full sm:w-10 md:w-32 lg:w-40 xl:w-72 p-4 duration-100">
             <img class="rounded-full asset_profile" src="../assets/img/assetpeople/fael.jpg" alt="" />
             <div class="text-center mt-5">
-              <h3 class="text-2xl font-medium">Syafiq Alfarensqi</h3>
+              <h3 class="text-2xl font-medium">Rafael Destiano</h3>
               <p class="mt-3 text-sm dark:text-gray-400">Frontend Developer</p>
             </div>
           </div>
@@ -225,7 +225,7 @@
             <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/bima.jpg" />
               <div class="flex-grow">
-                <h2 class="dark:text-gray-200 title-font font-medium">Holden Caulfield</h2>
+                <h2 class="dark:text-gray-200 title-font font-medium">bima Nugroho</h2>
                 <p class="text-gray-400">UI Designer</p>
               </div>
             </div>
@@ -234,7 +234,7 @@
             <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/ronald.jpg" />
               <div class="flex-grow">
-                <h2 class="dark:text-gray-200 title-font font-medium">Henry Letham</h2>
+                <h2 class="dark:text-gray-200 title-font font-medium">Ronald Alexander</h2>
                 <p class="text-gray-400">CTO</p>
               </div>
             </div>
@@ -243,7 +243,7 @@
             <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/denis.jpg" />
               <div class="flex-grow">
-                <h2 class="dark:text-gray-200 title-font font-medium">Oskar Blinde</h2>
+                <h2 class="dark:text-gray-200 title-font font-medium">Denis Diananta</h2>
                 <p class="text-gray-400">Founder</p>
               </div>
             </div>
@@ -252,7 +252,7 @@
             <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/dirga.jpg" />
               <div class="flex-grow">
-                <h2 class="dark:text-gray-200 title-font font-medium">John Doe</h2>
+                <h2 class="dark:text-gray-200 title-font font-medium">Pratama Dirga</h2>
                 <p class="text-gray-400">DevOps</p>
               </div>
             </div>
@@ -261,7 +261,7 @@
             <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/syafiq.jpg" />
               <div class="flex-grow">
-                <h2 class="dark:text-gray-200 title-font font-medium">Martin Eden</h2>
+                <h2 class="dark:text-gray-200 title-font font-medium">Syafiq Alfarensqi</h2>
                 <p class="text-gray-400">Software Engineer</p>
               </div>
             </div>
@@ -270,7 +270,7 @@
             <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/galih.jpg" />
               <div class="flex-grow">
-                <h2 class="dark:text-gray-200 title-font font-medium">Boris Kitua</h2>
+                <h2 class="dark:text-gray-200 title-font font-medium">Galih Alfarel</h2>
                 <p class="text-gray-400">UX Researcher</p>
               </div>
             </div>
@@ -279,7 +279,7 @@
             <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/gantari.png" />
               <div class="flex-grow">
-                <h2 class="dark:text-gray-200 title-font font-medium">Atticus Finch</h2>
+                <h2 class="dark:text-gray-200 title-font font-medium">Gantari tjandra</h2>
                 <p class="text-gray-400">QA Engineer</p>
               </div>
             </div>
@@ -288,7 +288,7 @@
             <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/hafidz.jpg" />
               <div class="flex-grow">
-                <h2 class="dark:text-gray-200 title-font font-medium">Alper Kamu</h2>
+                <h2 class="dark:text-gray-200 title-font font-medium">Hafidz Aulia</h2>
                 <p class="text-gray-400">System</p>
               </div>
             </div>
@@ -296,6 +296,33 @@
           <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
             <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
               <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/ian.jpg" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">Rodrigo Monchi</h2>
+                <p class="text-gray-500">Product Manager</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/majid.jpg" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">Rodrigo Monchi</h2>
+                <p class="text-gray-500">Product Manager</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/rafa.jpeg" />
+              <div class="flex-grow">
+                <h2 class="dark:text-gray-200 title-font font-medium">Rodrigo Monchi</h2>
+                <p class="text-gray-500">Product Manager</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+            <div class="h-full flex items-center dark:border-gray-800 hover:bparent border p-4 rounded-2xl hover:scale-105 duration-100 bg-[#1c1c2e]">
+              <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="../assets/img/assetpeople/acham.png" />
               <div class="flex-grow">
                 <h2 class="dark:text-gray-200 title-font font-medium">Rodrigo Monchi</h2>
                 <p class="text-gray-500">Product Manager</p>

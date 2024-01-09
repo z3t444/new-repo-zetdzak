@@ -1,12 +1,12 @@
 <template>
   <div class="gallery-grid rounded-2xl hover:scale-105 duration-100  hover:border-blue-400 hover:shadow-lg hover:shadow-blue-600/20 dark:hover:border-blue-300/30">
-    <img src="https://assets.codepen.io/1506195/unsplash-1.jpg" alt="" />
-    <img src="https://assets.codepen.io/1506195/unsplash-7.jpg" alt="" />
-    <img src="https://assets.codepen.io/1506195/unsplash-3.jpg" alt="" />
-    <img src="../assets/img/akaksayangg.png" alt="" />
-    <img src="../assets/img/akaksayangg.png" alt="" />
-    <img src="../assets/img/akaksayangg.png" alt="" />
-    <img src="../assets/img/akaksayangg.png" alt="" />
+    <img src="../assets/img/assetpeople/Keyza.jpg" alt="" />
+    <img src="../assets/img/assetpeople/nanda.jpg" alt="" />
+    <img src="../assets/img/assetpeople/celis.jpg" alt="" />
+    <img src="../assets/img/assetpeople/fael.jpg" alt="" />
+    <img src="../assets/img/assetpeople/acham.png" alt="" />
+    <img src="../assets/img/assetpeople/denis.jpg" alt="" />
+    <img src="../assets/img/assetpeople/zet.jpg" alt="" />
   </div>
 </template>
 
