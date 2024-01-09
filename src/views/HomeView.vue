@@ -131,9 +131,10 @@
         <p class="text-sm mt-5">Lorem ipsum dolor sit amet, consectetur</p>
       </div>
     </div>
-    <div class="text-center mt-12">
-      <a class="dark:text-gray-200 p-4 rounded-3xl font-medium hover:bg-blue-800 duration-100 bg-blue-500" href="#">Join Community</a>
-      <a href="#"></a>
+    <div class="text-center mt-20">
+      <button class="p-4 bg-blue-500 hover:bg-blue-600 duration-100 hover:scale-95 hover:shadow-md hover:shadow-sky-400 rounded-full">
+        <a class="dark:text-gray-200 text-lg font-medium" href="#">join For Community</a>
+      </button>
     </div>
   </div>
 
@@ -142,8 +143,15 @@
       <GalleryGrid />
     </div>
     <div class="content_Desk md:w-1/2">
-      <h3 class="ClassName xl:w-2/2 xl:leading-snug text-hero xl:text-start xl:text-5xl text-3xl text-center leading-10 mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From Indonesia</h3>
+      <h3 class="ClassName xl:w-2/2 xl:leading-snug text-hero xl:text-start xl:text-5xl text-3xl text-center leading-10 mt-2 font-medium dark:text-gray-200"><span class="ClassText_friends font-bold text-red-600">Friends </span>Web Developer From School</h3>
       <p class="dark:text-gray-200 mt-7 p-7 xl:p-0 xl:text-lg text-center xl:text-start leading-8 xl:leading-10 text-gray-800">Terciptanya sebuah Comunitas Nusantara Developer ini berawal dari Kami yang bertemu di suatu Kompetisi Design Website. Kami berinisiatif Untuk menggabungkan personal/peserta Lomba agar kami dapat Belajar Bersama</p>
+      <div class="flex -space-x-4 xl:justify-start justify-center xl:mt-14">
+        <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700" src="../assets/img/assetpeople/dirga.jpg" />
+        <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700" src="../assets/img/assetpeople/gantari.png" />
+        <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700" src="../assets/img/assetpeople/josha.jpg" />
+        <img alt="" class="w-10 h-10 border rounded-full dark:bg-gray-500 dark:border-gray-700" src="../assets/img/assetpeople/hafidz.jpg" />
+        <span class="flex items-center justify-center w-12 h-12 font-semibold border rounded-full dark:bg-gray-900 dark:text-gray-100 dark:border-gray-700">+8</span>
+      </div>
     </div>
   </div>
 
@@ -206,7 +214,7 @@
       <div>
         <!-- //marquee icon frontend// -->
         <marquee class="marquee1 rounded-3xl" behavior="" direction="" scrollamount="15">
-          <div class="flex items-center space-x-6 dark:text-gray-200">
+          <div class="flex items-center gap-6 dark:text-gray-200">
             <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><htmlIco /></div>
             <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><VueIco /></div>
             <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><SvelteIco /></div>
@@ -225,7 +233,7 @@
 
         <!-- //marquee icon backend// -->
         <marquee class="marquee2 mt-5 rounded-3xl" behavior="" direction="right" scrollamount="10">
-          <div class="flex items-center space-x-6 dark:text-gray-200">
+          <div class="flex items-center gap-6 dark:text-gray-200">
             <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><nestjsIco /></div>
             <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><expressjsIco /></div>
             <div class="ico_framework border rounded-full border-gray-300 dark:bg-gray-900 dark:border-gray-900"><rubyIco /></div>
